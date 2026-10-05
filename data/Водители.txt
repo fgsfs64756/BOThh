@@ -1,0 +1,2077 @@
+ФИО;Телефон;Номер авто;Цвет;Модель;Город;Тариф
+Busakov Rakhim Abdullayevich;77089644877;250ВVВ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Bigaliyeva Zinnat Kadyrzhanovna;77784823023;912INZ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Koziyev Kayrat Tursunovich;77081097148;557НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kenzhebayev Baurzhan Alimbayevich;77075329127;104URА02;gray;Toyota Camry;Алматы;Econom
+Zabrudskiy Andrey Yuryevich;77078100858;204VМА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Uskembayev Alimzhan Altynbekovich;77015125113;778СGА02;gray;Toyota Camry;Алматы;Econom
+Karaytov Manat Zhomartovich;77718641039;А362САР;gray;Mercedes-Benz C-klasse;Алматы;Econom
+Nadirbayev Nursultan Duzelbayevich;77007004156;259МNА02;beige;LADA (ВАЗ) Largus;Алматы;Econom
+Chubayev Gabdulakhat Asylkhanovich;77477753608;058НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Volodartsev Vitaliy Sergeyevich;77756204226;891FQА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Ishimskiy Yevgeniy Vladimirovich;77089384019;849НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Luttsev Aleksandr Eduardovich;77052627289;682КQА02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Beysbay Nurken Nurgaliuly;77473773566;944КJА02;gray;Daewoo Nexia;Алматы;Econom
+Abuyev Yerlan Askarovich;77078402170;490МGА02;gray;Daewoo Nexia;Алматы;Econom
+Akertauov Kensat Tlebaldyyevich;77473509080;724GNZ05;blue;Daewoo Matiz;Алматы;Econom
+Nagayev Shaukat;77089419370;743ОРА02;gray;Nissan Almera;Алматы;Econom
+Toletayev Yermakhan Kosymkhanovich;77089852190;542GLА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Pak Aleksey Valeryevich;77071072767;733МQА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Talipov Rasulbek Damirovich;77077122299;835ВFВ02;white;Kia Morning;Алматы;Econom
+Toybayev Zhasulan Amanzhanovich;77024410322;625VРА05;yellow;Toyota Camry;Алматы;Econom
+Kulabukhov Yuriy Alekseyevich;77014290055;А656WЕО;gray;Nissan R'nessa;Алматы;Econom
+Safiulov Farid Shafikovich;77077733370;463NJА02;white;Renault Duster;Алматы;Econom
+Tyan Anatoliy Borisovich;77475645849;745НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Shaykhislamov Yermukhanbet Tursynbayevich;77018380777;192ВА02;white;SsangYong Kyron;Алматы;Econom
+Razakhunov Ruslan Georgiyevich;77075291215;329GJА02;gray;Lexus GS;Алматы;Econom
+Kuznetsov Dmitriy Valeryevich;77773934153;607ЕУВ02;black;Subaru Outback;Алматы;Econom
+Zhumashev Amantay Yestayevich;77768728922;799СQА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+??rmanbay S?ltan;77073089020;280ВСZ13;white;Daewoo Matiz;Алматы;Econom
+Volkov Vitaliy Stanislavovich;77070182032;901УУА02;white;Nissan Almera;Алматы;Econom
+Mamyrov Saypedin Shariddinovich;77002379150;779IJА02;white;LADA (ВАЗ) Kalina;Алматы;Econom
+Zhartybayev Marat Zhartybayuly;77081748082;А276FАР;black;Mitsubishi Lancer;Алматы;Econom
+Shintemirov Adil Abrakhmanovich;77757642006;795SWА16;black;Daewoo Nexia;Алматы;Econom
+Kaltayev Daulet Dzhaksylykovich;77478941977;732ООQ02;gray;Subaru Legacy;Алматы;Econom
+Begarystanov Polat Bakhytovich;77472949779;170КIА02;white;Skoda Octavia;Алматы;Econom
+Davydov Dmitriy Mikhaylovich;77059535125;752GUВ02;white;Toyota Corolla;Алматы;Econom
+Talbayev Berik Bolatkanovich;77053370606;856WJА01;gray;Kia Optima;Алматы;Econom
+Ashirbayev Adilbek Baydullayevich;77472723914;031UWА02;gray;Daewoo Nexia;Алматы;Econom
+Kaliyev Serik Urstembeklaich;77018949185;197DZВ05;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Satymbayev Saparbek Koshkarbayevich;77016133373;842СКВ02;gray;Daewoo Nexia;Алматы;Econom
+Popov Leonid Valeryevich;77767193193;627ZFZ05;gray;Chevrolet Aveo;Алматы;Econom
+Kan Vasiliy;77075375355;089ААZ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Usoltsev Sergey Aleksandrovich;77471393557;264QЕZ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Nizhnik Andrey Vladimirovich;77777281266;067SWА02;gray;LADA (ВАЗ) Largus;Алматы;Econom
+Tuyakbayev Bolat Seysenovich;77011111036;012SКА02;gray;Hyundai Solaris;Алматы;Econom
+Bekbosynov Azamat Yerzhanuly;77770712424;046НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Saydimov Rustam Zlavdunovich;77079890607;375ЕАВ02;white;Mitsubishi Challenger;Алматы;Econom
+Bayzulayev Marat Ondaganovich;77016647773;591НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kozhabergenov Kuat Bakytovich;77023333148;582НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Begimbekov Chingiz Kozhambekovich;77770875987;308ZUZ05;gray;Daewoo Nexia;Алматы;Econom
+Satimov Askar Bagdatovich;77774774344;998DВВ02;white;Opel Vectra;Алматы;Econom
+Bakiyev Rishat Nurmukhammetovich;77776279712;836GLВ02;white;Volkswagen Polo;Алматы;Econom
+Basitov Alimzhan Bavdunovich;77071638752;609НСВ02;white;Renault Logan;Алматы;Econom
+Sagandykov Damir Rakhatovich;77079610045;543LIА02;black;Toyota Avalon;Алматы;Econom
+Sharipov Murod Abdimannobugli;77479799191;658GРZ05;white;Daewoo Nexia;Алматы;Econom
+Abishev Marat Zhamalovich;77088440184;964IIА02;gray;Hyundai Accent;Алматы;Econom
+Yeraliyev Bakyt;77086739242;857SVА02;gray;Toyota Corolla;Алматы;Econom
+Kanatov Ardak Kalizhanovich;77007077272;521ССА05;gray;Toyota Camry;Алматы;Econom
+Shmanov Alisher Umirzakovich;77081521316;656FАZ05;gray;Toyota Camry;Алматы;Econom
+Bekmurzayev Yerbol Tashovich;77029101080;863ВGВ02;green;Mercedes-Benz E-klasse;Алматы;Econom
+Bakhtiarov Ildar Abdulkhaliyevich;77009922539;337NGА02;red;Lifan Solano;Алматы;Econom
+Baltabay Yerkebulan Yerzhanuly;77771278181;393DАZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Rakhymkhanov Galymbek Bazarbayuly;77086592123;839IJZ13;white;LADA (ВАЗ) 2114;Алматы;Econom
+Irkitbayev Nurbolat;77071326064;132JJА02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Gaitov Ruslan Yakubovich;77714886879;858GВZ05;gray;Hyundai Accent;Алматы;Econom
+Tuymebayev Nurzhan Abdikarimovich;77762873232;923АNZ13;red;Toyota Carina;Алматы;Econom
+Suyunov Shukhrat Basinbekovich;77078818805;762НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Duysenov Kuanysh Aspandiyarovich;77474463169;466DР02;white;Skoda Octavia;Алматы;Econom
+Mukhtadov Sabir;77085331146;774АDZ05;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Nuraskarov Meyrambek Muratbekuly;77071990009;054UВА01;white;Nissan Bluebird;Алматы;Econom
+S?ltanbek Aydar Vashirkhan?ly;77007917978;638ВМВ02;light blue;Renault Sandero;Алматы;Econom
+Nurbekov Sovet;77771622763;263FSВ02;gray;Toyota Yaris;Алматы;Econom
+Kulumbayev Bulatbek Myrzabekovich;77475503458;А861СUР;gray;Toyota Corolla;Алматы;Econom
+Xakimov Azim;77784747435;В045ТО102;beige;Daewoo Nexia;Алматы;Econom
+Konysbayev Kuanysh;77473722469;878QFZ05;gray;SsangYong Actyon;Алматы;Econom
+Abdirov Mirza Yeskendirovich;77759463397;728LНА02;gray;Toyota Corolla;Алматы;Econom
+Zhakypbekov Mukhit Nurlanovich;77055451798;065WСZ05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Tokhtakhunov Ruslan Abdraymovich;77024734658;950DМ02;white;Toyota Corolla;Алматы;Econom
+Tolybayev Bakhytzhan Amantayevich;77479811963;813QКZ05;green;Mazda 626;Алматы;Econom
+Bisekenov Tukhtar Abulkasimovich;77087122030;860ОIА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kharkin Ivan Yuryevich;77073765631;592FDВ02;gray;Subaru Outback;Алматы;Econom
+Shardarbek Sayat Rakhmetullauly;77086443683;679ULА02;gray;Volkswagen Polo;Алматы;Econom
+Krestyaninov Dmitriy Nikolayevich;77075995750;658DGА02;white;Mitsubishi Outlander;Алматы;Econom
+Bakhmat Vasiliy Stepanovich;77777987089;695ТВА02;gray;Hyundai Getz;Алматы;Econom
+Spatayev Aydyn Nurbakhytovich;77079650311;809SРА02;white;Hyundai Elantra;Алматы;Econom
+Serebrennikov Dmitriy Aleksandrovich;77087080001;А847ХSО;green;Subaru Legacy;Алматы;Econom
+Uysinbayev Zhubanysh Sultanovich;77476225873;209QУZ05;light blue;Volkswagen Golf;Алматы;Econom
+Vershinin Gennadiy Nikolayevich;77074407100;751ВРВ02;white;Nissan Almera;Алматы;Econom
+Adil Bauyrzhan Adiluly;77478400401;755QТZ;white;Daewoo Nexia;Алматы;Econom
+Kaibyldayev Arman Sergazyovich;77076938844;063QWZ05;gray;Hyundai Accent;Алматы;Econom
+Tokpayev Rinat Serikkaliyevich;77081760966;637СQА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Bukharbayev Kanat Yeskaliyevich;77476479395;897ЕGА02;white;LADA (ВАЗ) Vesta;Алматы;Econom
+Abdullayev Dzheykhun;77077526252;963НD02;gray;Mercedes-Benz C-klasse;Алматы;Econom
+Asmettulayev Khalfet Tolkynovich;77471208004;384NРВ05;gray;Daewoo Nexia;Алматы;Econom
+Makhanbetov Ulan Kaldanovich;77071244640;195LУА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Oralbayev Darkhan Askarovich;77024788661;674АVВ02;black;Ford Mondeo;Алматы;Econom
+Komutov Daniyar Mergaliyevich;77477594485;496UZА02;gray;Daewoo Matiz;Алматы;Econom
+Stepanov Akhmed Rustamovich;77474754096;658КLZ05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Nurlibayev Maksat Nurlanuly;77718299338;954НIА02;gray;ЗАЗ Chance;Алматы;Econom
+Lyapin Yevgeniy Nikolayevich;77471322894;398UМА02;red;LADA (ВАЗ) Priora;Алматы;Econom
+Bablyshov Yermakhanbet Tursynaliyevich;77059927629;981АСZ09;white;LADA (ВАЗ) Vesta;Алматы;Econom
+Abdramanov Serik Askarovich;77078366301;Н169КР154;white;Renault Logan;Алматы;Econom
+Yerzhigit Ruslan;77072352020;289JJА02;gray;Mitsubishi Lancer;Алматы;Econom
+Baykenov Aslan Zholdasbekovich;77471631259;976GRВ02;blue;Hyundai Creta;Алматы;Econom
+Talipov Rasul Abubakiruly;77779322323;665УRА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Isakhmetov Rustem Olzhasovich;77772482545;324FJА02;gray;Hyundai Avante;Алматы;Econom
+Temirov Rustanbek;77076312209;911FВВ02;beige;Toyota Corolla;Алматы;Econom
+Kuttykhodzhayev Anarbek Nasirovich;77781116665;825IРZ05;white;Nissan Altima;Алматы;Econom
+Zekhov Vasiliy Vyacheslavovich;77023450321;246ЕАВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dzhusipnazarov Daniyar Pernebayevich;77072780627;625IZZ05;black;Daewoo Nexia;Алматы;Econom
+Zhumabay Yerlan Gaukharbekuly;77004446475;306АЕZ05;gray;Kia Carens;Алматы;Econom
+Turdanov Zakir;77025689256;245ВQА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Kaldanov Nurlan Tyuleuberdiyevich;77471415278;429GОZ05;black;Volkswagen Polo;Алматы;Econom
+Namazbayev Nursultan Muratovich;77073033079;255ВD02;white;Daewoo Nexia;Алматы;Econom
+Asadov Murad Salman Ogly;77085329388;411УМА01;red;Volkswagen Passat;Алматы;Econom
+Algozhin Aydarbek;77076660590;686АХZ13;gray;LADA (ВАЗ) 2115;Алматы;Econom
+Akkoziyev Daniyar Maripzhanovich;77078978597;689WХZ05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Shakenov Berikbol Makhmudovich;77021768882;522ААВ02;white;Hyundai Avante;Алматы;Econom
+Rakhmatilda Azamat Zhuanyshbekuly;77088454293;357АМZ08;white;LADA (ВАЗ) Priora;Алматы;Econom
+Rakimbayev Baurzhan Urazgaliyevich;77025909737;214ЕSВ05;white;LADA (ВАЗ) 2114;Алматы;Econom
+Darkenbayev Daniyar Bakbergenovich;77777052575;617НВВ02;white;Nissan Almera;Алматы;Econom
+Gritsayenko Aleksand Aleksandrovich Aleksandr;77475865471;455А0Z13;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Yelubayev Ramazan Sabyrovich;77770168282;КZ639FFВ02;white;Daewoo Nexia;Алматы;Econom
+Ashimov Bolat Turganbekovich;77479909078;F632СРN;blue;Volkswagen Golf;Алматы;Econom
+Ibragimov Nail Niyazovich;77758983390;893УУА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Khozhamuratov Kayrat Turganbayevich;77002000152;877VМА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Ashimbayev Berik Seritbekovich;77473078677;746НFВ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Tekebayev Yesen;77078080593;447GJА02;gray;Daewoo Nexia;Алматы;Econom
+Satyr Oleg Anatolyevich;77081443055;А571NАN;gray;Hyundai Sonata;Алматы;Econom
+Burkitbayev Askar Zhanbayevich;77077533529;238МХА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Zikiryarov Yusupzhan Toktarzhanovich;77471338798;908SНА05;white;Renault Logan;Алматы;Econom
+Nurgaliyev Dauren Mukashevich;77477358644;096NНА05;blue;Nissan Cefiro;Алматы;Econom
+Aleksandrov Vladimir Andreyevich;77072100184;363НIА02;blue;Audi A6;Алматы;Econom
+Zhangaziyev Beybit Serikkanovich;77000225015;В450FSО;black;LADA (ВАЗ) Priora;Алматы;Econom
+Uazibekov Azamat Shulbayevich;77078776695;564FZА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Imirbakiyev Dolkun;77772996914;664ВVВ02;white;Kia Rio;Алматы;Econom
+Iklasov Kanat Mukhtarovich;77476226954;048VОА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Nagymet Ualikha Mazhituly;77477727090;327НСВ02;red;Mitsubishi Space Runner;Алматы;Econom
+Gergenreder Andrey Arturovich;77073581001;671ЕZА02;white;LADA (ВАЗ) Largus;Алматы;Econom
+Turdakyn Zhantore Turdakhmetuly;77077650204;056ЕСВ02;light blue;Hyundai Accent;Алматы;Econom
+Kozhamuratov Dinmukhamed Talgatovich;77752520825;994МQА02;black;Hyundai Accent;Алматы;Econom
+Ospanov Renat Kemelbekovich;77477816151;626VUА02;white;Daewoo Gentra;Алматы;Econom
+Nurlibayev Uranbek Zhumankulovich;77085057200;345РАА05;black;Chevrolet Lacetti;Алматы;Econom
+Dyusembayev Artur Leonidovich;77763333112;829GКВ02;white;Toyota Camry;Алматы;Econom
+Anuarbekov Adilbek Rakimzhanovich;77016900789;В060ОВN;white;Mitsubishi Galant;Алматы;Econom
+Imirov Kamal Kurvanzhanovich;77075440947;338КFВ05;gray;Toyota Aristo;Алматы;Econom
+Rysbayev Mukagali;77758581010;786АУА08;beige;Daewoo Nexia;Алматы;Econom
+Menliyev Aybek Reimbayevich;77005651234;608МFВ05;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Aktymbayev Maksat;77071774077;599QОZ05;white;Toyota Carina;Алматы;Econom
+Isayev Abylaykhan Abylkhaziyevich;77756800007;955IGZ13;gray;Kia Rio;Алматы;Econom
+Ibrayev Agzam;77753696174;110ВТА02;gray;Hyundai Trajet;Алматы;Econom
+Bisenov Zhandos Maratovich;77075054255;306МТА05;black;Daewoo Gentra;Алматы;Econom
+Abdimanapov Baurzhan Khalymzhanuly;77079046359;643АЕZ08;gray;Mercedes-Benz C-klasse;Алматы;Econom
+Karimov Mamet Mugrynovich;77016555068;В125NРN;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Shumeyko Viktor Vladimirovich;77085670128;670DР02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Yerlan?ly Olzhas;77077535955;342КGА02;green;Mazda 626;Алматы;Econom
+Guseynov Elchin Mazakhirovich;77473335155;031КАА05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dusmailov Talgat Dusmailov Valikhanovich;77084822034;В608УЕМ;gray;Toyota Camry;Алматы;Econom
+Dzhumadilov Valikhan Serikbayevich;77081489077;278QОZ05;white;Daewoo Nexia;Алматы;Econom
+Khozhamberdiyev Nariman;77776853253;446DМ02;blue;Honda CR-V;Алматы;Econom
+Tylekesh Bagdat Abubakiruly;77788828693;155АUZ13;green;Audi 100;Алматы;Econom
+Usen Zharas;77478263304;230КLZ05;gray;Hyundai Accent;Алматы;Econom
+Gabbasov Nurbek Myrzabekovich;77086765354;905QUZ05;white;Kia Optima;Алматы;Econom
+Bilalov Nurkanat Manapovich;77078493191;506СDВ02;white;Daewoo Nexia;Алматы;Econom
+Suleymenov Beks?ltan ?anatbek?ly;77077666834;061МQА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Zhanatileov Nurlan Bimakhanovich;77479757620;624IGА02;gray;Chrysler Stratus;Алматы;Econom
+Zhusanbayev Altynbek Aytbayevich;77471116745;220DСВ02;black;Kia Magentis;Алматы;Econom
+Mironov Yuriy Sergeyevich;77073694049;396ВLZ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Khasiyarov Rustam Tlebaldyyevich;77778069626;А627ЕКР;gray;Honda Inspire;Алматы;Econom
+Yelubayev Yesil Yediluly;77071212772;633QQО02;white;Daewoo Nexia;Алматы;Econom
+Kambarov Ali Kambarovich;77751099499;343GЕZ05;white;Hyundai Accent;Алматы;Econom
+Slamdzhanov Bauyrzhan Mukhamedzhanuly;77781250505;649WLZ05;gray;Toyota Corolla;Алматы;Econom
+Imbatiyev Abdykeim Maksutovich;77077679905;877КIА02;gray;Volkswagen Golf;Алматы;Econom
+Besbayev Abylay Yermekbayevich;77071480707;039ZDА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Seytbayev Murat Isabekovich;77012211834;793НСВ02;white;Daewoo Nexia;Алматы;Econom
+Bakshi Vladimir;77472213788;727ВFZ02;white;Hyundai Accent;Алматы;Econom
+Pisklov Mikhail Vladimirovich;77760048833;166КGА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Kopylov Aleksey Anatolyevich;77079888324;124VSА02;yellow;Hyundai Sonata;Алматы;Econom
+Belyayev Aleksandr Petrovich;77473006437;496IGА02;black;Nissan Almera;Алматы;Econom
+Zhumanov Daniyar Kayratovich;77784643191;292QОZ05;blue;Hyundai Accent;Алматы;Econom
+Pirmagambet Rustem;77089232575;964ВNZ02;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Sadykov Khasan;77479773880;019DUВ02;gray;Ravon R4;Алматы;Econom
+Orynbayev Ruslan Maksetovich;77021008576;481GЕZ05;black;LADA (ВАЗ) 2115;Алматы;Econom
+Zheksekov Kanat Bekuly;77073197819;344СWВ02;gray;Nissan Almera;Алматы;Econom
+Agayev Zakhidi Magamodevich;77474966065;042НВА02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Krebs Anzhelika;77002662948;968DJА02;white;Kia Rio;Алматы;Econom
+Zholshibekov Zhenis Kadirkhanovich;77075091974;207СR02;white;Hyundai Solaris;Алматы;Econom
+Dauren Duman Dauiruly;77015745666;747МХА05;white;Toyota Camry;Алматы;Econom
+Akimzhanov Nurkanat Kenesovich;77472456453;М437КVN;red;Toyota Prius;Алматы;Econom
+Bayseitov Samat Serikovich;77073221978;566FDВ05;red;Audi 80;Алматы;Econom
+Shaykhiyev Yadikar Kamalovich;77089258754;074ТВА02;gray;Volkswagen Polo;Алматы;Econom
+Sariyev Mendibay Baktigaliyevich;77081821162;955ЕWВ02;gray;Mitsubishi Lancer;Алматы;Econom
+Akhmetov Marlen Altayyevich;77771776407;753FVВ02;gray;Volkswagen Passat;Алматы;Econom
+Seydashimov Nurzhan Gazizovich;77471596900;424NЕА08;blue;Volkswagen Golf;Алматы;Econom
+Masimov Yerkin Radikovich;77474025560;591ЕТВ02;red;Mitsubishi Lancer;Алматы;Econom
+Dzhapayev Alem Yeseneyyevich;77477828477;А400ХУ154;gray;Toyota Camry;Алматы;Econom
+Kashcheyev Andrey Valeryevich;77078409130;097QМZ05;blue;Hyundai Solaris;Алматы;Econom
+Bukarev Oleg Yevgenyevich;77017400675;066ZНZ05;gray;Nissan Almera;Алматы;Econom
+Iskakov Samat Kuanyshbekovich;77070242461;959АUZ08;red;Volkswagen Passat;Алматы;Econom
+Ryskulov Taskyn;77479715777;245ОКА05;gray;Daewoo Nexia;Алматы;Econom
+Kudyarov Dindar Amiraliyevich;77071947919;361НFВ002;blue;Volkswagen Passat;Алматы;Econom
+Abzal Dastan M?rat?ly;77471140426;103FUВ02;yellow;Daewoo Matiz;Алматы;Econom
+Arkenov Zhe?іs?ly Shy??ys;77757067624;595IVZ05;black;Hyundai Elantra;Алматы;Econom
+Kozhabayev Mels Malikovich;77086932268;Н054КР154;white;Renault Logan;Алматы;Econom
+Khadzhimukhanov Yerkezhan Erkenovich;77081775550;698АВZ13;green;Toyota Carina;Алматы;Econom
+Sargeld Shakrat Tursyngaliuly;77013623604;672LНВ05;gray;Daewoo Nexia;Алматы;Econom
+Abzeytov Altynbek Abdumalikovich;77471664307;118GGА02;beige;Toyota Camry;Алматы;Econom
+Galiyev Samat Kadyrkhanovich;77074188871;А380ЕLР;white;Toyota Windom;Алматы;Econom
+Smagulov Murat Tursyngaziyevich;77785657927;170АFZ05;white;Mitsubishi Montero Sport;Алматы;Econom
+Kozhin Mikhail Lvovich;77051700010;132НDВ02;red;Mitsubishi Galant;Алматы;Econom
+Azhiyev Yerbol Abdurakhmanovich;77475679090;907ВGА17;gray;Toyota Camry;Алматы;Econom
+Musakhanov Oralbek Kalbutauly;77759726079;974АZZ13;white;Daewoo Nexia;Алматы;Econom
+Smanov Talgat Torekhanovich;77086301753;640ZТZ05;green;Subaru Legacy;Алматы;Econom
+Zhanibekov Galymzhan Kudiyaruly;77474347809;714IРZ05;gray;Toyota Camry;Алматы;Econom
+Omarbekov Gaziz Mirsaidovich;77076656536;630DР02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Gadzhiyev Iurfag;77075000340;163IQА02;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Dosmaganbetov Abdusamad;77081669727;220ZIZ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Statov Vladimir Yuryevich;77072228321;785FТВ02;gray;Hyundai Solaris;Алматы;Econom
+Beysenbiyev Aset Serikovich;77778320082;131FLВ02;gray;ЗАЗ Chance;Алматы;Econom
+Musabayev Altay Orazovich;77075291360;375FRВ02;green;Audi A6;Алматы;Econom
+Keosidi Vitaliy Viktorovich;77078165278;F361706;blue;Renault Sandero;Алматы;Econom
+Izbasaruly Zhandos;77770208134;867SОА05;blue;Nissan Almera;Алматы;Econom
+Shagayev Rustem Yerkinovich;77479499094;906ВУВ02;white;Hyundai Accent;Алматы;Econom
+Ibadillayev Yerzhan Tursunkhanovich;77477056344;133QGА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Chokan Chingiz;77072576588;473КGА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Shapirko Aleksandr Viktorovich;77087271373;897IМZ05;red;Volkswagen Polo;Алматы;Econom
+Lyskov Dmitriy Aleksandrovich;77087526338;508ЕZА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Iliyev Musrat Talyatovich;77071357990;В743МSN;blue;Mazda Cronos;Алматы;Econom
+Grebenkin Roman Vasilyevich;77772220800;175ААG01;gray;Lexus GS;Алматы;Econom
+Ushbayev Didar Askarovich;77477951741;820IGА02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Gasanov Ruslan Kulmamedovich;77071935877;450LУВ05;black;Daewoo Nexia;Алматы;Econom
+Shukirbayev Ruslan Kulynbayevich;77476381479;685FRА01;gray;Hyundai Accent;Алматы;Econom
+Borisov Sergey Aleksandrovich;77086044256;511ISZ05;white;Mazda 6;Алматы;Econom
+Alimova Saiyda Mukhtadiyevna;77072379070;294ОАZ08;gray;Toyota Corolla;Алматы;Econom
+Polyakov Vladimir Vasilyevich;77077527275;237КХА02;white;Toyota Matrix;Алматы;Econom
+Idrisov Berikbol Kabidenovich;77471461870;384QВZ05;gray;Toyota Camry;Алматы;Econom
+Kanapyanov Maksat Yedilovich;77477912711;618ВQА02;gray;Toyota Corolla;Алматы;Econom
+Shingysov Nurlan Muratovich;77717469970;375WVZ;red;Mitsubishi Galant;Алматы;Econom
+Abyt ?uanysh Oraz?ly;77087202725;931LGВ13;white;Ravon Nexia R3;Алматы;Econom
+Toktybayev Malik Bauyrzhanuly;77018228182;551АVZ08;beige;ЗАЗ Vida;Алматы;Econom
+Bulanbayev Yerzhan Bakhtygulovich;77071230777;967ВСВ02;black;Dodge Caliber;Алматы;Econom
+Bulgakov Daniyar Bauyrzhanovich;77074872294;344QZZ05;red;Toyota Cavalier;Алматы;Econom
+Zhumadil Manat Muratuly;77476213407;834АХ05;white;Ravon Nexia R3;Алматы;Econom
+Kasaynov Darkhan;77021689001;886АКВ02;black;Toyota Caldina;Алматы;Econom
+Tazhmukhanov Kadyrbek Dzhangaliyevich;77023392117;937СВ02;green;Toyota Camry;Алматы;Econom
+Khaldarov Adilet Bekmaralevich;77088457689;977НDВ02;white;Chevrolet Aveo;Алматы;Econom
+Karipzhan Magzhan;77071828262;116СQА02;black;Subaru Legacy;Алматы;Econom
+Goncharov Andrey Ivanovich;77470443415;593JGА02;gray;Toyota Camry;Алматы;Econom
+Baysholakov Darkhan Bagdatovich;77783120289;225FРВ02;black;Volkswagen Golf;Алматы;Econom
+Bobrovskiy Roman Vladislavovich;77073540646;166GОZ05;black;Volkswagen Polo;Алматы;Econom
+Dosekeyeva Asem Serikovna;77021943555;687ВСВ02;white;LADA (ВАЗ) 2114;Алматы;Econom
+Dosayev Kanat Zhabparovich;77476442363;954ОУА02;gray;Toyota Caldina;Алматы;Econom
+Ivanov Trofim Sergeyevich;77772446549;359НЕВ02;gray;Daewoo Nexia;Алматы;Econom
+Belgoziyev Meirzhan Yegenberdyyevich;77087675544;169SВZ05;white;Chevrolet Aveo;Алматы;Econom
+Arganatov Galym Bolyskhanuly;77057757926;815НХО;blue;Mazda Protege;Алматы;Econom
+Bozshin Darkhan Bisenbayuly;77476057905;548GКZ05;black;Daewoo Matiz;Алматы;Econom
+?sіlbek Seydazіm Zhanat?ly;77058159017;186СМА08;gray;LADA (ВАЗ) 2110;Алматы;Econom
+Kulayev Yakhiya Ismailovich;77083930016;502ААВ02;gray;Daewoo Nexia;Алматы;Econom
+Shakhantayev Almas Amantay?ly;77472000291;614GLZ05;gray;Toyota Vista;Алматы;Econom
+Azizov Rinat Oblyakimovich;77078616559;586МWА02;gray;Kia Rio;Алматы;Econom
+Aslanov Tofik Dzhalil Ogly;77087467889;183АVА02;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Iminov Kayem Urkashevich;77012688616;796ВFS05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Ruzbayev Bogdan Feliksovich;77776669302;F220005;beige;BMW 5er;Алматы;Econom
+Sidikov Artem Arizzhanovich;77023563573;594IJА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Barakhoyev Khamid Dzyautdinovich;77072777025;598QIА02;blue;Daewoo Nexia;Алматы;Econom
+Mondybayev Yerkebulan Umurzakovich;77479057186;843NGА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Sakovich Yuriy Nikolayevich;77081036314;756АNВ02;gray;Honda CR-V;Алматы;Econom
+Dairbayev Dilshat Yernatovich;77076979494;261МРА05;red;Toyota Carina;Алматы;Econom
+Polatov Janibek Kobeisiuly;77029020909;164SNА05;gray;Nissan Primera;Алматы;Econom
+Bekmuratova Rezeda Denisovna;77782290833;285GWВ02;black;Chevrolet Cobalt;Алматы;Econom
+Chalov Tolegen;77085442040;764UЕZ05;white;Chevrolet Cobalt;Алматы;Econom
+Madaminov Maksim Tulanbayevich;77011115368;А151ZNN;black;Toyota Land Cruiser Prado;Алматы;Econom
+Mazhirayev Talgat Mukhtarovich;77071487114;022NNВ05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Bereshev Talgat Irgebayevich;77086309490;Н051ЕХ154;white;Renault Logan;Алматы;Econom
+Beysebayev Aydos;77051436830;497GLВ02;gray;ЗАЗ Chance;Алматы;Econom
+Asylbekov Alibek Turarbekovich;77081046482;884WVА02;gray;Daewoo Matiz;Алматы;Econom
+Rakhimzhanov Radzhan Kairbekovich;77072416031;103QFZ05;black;Volkswagen Polo;Алматы;Econom
+Tuganbayev Adlet Yeszhanovich;77761100851;061НАZ02;black;Nissan Serena;Алматы;Econom
+Pinneker Eduard Andreyevich;77770212814;775Q0Q02;gray;Kia Rio;Алматы;Econom
+Kruzhalskiy Gennadiy;77473868606;122SВZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Korlusbayev Yerdauletgali Zhumabekuly;77014008003;530РSА02;white;Suzuki XL7;Алматы;Econom
+Tulkibay Nursultan;77079300055;08КG428АСУ;gray;Mazda 6;Алматы;Econom
+Isudullayev Alisher Ibragimzhanovich;77078484220;035НСВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Bimenova Gulmira Ayazovna;77014555894;А998DАР;gray;Toyota Corolla;Алматы;Econom
+Kaksalbayev Kuat Zholzhaksynovich;77760557979;688UUА05;gray;Renault Logan;Алматы;Econom
+Kopbayev Kayrat Zhasanovich;77075289285;407GОV02;gray;Mazda 6;Алматы;Econom
+Satybaldiyev Aydarali;77054144565;097ЕVВ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Derbisaliyeva Kamshat Ozhrayevna;77006923384;574QСZ05;black;LADA (ВАЗ) Granta;Алматы;Econom
+Koperbayev Rakhmetzhan Tlektesovich;77017797031;8859ZАА02;gray;Mitsubishi Outlander;Алматы;Econom
+Sarsenbayev Kazbek Pernebekovich;77079327574;258ВJА02;gray;Skoda Octavia;Алматы;Econom
+Oryngaliyev Syrym Abayuly;77073339606;778ВХВ02;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Musayf Serikbergen;77479414217;311GZZ05;gray;Toyota Corolla;Алматы;Econom
+Temirbayev Ayat;77075315903;174ОZА05;white;Mazda 323;Алматы;Econom
+Katuntsev Rostislav Stanislavovich;77473729586;573ЕСВ02;gray;Lexus RX;Алматы;Econom
+Ryskulov Zhager Nurbayevich;77079411445;169RNА02;white;Hyundai Accent;Алматы;Econom
+Abdimanapov Mars Bakytovich;77073937030;207LАZ01;black;LADA (ВАЗ) Kalina;Алматы;Econom
+Userbayev Yeralkhan Bokeykhanovich;77750723390;962СVВ05;gray;Volkswagen Polo;Алматы;Econom
+Aliyev Shakir Vagifovich;77076586810;719АFZ08;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Mukamanov Nurbol Arykbayevich;77751321027;419FZА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Uzakov Myrzabek Yuldashbekovich;77014644163;283ХVА02;blue;Chevrolet Aveo;Алматы;Econom
+Bekbolatov Yerbolsyn Bekbolatuly;77006922704;352КZZ05;black;Chevrolet Cobalt;Алматы;Econom
+Kerimkulov Azamat;77081000143;614СGА02;white;Nissan Terrano;Алматы;Econom
+Kozhakhmetov Bazarbek Zhanarbekovich;77079096200;229LFВ05;white;Toyota Chaser;Алматы;Econom
+Kuatov Beksultan Mirambekuly;77002513589;В049S0N;black;Honda Odyssey;Алматы;Econom
+Tusupbekov Saken;77475634386;809ОDА02;white;Hyundai Accent;Алматы;Econom
+Baymollin Alimzhan Serikovich;77470424022;524ВQА02;white;Kia Rio;Алматы;Econom
+Omarov Azamat Berkinbayevich;77006886212;909КЕZ05;gray;Ravon R4;Алматы;Econom
+Dikanchiyev Zhanat Abishevich;77772111711;047ZРZ05;beige;Dodge Stratus;Алматы;Econom
+Musayev Tural;77078328384;692QОО02;red;Volkswagen Golf;Алматы;Econom
+Panzheyev Bakytzhan Dautbekuly;77082399922;203GFZ05;white;Daewoo Matiz;Алматы;Econom
+Akylbayev Abzal Zhomartuly;77757029443;754QQО02;green;Mazda 626;Алматы;Econom
+Nogaybayev Nartay Nurgaliyevich;77013155157;266QТZ05;gray;Daewoo Nexia;Алматы;Econom
+Ishangaliyev Olzhasbek Zeynatdinovich;77477024720;684ZТZ05;gray;Daewoo Nexia;Алматы;Econom
+Tusupbekov Akhat Kazhmukhanovich;77017843813;982LВА02;gray;Nissan Almera;Алматы;Econom
+Mamutov Gafur Abatovich;77089531868;КZ612АСВ02;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Rakymzhan Nurlan Tursynuly;77073524927;276СDА02;green;Honda CR-V;Алматы;Econom
+Tasbolatov Azamat Muratuly;77021115599;443АWZ13;white;Peugeot 301;Алматы;Econom
+Kosbayev Zhanibek Asylbekovich;77016979090;667ВРА11;gray;Subaru Outback;Алматы;Econom
+Mukashev Yerlan Serikovich;77010577767;626NGА02;black;LADA (ВАЗ) Kalina;Алматы;Econom
+Keldenov Galym Kadirbayevich;77078918670;445DВВ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Batyrbayev Bagdat;77001717525;В030WFN;gray;Mitsubishi Galant;Алматы;Econom
+An Dmitriy Sergeyevich;77771227981;В390FFО;white;Toyota Aristo;Алматы;Econom
+Sapargaliyev Sanat Zhumabayevich;77475732909;690GАZ05;green;Mitsubishi Galant;Алматы;Econom
+Kurmangaliyev Galym Aristanovich;77022520843;320FDВ02;white;Daewoo Nexia;Алматы;Econom
+Kuldybayev Alimzhan Nurtayevich;77478469415;621QХZ05;gray;Daewoo Nexia;Алматы;Econom
+Kismetov Shamil Kamilovich;77478033608;404ВLВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Zholynbetov Nurbek Batyrbekuly;77070185569;142ВVВ02;beige;Renault Logan;Алматы;Econom
+Tasilov Alimzhan Isayevich;77011219634;850JIА02;gray;Nissan Sentra;Алматы;Econom
+Zakharov Yevgeniy Olegovich;77052220412;360ЕRВ02;white;Nissan Cefiro;Алматы;Econom
+Ivanov Maksim Alekseyevich;77474091216;015ХХА02;blue;Mitsubishi RVR;Алматы;Econom
+Iskakov Tokesh Bazarbekovich;77784321961;189ВА05;black;LADA (ВАЗ) Kalina;Алматы;Econom
+Igelikov Adlet Muratovich;77078604559;897IСZ05;beige;Nissan Almera;Алматы;Econom
+Umirkulov Azat Ashimbayevich;77785389623;467QNZ05;gray;Toyota Corolla;Алматы;Econom
+Legeyda Denis Vladislavovich;77471379271;069КIА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Nrgaliyev Rasul Sarymbayevich;77085793608;025FХВ02;blue;Toyota Caldina;Алматы;Econom
+Maykhiyev Zhasulan Bayyegizovich;77071853235;240ВU02;white;Volkswagen Polo;Алматы;Econom
+Orynbayev Dias Kelgenbayuly;77072170619;359UТZ05;gray;Mitsubishi Carisma;Алматы;Econom
+Nalzhupayev Abdulla Yertayevich;77759683358;304РЕА05;green;Toyota Camry;Алматы;Econom
+Sankabayev Aydos Nursalimovich;77083385623;057ВОВ02;gray;Hyundai Getz;Алматы;Econom
+Iskanderov Damir Saparbayevich;77089537454;729LQА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Ibraimov Serik;77782924118;840DIА;white;Daewoo Nexia;Алматы;Econom
+Galiyev Timur Kaydarovich;77081530238;631ОVА02;gray;Toyota Avensis;Алматы;Econom
+Karabalin Arman Baltabayevich;77025163148;892DGА02;red;Mitsubishi Lancer Evolution;Алматы;Econom
+Doskanov Zaur Isakovich;77478570799;617ZLА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Almadiyev Dauren Askhatovich;77019916011;032FВВ02;gray;Kia Cerato;Алматы;Econom
+Bayuratov Bekzat Maratovich;77077004434;328МВD05;light blue;Nissan Primera;Алматы;Econom
+Aytzhanov Amanzhol;77087582885;371LУВ05;gray;Volkswagen Passat;Алматы;Econom
+Mirzabekov Amangeldi Anvarovich;77772039742;334АВZ17;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Igizbayev Mukagali Kurakbayevich;77771243766;691FZВ02;gray;Nissan Juke;Алматы;Econom
+Kanalin Rufat;77074805901;577ZХZ05;gray;Toyota Camry;Алматы;Econom
+Kudabayev Serik Yerezhepovich;77075840210;886GWZ05;red;Mazda 626;Алматы;Econom
+Dameshev Ali Mynzhasarovich;77775259890;297ZУА05;blue;Nissan Maxima;Алматы;Econom
+Yerbes Aybek Tolendyuly;77773881544;242ZVА02;gray;Toyota Avensis;Алматы;Econom
+Sabyrbekuly Mukhit;77071234323;925FВА02;gray;Hyundai i30;Алматы;Econom
+Sarinov Kanat Maratovich;77078865951;675ССВ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Tkalenko Denis Timofeyevich;77776979605;А330СUО;white;Mazda Tribute;Алматы;Econom
+Khoshniyazov Renat Muratovich;77085802994;610КМА05;black;LADA (ВАЗ) Priora;Алматы;Econom
+Zhakyshev Arman Koyshibekovich;77002220076;317ТRА05;gray;Volkswagen Polo;Алматы;Econom
+Yermetov Marifzhan;77074163596;В6831АJ;blue;Subaru Legacy;Алматы;Econom
+Almukhanov Azamat;77473289246;561GZВ02;gray;Daewoo Nexia;Алматы;Econom
+Chzhan-TSzy-Khan Valeriy Viktorovich;77478589281;701DSВ02;white;LADA (ВАЗ) Largus;Алматы;Econom
+Sartbayev Rasul Zholdybekovich;77479483964;У750РХ102;blue;Daewoo Nexia;Алматы;Econom
+Tezekbayev Arman Orazkhanovich;77081087415;944МGА02;gray;Geely Emgrand EC7;Алматы;Econom
+Strygin Viktor Viktorovich;77053017335;А642ВUР;gray;LADA (ВАЗ) 2115;Алматы;Econom
+Lyakhov Ilya Nikolayevich;77772233122;548DХВ;gray;Volkswagen Bora;Алматы;Econom
+Tagayev Bakhtiyar Kaimbayyemevich;77071094929;985АDА17;gray;Daewoo Nexia;Алматы;Econom
+Koshimbayev Farid Talifovich;77472959116;514QАZ05;white;Volkswagen Polo;Алматы;Econom
+Turankulov Bekzhan Shalkharovich;77077133731;485ZVZ05;beige;Toyota Camry;Алматы;Econom
+Musayev Maksat Nurzhumayevich;77714932726;847GWВ02;beige;Mazda Tribute;Алматы;Econom
+Izimov Rishat Rozakhunovich;77057060202;204LGА02;black;Honda CR-V;Алматы;Econom
+Dzhirimbayev Damir Bakytbekovich;77772202205;107ВVВ02;gray;Hyundai Elantra;Алматы;Econom
+Bekov Kayyrzhan;77712812323;983LУА05;yellow;Daewoo Matiz;Алматы;Econom
+Askarova Asem Osanovna;77783670681;211СМА05;blue;Kia Rio;Алматы;Econom
+Nauryzbayev Zhasulan Yerkinuly;77474519463;F602502;white;LADA (ВАЗ) Granta;Алматы;Econom
+Yermekbay Gani Bakdauletuly;77017717806;950КWА02;gray;Daewoo Gentra;Алматы;Econom
+Pulatov Timur Sansyzbayevich;77762248970;925DJА02;gray;Toyota Camry;Алматы;Econom
+Khasenov Aslan Yesilovich;77759844227;898FТВ02;red;Hyundai Accent;Алматы;Econom
+Zholdasbayev Samat Medgatovich;77072255191;679DХВ02;red;LADA (ВАЗ) Granta;Алматы;Econom
+Bayzhanova Marzhan Baurzhanovna;77057275678;557МVА02;gray;Kia Rio;Алматы;Econom
+Ganbarov Eldar Magerram Ogly;77768887733;790КDZ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kokhl Yunes Mokhamad;77751331016;518УV02;black;Renault Logan;Алматы;Econom
+Abulkayrov Timur Amangeldiyevich;77079804809;480НFВ02;gray;Volkswagen Polo;Алматы;Econom
+Seytkazin Marat Karimovich;77775814599;F741НРN;gray;Mazda Cronos;Алматы;Econom
+Sopakhunov Rustam Mamutovich;77072170170;947DUВ02;gray;Toyota Ipsum;Алматы;Econom
+Marmysh Aleksandr Georgiyevich;77779150104;063SУА02;black;Volkswagen Polo;Алматы;Econom
+Kaliyev Ulugbek Muratbayevich;77075411318;391АТZ08;black;Daewoo Nexia;Алматы;Econom
+Yerezhepov Zhanbolat Yerezhepuly;77474422781;766DК02;gray;Peugeot 301;Алматы;Econom
+Turganbayev Nurlan Kamidoldayevich;77027693710;А325ХУМ;white;Nissan Sunny;Алматы;Econom
+Kenіshbekov Almas Madikhanuly;77087617210;980SХА13;gray;Skoda Rapid;Алматы;Econom
+Beysenbayev Aydar Sovetkhanovich;77788478896;128GWВ02;gray;Hyundai Accent;Алматы;Econom
+Shymyrbay Nurlybek Kaldarbekuly;77471234519;079ОFВ13;gray;Chevrolet Aveo;Алматы;Econom
+Kurmanbekov Ardak Prmanovich;77770290385;021ЕУВ02;blue;Toyota Corolla;Алматы;Econom
+Kiselev Vladimir Sergeyevich;77017537785;020РZА02;gray;Volkswagen Passat;Алматы;Econom
+Toleubiyev Askar;77075353703;993GРZ05;red;Renault Logan;Алматы;Econom
+Duysenbin Ilyas;77781924640;164МSВ05;gray;Daewoo Nexia;Алматы;Econom
+Sakenbay Akim Mukhituly;77077447851;695ЕТА05;gray;Nissan Maxima;Алматы;Econom
+Bekmaganbetov Yergali Meyramovich;77470705349;250АХZ08;yellow;Toyota Camry;Алматы;Econom
+Bondarenko Dmitriy;77775495714;752ВТ02;white;Daewoo Nexia;Алматы;Econom
+Onlasynov Yertu?an Na?ashybek?ly;77474030076;094DМА02;white;Daewoo Nexia;Алматы;Econom
+Tuleyev Nyshanali;77081000384;825СVВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Isenbiyev Adil Baltashovich;77075773797;834LМВ05;brown;Toyota Carina;Алматы;Econom
+Zenkovich Yuriy Valeryevich;77051441823;В819ВТN;gray;Volkswagen Passat;Алматы;Econom
+Sin-Chan Artem Aleksandrovich;77771150563;895GJА02;gray;Daewoo Nexia;Алматы;Econom
+B?key Yernar;77473491088;204АWВ02;black;Toyota Windom;Алматы;Econom
+Tekesbayev Yertay Zakirovich;77771611226;824ZУZ05;gray;Toyota Corolla;Алматы;Econom
+Sharipov Ilkhom Abdigapparovich;77477897788;458QJА02;black;Volkswagen Polo;Алматы;Econom
+Omashev Darkhan Orazlyyevich;77085501895;519ЕIА02;light blue;LADA (ВАЗ) Granta;Алматы;Econom
+Umirzakov Daniyar Taskinovich;77015334626;714ОВА02;white;Volkswagen Polo;Алматы;Econom
+Asan Nurbolat;77014338084;671QСZ05;brown;LADA (ВАЗ) Granta;Алматы;Econom
+Sveshnikov Kirill Yevgenyevich;77479955063;645САВ02;white;LADA (ВАЗ) Kalina;Алматы;Econom
+Iklasov Batyrbek Nuralbekovich;77783685928;243ZNZ05;gray;Audi A6;Алматы;Econom
+Shevelev Mikhail Vladimirovich;77475897590;224КIА02;white;Hyundai Accent;Алматы;Econom
+Yesinbekov Ruslan Bedilkhanovich;77025558505;572QСZ05;red;LADA (ВАЗ) Granta;Алматы;Econom
+Gerasimov Sergey Vladimirovich;77477223421;708ЕWВ02;red;Mazda 323;Алматы;Econom
+Nurkhanov Telman Kerimovich;77472452107;475ВLZ02;gray;Volkswagen Golf;Алматы;Econom
+Mustafayev Khanlar Mekhti Ogly;77771669760;063UРА02;gray;Audi A6;Алматы;Econom
+Saburov Kayumdzhan Ashurovich;77771733030;В859ZWN;gray;Toyota Corona;Алматы;Econom
+Shakibayev Aydar Koshenovich;77074921369;Х723МО178;white;Kia Rio;Алматы;Econom
+Abdikerim Nurasyl Salimuly;77072170595;802QGА02;gray;Nissan Maxima;Алматы;Econom
+Seleznev Valeriy Ivanovich;77015114999;734VUА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Yefremov Kirill Vladislaaovich;77774816262;018WХА05;green;Toyota RAV 4;Алматы;Econom
+Atambekov Olzhac Kaldybayevich;77083431904;708FХВ02;gray;Daewoo Nexia;Алматы;Econom
+Zhambakov Zhanybek Berikovich;77087762770;02ВS356;white;Renault Logan;Алматы;Econom
+Shakhnazarov Ravil Magadinovich;77788827292;А920ЕАР;gray;Mitsubishi Galant;Алматы;Econom
+Zhanibekov Nurlan Kuanyshbekovich;77014990010;012АUZ05;white;Hyundai Elantra;Алматы;Econom
+Makarenko Vladimir Nikolayevich;77081973299;908VРА02;gray;LADA (ВАЗ) 2111;Алматы;Econom
+Nurgozhayev Nurbol;77783497740;942АFZ05;white;Toyota Camry;Алматы;Econom
+Baykenzheyev Yergen Shakhanovich;77027176699;760ОRА08;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Bektaliyev Dilmakhambet Misirovich;77079299320;256QЕZ05;gray;Volkswagen Polo;Алматы;Econom
+Satinbayev Farkhad Akimzhanovich;77761552222;А350МUО;red;Mercedes-Benz C-klasse;Алматы;Econom
+Baltabayev Bekbolat Abdullayevich;77776753030;921QЕZ05;gray;Land Rover Discovery;Алматы;Econom
+Orman Ikramzhan Nigmatzhan?ly;77073653108;321АТZ13;gray;Audi A6;Алматы;Econom
+Abraimov Aykhan;77478334528;789ОЕВ05;gray;Nissan Sunny;Алматы;Econom
+Beysen Akylzhan Sayramzhanuly;77767009507;124ЕQА02;green;Mercedes-Benz E-klasse;Алматы;Econom
+Moldabayev Yerkyn Tulegenovich;77073171027;979РWА05;white;Kia Rio;Алматы;Econom
+Tolepbergenov Nurdos;77471274643;302QОZ05;green;Mazda 626;Алматы;Econom
+Bayanov Ruslan;77011133738;178JIА02;gray;Toyota Land Cruiser;Алматы;Econom
+Seitov Marlen Maratovich;77078155442;831ВТВ02;white;Ravon Nexia R3;Алматы;Econom
+Kaliyev Bekzhan Amangazyyevich;77029577320;489ZРZ05;gray;Nissan Cefiro;Алматы;Econom
+Sakhno Viktor Aleksandrovich;77474958116;786АFВ05;gray;Kia Soul;Алматы;Econom
+Askarbekov Rauan Askarbekovich;77085731722;652LLА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Bulanov Vasiliy Ivanovich;77471888879;F538402;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Deripsaliyev Mukhit Asanovich;77079334510;97505;red;Kia Rio;Алматы;Econom
+Seydalimov Almas Yermekovich;77473776396;299ZМZ05;blue;BMW 5er;Алматы;Econom
+Litvinov Sergey Valeryevich;77059800164;292WVА02;blue;Honda CR-V;Алматы;Econom
+Shcherbakov Sultan Khasanovich;77075929642;618ВIА01;black;LADA (ВАЗ) Granta;Алматы;Econom
+Kadirov Ruslan Tokhtyrakhunovich;77081056508;359QVZ05;gray;Toyota Avensis;Алматы;Econom
+Kasterkul Arman Kayratbekuly;77071651061;374КWZ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Mustafa Serik Takenuly;77071928253;В587СХО;green;Toyota Avalon;Алматы;Econom
+Irgayev Ikhlas Islambayevich;77007481977;062НD02;gray;Kia Rio;Алматы;Econom
+Auzbayev Aset Serikovich;77082521422;378НWА02;white;ЗАЗ Vida;Алматы;Econom
+Ismail Zakir Rashituly;77077897654;801IJА02;black;Nissan Teana;Алматы;Econom
+Medetbekov Meirzhan;77788259797;664GUВ02;gray;Hyundai Accent;Алматы;Econom
+Yashchenko Vladislav Vladimirovich;77775825243;028АSВ02;black;Mercedes-Benz E-klasse;Алматы;Econom
+Baramyshev Salamat Moldokhmatovich;77074903036;271НАZ02;blue;Toyota Hilux;Алматы;Econom
+Aliyev Emil Askerovich;77025355269;269АWZ08;orange;LADA (ВАЗ) Kalina;Алматы;Econom
+Nyshan Zhandos Zhorakhanuly;77007272700;819НQА02;white;Renault Logan;Алматы;Econom
+Tobykov Aybek Bolatbekuly;77079839893;412ХSА01;gray;Skoda Rapid;Алматы;Econom
+Yusupov Yevgeniy Rakhimzhanovich;77023183961;216QОQ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Zhanabayev Sauir Koyshybayevich;77053030003;842УNА02;black;Mitsubishi Lancer;Алматы;Econom
+Ayasov Igilik Ablayevich;77086542974;609АFВ02;white;Kia Rio;Алматы;Econom
+Omarov Alimzhan Nurlanovich;77059117828;508АНВ05;green;Mercedes-Benz E-klasse;Алматы;Econom
+Aliyev Kaysar Kanatuly;77773302295;092ООQ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Shapiyev Yerlet Moldakhmetovich;77471731652;861ЕТ0;red;Toyota Camry;Алматы;Econom
+Rakhimberlinov Marat Manarbekovich;77083756210;810КАZ05;yellow;Renault Symbol;Алматы;Econom
+Yelifanov Vladimir;77778277705;431QGА02;green;Nissan Prairie;Алматы;Econom
+Talipbekov Ruslan Tolymbekovich;77005572337;933LVА08;white;LADA (ВАЗ) Priora;Алматы;Econom
+Ma??lbekov Yerlan Zha?sybek?ly;77777898929;204СJА02;violet;Volkswagen Golf;Алматы;Econom
+Andakulov Zhalgas Turdalyuly;77022300844;925НZА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Tairov Takhir Eipovich;77011867318;414ZVА05;blue;Toyota RAV 4;Алматы;Econom
+Masimov Daniyar Ashimovich;77085242009;782QОZ05;blue;Honda Accord;Алматы;Econom
+Nurmanov Mukhtar Avilkerimovich;77079191595;850МIА02;gray;Toyota Avensis;Алматы;Econom
+?tebay N?rbek Myrza?ali?ly;77762212064;835АКВ05;black;Mercedes-Benz E-klasse;Алматы;Econom
+Bayzakov Shakhzod Shavkatchonovich;77772276004;581WЕZ05;white;Daewoo Nexia;Алматы;Econom
+Dalabayev Muslim;77074861326;524DХА02;blue;LADA (ВАЗ) Priora;Алматы;Econom
+Kulmurat ?mіtzhan Marat?ly;77088082856;312LТВ02;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Dzhalishev Daniyar Rukhovich;77778426133;275АНВ02;white;Renault Logan;Алматы;Econom
+Khizizakhunov Makhmutzhan Makhametovich;77022554242;324КJА02;gray;Kia Rio;Алматы;Econom
+Tulendiyev Olzhas Saydakhmetovich;77470753848;577IGА02;white;Hyundai Elantra;Алматы;Econom
+Bolat?ly ?lіbek;77473565007;470НGА02;white;Daewoo Nexia;Алматы;Econom
+Aladinskiy Dmitriy;77476711115;357АVВ05;green;Subaru Legacy;Алматы;Econom
+Yesenaliyev Zhal?as ?uatbek?ly;77071733101;288NGА02;gray;Daewoo Nexia;Алматы;Econom
+Inkerbayev Ruslan Toleshovich;77083910617;В157КК0;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Zhasybekov Arman Sabitovich;77472656999;392UХZ05;gray;Volkswagen Passat;Алматы;Econom
+Mautanov Yesil Kenesovich;77077004022;715ВСВ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Baygabulov Sabit Saudakasovich;77762431606;732ZРА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Rakhmetov Zhanibek Kayratuly;77474415341;В167УUМ;light blue;Toyota Ipsum;Алматы;Econom
+Dzhimadilov Serikbol Kodokovich;77085027780;684GLВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Abilov Bakyt Kanatovich;77758440004;721DFВ02;gray;Toyota Corolla;Алматы;Econom
+Pulotov Abdusobir Abdusamiyevich;77088001722;F368405;red;Nissan Primera;Алматы;Econom
+Burmatov Valeriy Ilich;77077055345;В329URN;white;Mazda Protege;Алматы;Econom
+Kunov Nurzharyk Shakenuly;77018881593;658САА02;gray;Toyota Corolla;Алматы;Econom
+Em Vyacheslav Trofimovich;77777052303;F488602;black;Ravon Nexia R3;Алматы;Econom
+Nuryllayev Bakhytzhan;77479344731;299NАВ05;black;Daewoo Nexia;Алматы;Econom
+Kamashev Azimzhan Abdukarimovich;77777796346;228FМА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Zuyev Sergey Anisovich;77771220902;571JJА02;gray;Hyundai Solaris;Алматы;Econom
+Naimov Farrukh Muzafarovich;77071700041;884JIА02;black;Volvo S80;Алматы;Econom
+Mamettukhtiyev Tair Parkhatovich;77074409304;А929МSN;black;Toyota Fortuner;Алматы;Econom
+Rasbekov Temіrlan Bolat?ly;77781302000;249ZТZ05;gray;Nissan Maxima;Алматы;Econom
+Doschanov Rinat Kayratovich;77471032245;930QМZ05;gray;ЗАЗ Chance;Алматы;Econom
+Dastan Oralbek;77016555517;Н156ЕХ154;white;Renault Logan;Алматы;Econom
+Turugildeyev Zhanibek Yurtubekovich;77776411252;155DОВ02;blue;Toyota Camry;Алматы;Econom
+Duysenbay Dias;77077771131;134МJА02;white;Volkswagen Polo;Алматы;Econom
+Li Stanislav Vladimirovich;77005551440;064НDВ02;black;Subaru Forester;Алматы;Econom
+Bakhautdinov Ravil Kamaldinovich;77051190272;362РZА02;white;Volkswagen Polo;Алматы;Econom
+Ashimov Ruslan Ravilyevich;77073704477;034ЕЕВ02;gray;Daewoo Nexia;Алматы;Econom
+Kozhalimov Rinat Zhakypovich;77078609744;427НВ02;gray;Renault Logan;Алматы;Econom
+Amanzholov Gabit Urazgaliyevich;77071822180;401СКВ05;black;Daewoo Gentra;Алматы;Econom
+Dzhanazholov Zhandarbek Shyngysuly;77072720506;959QLZ05;gray;Toyota Camry;Алматы;Econom
+Tezekbayev Rusten aikenovich;77751616546;103АWZ05;gray;Hyundai Getz;Алматы;Econom
+ZH?mabay N?rlan Saken?ly;77767194973;310НЕВ02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Samakhanuvo Inamzhan Isamdunovich;77756661350;750МZА05;black;LADA (ВАЗ) Priora;Алматы;Econom
+Bolatuly Ondas;77078481457;121РNА02;gray;Kia Rio;Алматы;Econom
+Sarsebayev Zhalgas Beysenbayevich;77470760887;736НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Shalimbekov Yesen Zhumabekovich;77001129672;413СLВ02;red;Lexus ES;Алматы;Econom
+Alzhanov Yerbol Kaldybekovich;77086849565;431VZА02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Bulanov Ruslan Altynbekuly;77089001369;794НD02;white;Kia Rio;Алматы;Econom
+Pak Timur Vitalyevich;77071544131;401МGА02;white;Hyundai Accent;Алматы;Econom
+Lyanakhunov Rakhim Dzhumayevich;77753019672;SО635АQ;black;Honda Odyssey;Алматы;Econom
+Sarzhanov Aslan Muratbekovich;77477874747;771JJА02;gray;Mitsubishi Lancer;Алматы;Econom
+Tarasenko Vladimir Vladimirovich;77057770625;525СGА02;gray;Daewoo Matiz;Алматы;Econom
+Oparin Vitaliy;77073616507;670УRА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Bekbolat Maksat Dauletkhanuly;77756081100;093JGА02;black;Nissan Cefiro;Алматы;Econom
+Yesirkepov Tursyn;77082390087;516ОDВ05;white;SsangYong Kyron;Алматы;Econom
+Imangaliyev Samat;77473254979;239АSА02;black;Toyota Caldina;Алматы;Econom
+Sargsyan Edgar Stepanovich;77473897958;Н149ЕХ154;white;Renault Logan;Алматы;Econom
+Ketrushka Oleg Sergeyevich;77784238010;135МJА02;light blue;Kia Rio;Алматы;Econom
+Turysbekov Bakytzhan Yerikovich;77773006996;681LQА02;black;Mercedes-Benz E-klasse;Алматы;Econom
+Zhan?abyl Aydos;77076115485;857МVВ05;green;Toyota Caldina;Алматы;Econom
+Shilmanbetov Gaziz Zholdasbayevich;77074969512;308ВРВ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Abdullayev Malik Alim;77753763694;Н784283;gray;Daewoo Leganza;Алматы;Econom
+Talipov Bakhadur Khabibullayevich;77077111253;303DLА02;blue;Nissan Primera;Алматы;Econom
+Sabyrzhanov Yerbol Bakytbekovich;77475421986;455НАZ01;white;Daewoo Nexia;Алматы;Econom
+Soltankulov Serik Nurbolatovich;77788279250;227NWА02;gray;Daewoo Nexia;Алматы;Econom
+Mukhamadiyev Sanat Ekimbekuly;77012590393;046НWА02;white;Daewoo Nexia;Алматы;Econom
+Aleynik Denis Anatolyevich;77078364053;816ZDА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Zhumankulov Ulan Kalmakhanovich;77070194515;134СIА02;white;Daewoo Nexia;Алматы;Econom
+Vunder Andrey Aleksandrovich;77470825868;978НGА02;gray;Daewoo Nexia;Алматы;Econom
+Kabylbekov Kuanysh Kerimbekovich;77077752817;904ВFZ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Bizhanov Dinmukhamedali;77082071217;147МQА02;white;Toyota Camry;Алматы;Econom
+Rafikov Damir Rafailyeivich;77017310106;705FDВ02;red;Toyota Corolla;Алматы;Econom
+Ablizov Abdurashit Abdukhalilovich;77475771552;453VRА05;gray;Toyota Carina;Алматы;Econom
+Abdukarimov Ablaykhan;77473179769;214IОZ13;white;Kia Rio;Алматы;Econom
+Nabiyev Sakhil;77025871876;F552902;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Ashirimbetov Meyrkhan Zhanazarovich;77773499850;А210NСО;gray;Subaru Impreza;Алматы;Econom
+Korganbay Daulet Abduvali Uly;77015570092;696GУВ02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Bekenov Galymzhan Aliaskarovich;77002508815;А031ЕОР;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Kadirsiz Makhsat Konkabayuly;77074702350;201ХРА05;white;Toyota Carina;Алматы;Econom
+Kobenbekov Saken Sakenovich;77477505523;677GОZ05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Tausarov Dauren Abbasovich;77072828252;885WРZ05;white;Lexus GS;Алматы;Econom
+Zakirov Turganzhan;77072191417;832КRZ05;gray;Daewoo Nexia;Алматы;Econom
+Shabdenov Daulet Rakhimaliyevich;77476472328;275ZВZ05;gray;Subaru Legacy;Алматы;Econom
+Bulgakov Viktor Nikolayevich;77057006638;В1057АU;white;Mitsubishi Delica;Алматы;Econom
+Yermentav Bagdaulet Makhanbetaliyevich;77079616941;092NВВ13;gray;Daewoo Nexia;Алматы;Econom
+Yergara Seyylkhan Mukhtaruly;77752515515;990АUZ08;white;Renault Sandero;Алматы;Econom
+Seytimbetov Yerlan;77474276482;542IСZ05;gray;Volkswagen Polo;Алматы;Econom
+Ualiyev Yerdos Bayronovich;77079920910;334АСZ01;white;Mazda 6;Алматы;Econom
+Sadykov Zhandos Abdykalykovich;77052222857;769КQА02;white;Renault Logan;Алматы;Econom
+Lobanov Vyacheslav Sergeyevich;77714086157;678СVВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Rakhimov Damir Saylaubekuly;77079907594;433LНА02;white;Hyundai Accent;Алматы;Econom
+Dzhasanov Talgat Dosybekovich;77087774175;560РWА02;white;Daewoo Nexia;Алматы;Econom
+Reipnazarov Adilbek Kamilovich;77782210200;170КVА05;white;Toyota Camry;Алматы;Econom
+Abdusatov Ruslan Dilmuratovich;77477207078;132КАА10;red;Daewoo Matiz;Алматы;Econom
+Kulyshanov Yermek Tanyrbergenovich;77772261971;736ОQО02;light blue;Volkswagen Caddy;Алматы;Econom
+Navasardyan Albert;77078310990;147ЕКА05;white;Hyundai Accent;Алматы;Econom
+Yesimbek Daniyar Kayratuly;77473735060;220ZНZ05;blue;Mazda Xedos 9;Алматы;Econom
+Repetunov Gennadiy Mikhaylovich;77714666314;182DJА02;white;Hyundai Accent;Алматы;Econom
+Xalmurzayev Seydraxim -;77025543191;596КХZ5;white;Daewoo Nexia;Алматы;Econom
+Shalbayev Serik;77028496846;245WUZ05;white;Daewoo Nexia;Алматы;Econom
+Bekbergenov Serikzhan Shishanovich;77476268472;781FVА05;gray;FAW Besturn B50;Алматы;Econom
+Sharynbay N?rtay Yerezhep?ly;77073308379;Z482ААN;blue;Daewoo Nexia;Алматы;Econom
+Altayev Talgat Dzhuldyzovich;77750181789;716ЕRА01;black;Volkswagen Polo;Алматы;Econom
+Kasymbek Akture Rakhmatuly;77023027777;856LZА02;gray;Daewoo Gentra;Алматы;Econom
+Kozhagazin Adil Madiyevich;77074096398;В5097АТ;gray;Subaru Legacy;Алматы;Econom
+Mukashev Samat;77023118438;564НУА01;gray;Volkswagen Polo;Алматы;Econom
+Iskakov Dauren Koygeldyyevich;77074109145;315НЕ02;gray;Nissan Almera;Алматы;Econom
+Nurmametov Khagimzhan;77479271034;340QСZ05;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Yerygin Maksim Aleksandrovich;77081113702;821WWА05;blue;Subaru Legacy;Алматы;Econom
+Batkalov Azamat Zhazaybekovich;77770245524;953НD02;white;Daewoo Nexia;Алматы;Econom
+Yermash Yernur Askhatuly;77478778615;734НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kozhakhmetov Nursultan Turaruly;77073639493;209ЕWВ05;gray;Daewoo Matiz;Алматы;Econom
+Aydaraliyev Ruslan Yergaliyevich;77072085290;496АЕВ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+?onysbekov Abylkhayyr Asen?ly;77056665244;393IСZ05;yellow;Toyota Carina;Алматы;Econom
+Kunash Aydyn;77785999921;438ОDВ05;gray;Toyota Camry;Алматы;Econom
+Avazbayev Arken Ruslanovich;77085217022;580WWZ05;gray;Nissan Almera;Алматы;Econom
+Batyrbekov Damir Samatovich;77076407570;433WЕА01;gray;Kia Rio;Алматы;Econom
+Kukumov Murat;77718567585;760АWА05;white;BMW 5er;Алматы;Econom
+Turdiyev Dostonbek Ravshanbekovich;77077979762;01КG634АВL;black;Honda Stepwgn;Алматы;Econom
+Kosalin Nurbek Belgibayevich;77471523230;528ОТА13;black;LADA (ВАЗ) Granta;Алматы;Econom
+Limtonov Yelzhas Nurkhanovich;77771669930;556DUВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Salmetov Alisher Anvarovich;77087560703;765АWZ08;black;Daewoo Gentra;Алматы;Econom
+Nurakanov Aldiyar Amangeldiyevich;77027096868;914DVВ02;white;Hyundai Accent;Алматы;Econom
+Olzhabay Zhanibek;77479978714;142АZZ13;green;Mazda 626;Алматы;Econom
+Zagozking Renat Aleksandrovich;77756999927;858СW02;gray;Renault Logan;Алматы;Econom
+Tsoy Andrey Vladimirovich;77772300430;386НХА02;white;Nissan Qashqai;Алматы;Econom
+Kerim Damir Nurlanuly;77787477676;177IZZ05;black;Toyota Camry;Алматы;Econom
+Aytmagambetov Daniyar Amangeldyuly;77000220907;929НАВ02;gray;Chevrolet Cruze;Алматы;Econom
+Kadyrov Ruslan Munarzhanovich;77056012113;429ВSZ02;white;Toyota Avalon;Алматы;Econom
+Dzhumadilov Serik;77086440734;547IVZ05;light blue;Kia Rio;Алматы;Econom
+Livazov Malik Iskharovich;77777946669;982FUА02;gray;Hyundai Accent;Алматы;Econom
+Antonenko Andrey Anatolyevich;77770227772;497ВЕВ02;green;Subaru Outback;Алматы;Econom
+Kemelkhanov N?rbol ZH?mabay?ly;77751757973;950НWV13;white;LADA (ВАЗ) 2114;Алматы;Econom
+Prokofyev Aleksey Leonidovich;77772298881;А883DКN;violet;Nissan Bassara;Алматы;Econom
+M?khanbet?aliyev Yerbosyn M?khanbet?vli?ly;77077947081;А585ВХР;blue;Toyota Avensis;Алматы;Econom
+Syzdykoly Zhasulan Orazbekuly;77470560771;196QGА02;red;Toyota Carina E;Алматы;Econom
+Baymamirov Seytkali Serikuly;77089493556;278FМА02;brown;LADA (ВАЗ) Priora;Алматы;Econom
+Chuyko Andrey Olegovich;77772355333;615АРВ02;gray;Toyota Camry;Алматы;Econom
+Kaldybayev Yerzhan Serikzhanuly;77473276180;229GВВ02;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Ushpayev Zhandos Doszhanovich;77471413000;В726СDО;green;Volkswagen Golf;Алматы;Econom
+Uteshov Kanat Kadyrovich;77073250102;135QFZ05;gray;Volkswagen Passat;Алматы;Econom
+Ibrayymov Mukhtarkhan Zulpkharovich;77024093777;324АВZ03;gray;Mazda 323;Алматы;Econom
+Shabalin Anton Sergeyevich;77051835242;524МIА02;gray;Kia Sportage;Алматы;Econom
+Zhaparkulov Marat Yerbolatuly;77079060489;860GIА02;gray;Mazda 626;Алматы;Econom
+Avdeyev Rais Mansurovich;77774286191;439АВZ17;brown;Volkswagen Passat;Алматы;Econom
+Shynybekov Zhubanysh Kozybayevich;77077748182;872QКZ05;white;Hyundai Accent;Алматы;Econom
+Kim Yevgeniy Aleksandrovich;77759321186;01КG0570Н;green;Toyota Camry;Алматы;Econom
+Sarmanbet Medet Bolatbe?ly;77054028000;295НКВ02;black;Subaru Impreza;Алматы;Econom
+Supiyev Kamirdin Armiyarovich;77478836826;823QАZ05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Abylkassym Aibyn;77027099226;059FQА02;gray;Hyundai Accent;Алматы;Econom
+Tatarkhanov Muslim Lom-Aliyevich;77475552795;А095ЕSР;white;LADA (ВАЗ) 2114;Алматы;Econom
+Turgunbayev Rashid Bazarbayevich;77029834577;521УWА13;gray;Opel Vectra;Алматы;Econom
+Sydykzhanov Arstanbek Altaykhanovich;77477800378;172ООQ02;white;Renault Logan;Алматы;Econom
+Tolmachev Aleksey Vasilyevich;77083513327;814WUZ05;gray;Renault Symbol;Алматы;Econom
+Akhpalayev Kasimakhun Khasanovich;77076671021;370РZА02;gray;Hyundai Accent;Алматы;Econom
+Bekkulov Yergali Kasenovich;77078115339;А739LRО;gray;Volkswagen Vento;Алматы;Econom
+Bazarbayev Amangeldi Auyelbayevich;77086626521;458FНВ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Borodikhin Vladimir Sergeyevich;77785520666;968DJА02;white;Kia Rio;Алматы;Econom
+Duysenov Darkhan Bolatuly;77478700601;758НВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Sarsembiyev Abylay Makhambetovich;77753922981;507СRВ02;white;Datsun on-DO;Алматы;Econom
+Nusipbayev Bauyrzhan Berkimbayevich;77001265478;167GIА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Tenezbayev Bagdat Kabibekovich;77073752077;932КВZ05;blue;Chevrolet Lanos;Алматы;Econom
+Nurekenov Adil;77477870478;558ММА02;violet;Toyota Carina;Алматы;Econom
+Gapbasov Islam Rustamzhonovich;77077778048;761КСZ05;white;Toyota Corolla;Алматы;Econom
+Khompysh Aybatbek -;77018482447;397FВА02;white;Kia Rio;Алматы;Econom
+Sauranbayev Zhantas Nurlanuly;77072978011;655GRВ02;gray;Daewoo Nexia;Алматы;Econom
+?dіlbay ?dіlzhan;77761842202;667НСА11;brown;Mercedes-Benz C-klasse;Алматы;Econom
+Dzhaksylykov Akan Abdrakhmanovich;77085217230;524АS02;white;SsangYong Kyron;Алматы;Econom
+Yesimov Bakytzhan;77000764947;997VКА;gray;Hyundai Accent;Алматы;Econom
+Agaliyev Askar Sagidoldayevich;77082254053;896РРА05;black;Mazda 323;Алматы;Econom
+Karipzhanov Aktore Kayratovich;77770330193;769WWZ05;gray;Toyota Camry;Алматы;Econom
+Kokchebayev Zhanserik Turdakhunovich;77714169691;585DF02;black;Toyota Yaris;Алматы;Econom
+Alpysbayev Zhuzzhasar Beysenovich;77082834255;208АТ02;white;SsangYong Kyron;Алматы;Econom
+Nurbakov Bakhyt Kurakbayevich;77085648764;497IАZ05;black;Mercedes-Benz E-klasse;Алматы;Econom
+Yestemesov Rustem Baybolovich;77474386188;378ЕSВ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Gordiyenko Sergey Vladimirovich;77714669653;329АТА05;white;Mercedes-Benz E-klasse;Алматы;Econom
+Kosak Koat Asylbekoly;77762335796;F877ОА02;green;Mazda 323;Алматы;Econom
+Artemenko Tatyana Vadimovna;77476696750;424FАА02;yellow;Daewoo Matiz;Алматы;Econom
+Zhanayev Arman Zhumanovich;77006781439;406АУZ05;blue;Mazda 323;Алматы;Econom
+Arkhabayev Ramazan Nurlanovich;77029507050;596АLА17;black;Daewoo Nexia;Алматы;Econom
+Sultanbekov Madi Torekhanovich;77470366395;335ООВ05;blue;Toyota Carina;Алматы;Econom
+Aryspayev Vadim Tasirovich;77082931655;А152ЕGА02;blue;Volkswagen Golf;Алматы;Econom
+Arysbayev Kenzhekhan Kulmakhanovich;77075331377;501QАZ05;beige;Daewoo Nexia;Алматы;Econom
+Baybosynov Tolegen Suleymenovich;77077355535;892РSА02;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Khlynovskiy Vladimir Vladimirovich;77776900885;В567КРО;white;Hyundai Avante;Алматы;Econom
+Talasbayev Sabit Orazgaliyevich;77007135560;566WСZ05;green;Subaru Outback;Алматы;Econom
+Saraliyev Lecha Sharpudinovich;77077576844;648DIА02;white;Toyota Corolla;Алматы;Econom
+Bekozhayev Yerlan;77089469290;772DАВ02;gray;Mazda 626;Алматы;Econom
+Zharoldin Azat Abdikaliyevich;77473715714;780ВУВ05;red;LADA (ВАЗ) 2114;Алматы;Econom
+Gaffarov Muzaffar;77077987500;157АЕZ08;green;Daewoo Matiz;Алматы;Econom
+Tilegen Dastan Bolatuly;77001470892;802ХЕА02;white;Kia Rio;Алматы;Econom
+Romantsev Genadiy Nikolayevich;77772247035;Н027КР154;white;Renault Logan;Алматы;Econom
+Myrzagaliyev Amangeldy Urazbayevich;77025070764;775ВАZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Isroilov Abdugani Abdurakhimovich;77477795980;774WХА13;white;Daewoo Nexia;Алматы;Econom
+Dosetov Maksat Yesenuly;77079367937;360СSА13;white;LADA (ВАЗ) Granta;Алматы;Econom
+Rakhimanov Yerzhan Ilyubayevich;77076968750;641НVА05;white;LADA (ВАЗ) Largus;Алматы;Econom
+Arsmirzayev Ibraim Saydaliyevich;77757222403;238ZТZ05;white;Hyundai Accent;Алматы;Econom
+Tyrsin Yevgeniy Yuryevich;77767250750;858UWА02;gray;Nissan Almera;Алматы;Econom
+Amreyev Chingiz Zulkarnayyevich;77075550153;406РВА05;gray;Hyundai Solaris;Алматы;Econom
+Ponomarev Sergey Genadyevich;77778278869;690DРВ02;blue;Volkswagen Passat;Алматы;Econom
+Temirbekov Shyngyskhan Kamiluly;77759619495;104ВА02;white;SsangYong Kyron;Алматы;Econom
+Chukubayev Saken Samutdinovich;77479327514;А370VАN;gray;Skoda Octavia;Алматы;Econom
+Bayev Aleksey Sergeyevich;77473025112;260DКВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Mukanov Serik Bolatbekovich;77078340993;246КЕА02;blue;Subaru Outback;Алматы;Econom
+Garayev Rapkat Asimovich;77786190555;616GDВ02;green;Toyota Ipsum;Алматы;Econom
+Rublev Vladislav Alikzhanovich;77075003550;995НВВ02;green;Nissan Almera;Алматы;Econom
+Kuyubayev Arman Kozhakhmetovich;77712016796;852АDZ11;beige;Opel Vectra;Алматы;Econom
+Sembay Diyas Sabyrzhanuly;77478262441;697АQА02;gray;Subaru Legacy;Алматы;Econom
+Slamyarov Khamrazhan Usuakunovich;77026402253;327IUZ05;black;Audi 100;Алматы;Econom
+Seilkhanov Sovetkhan Askerbekovich;77005661980;592NКА05;blue;Toyota Camry;Алматы;Econom
+Meyrbekov Azamat Madibekovich;77021203945;278IQА02;white;Toyota Corolla;Алматы;Econom
+Tishkov Sergey Petrovich;77005747440;773DRВ02;blue;Opel Vectra;Алматы;Econom
+Irisaliyev Aziz Melsovich;77086627680;В525НZО;black;BMW 5er;Алматы;Econom
+Kazimov Intigar Ilgarovich;77789417094;543NNА08;red;LADA (ВАЗ) Priora;Алматы;Econom
+Salykov Bakhyt Utebekuly;77071290150;976QУZ05;black;Subaru Forester;Алматы;Econom
+Yesimkhan Didar Aydarovich;77769961989;797IВZ05;orange;Hyundai Creta;Алматы;Econom
+Narimanov Nazim Armanzhanovich;77073336162;110VDZ05;black;LADA (ВАЗ) Granta;Алматы;Econom
+Ardatov Maksim Gennadyevich;77773535999;861УВА02;white;Lexus GS;Алматы;Econom
+Shatyrbayev Marsel Zagarulevich;77750483793;571СЕА05;green;Mazda Cronos;Алматы;Econom
+Lespek Talgat Kayratuly;77004719094;981АGА01;gray;Nissan Maxima;Алматы;Econom
+Imamverdiyev Bakhruz Eyvaz;77071249464;F357805;gray;Toyota Corolla;Алматы;Econom
+Kutasov Yevgeniy Vladimirovich;77072386843;573УТА02;red;Hyundai Accent;Алматы;Econom
+Kaliyev Yerzhan Rizuanovich Yerzhan Rizuanovich;77074183065;583IJА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Turekhanova Aygerim Berikovna;77070157725;365UВА02;white;Volkswagen Passat;Алматы;Econom
+Kurmantayev Yerik Bekenovich;77079200339;791LVА05;white;Nissan Primera;Алматы;Econom
+Akhmiyev Beysen Kayratovich;77018022228;409GСВ02;blue;Mitsubishi Galant;Алматы;Econom
+Poluboyartsev Aleksandr Viktorovich;77755011700;366VНА02;gray;Chevrolet Cruze;Алматы;Econom
+Bakytkhan Bereke;77079109407;976НСА02;gray;Toyota Picnic;Алматы;Econom
+Imashev Kaysar Tlektesovich;77767777056;362FАА05;blue;Chevrolet Aveo;Алматы;Econom
+Togyzbayev Taulanbek;77018627953;516DАВ05;gray;Toyota Corolla;Алматы;Econom
+Khodzhamberdiyev Tair Karlinovich;77470127233;019VDZ05;black;LADA (ВАЗ) Granta;Алматы;Econom
+Kusmanova Zhanat Akylbekovna;77070157436;804ЕSВ02;gray;Ford Fiesta;Алматы;Econom
+Kantarov Nurlan Serikovich;77003000152;606INZ05;blue;Mercedes-Benz C-klasse;Алматы;Econom
+Tumanbayev Gabdumutallap Seribkayevich;77756042462;267СW02;gray;Volkswagen Polo;Алматы;Econom
+Maminov Aydos Alimovich;77472949505;756FУВ02;gray;Nissan Almera;Алматы;Econom
+Kudiyarbekov Askerbek Umbetovich;77781152227;264АQА;black;Audi A6;Алматы;Econom
+Kan Roman Arsenyevich;77006866001;126DSВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Umarov Farkhad Nurmukhamedovich;77073647919;176QDZ05;blue;Hyundai Solaris;Алматы;Econom
+Ayazbayev Talgat;77025689197;203НNА08;gray;Suzuki Liana;Алматы;Econom
+Radchenko Anatoliy Viktorovich;77773776159;652МJА02;gray;Hyundai Matrix;Алматы;Econom
+Bozhenov Serik Bozhenoviich;77478628577;880GGА02;blue;Toyota Corolla;Алматы;Econom
+Goncharenko Nikolay Vitalyevich;77084808242;217VМА02;gray;LADA (ВАЗ) Largus;Алматы;Econom
+Rayev Bolat Kavkenovich;77478357273;А978DD0;black;Mercedes-Benz A-klasse;Алматы;Econom
+Dzhumagaliyev Sanzhar Onalbekovich;77766666118;603ВЕZ02;blue;Ravon R4;Алматы;Econom
+Akhmetov Rasul Payzollaogly;77014545325;564ЕВВ2;gray;Daewoo Nexia;Алматы;Econom
+Nurtazov Sabit Sarikkhanovich;77072886855;621GРZ05;white;Hyundai Accent;Алматы;Econom
+Akberdiyev Tolegen Adambekovich;77011308140;В079АТО;white;Daewoo Nexia;Алматы;Econom
+Mukhametkaliyeva Nurgul Nurlanovna;77019406615;625СVА02;light blue;Honda CR-V;Алматы;Econom
+Abzhalelov Dulat Zhakanovich;77070176920;533НВ02;white;Mazda 626;Алматы;Econom
+Dadabayev Ilkham Ismatovich;77073177058;546ZDА02;gray;Kia Cerato;Алматы;Econom
+Artykbayev Adilet Tursunbekovich;77003700797;407ЕВА02;red;Honda CR-V;Алматы;Econom
+Kleyn Eduard Rudolfovich;77001001317;422МОВ13;white;LADA (ВАЗ) Granta;Алматы;Econom
+Isayev Darkhan Bekturganovich;77477802001;134КFА08;red;Mazda 626;Алматы;Econom
+Zha?yp Duman;77470091527;328IКZ05;green;Mazda 323;Алматы;Econom
+Auyelbek Agabek Alipbekuly;77783459495;563НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Senbay?ly Ayan;77075751982;428ВJА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Tatarkhanov Islam Khumitovich;77023302102;849UОА02;gray;Toyota Camry;Алматы;Econom
+Gurov Nikolay Aleksandrovich;77771222177;626702;black;Mercedes-Benz S-klasse;Алматы;Econom
+Asilov Yeralkhan Sayfullayevich;77711616763;761VDZ05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Kuzerbayev Berik Kaziyevich;77478256257;710РВА08;gray;Daewoo Nexia;Алматы;Econom
+Yeleuov Asylbek Medetuly;77079286567;914ZОZ05;white;Mercedes-Benz E-klasse;Алматы;Econom
+Dzhandosov Akyl Semetayevich;77057140776;079РАА02;gray;Hyundai Elantra;Алматы;Econom
+Ibragimov Timur Narimanovich;77077654433;248UЕА02;black;Kia Cerato;Алматы;Econom
+Shamiyev Elyar Yalkunzhanovich;77027505169;181QНZ05;white;Nissan Tiida;Алматы;Econom
+Aldabergenov ?bіlkhair;77086818841;576WЕZ05;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Yergeshev Nurzhan Rakhimzhanovich;77774825858;135VХА05;blue;Hyundai Accent;Алматы;Econom
+Kurkebayev Makhat Kozhakhmetovich;77773000414;460NLА02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Zhangishupov Yernar Zhumagazuly;77077497799;527ККА05;white;Daewoo Nexia;Алматы;Econom
+Tolstokorov Andrey Viktorovich;77023548949;819СL02;gray;Ravon Nexia R3;Алматы;Econom
+Khalmuratov Abay Myrzabayevich;77077628442;480КЕВ05;green;Mercedes-Benz E-klasse;Алматы;Econom
+?lіmtay ?lnur Almasuly;77075472287;248СХ02;gray;BYD F3;Алматы;Econom
+Umurkulov Kuandyk Ukubayevich;77475987683;883АGА02;white;Hyundai Accent;Алматы;Econom
+Temirbek Bakytzhan Myktybekuly;77755354692;359ТDА02;gray;Toyota Corolla;Алматы;Econom
+Koneyev Kayrat;77081244571;699АН07;black;Toyota Camry;Алматы;Econom
+Shishkov Vitaliy Nikolayevich;77056111814;263УАА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Akmazhanov Akzhan Amankeldiyevich;77076368667;165QНZ05;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Batyrbekov Almas;77073247777;В617FСN;green;Honda CR-V;Алматы;Econom
+Bochkarev Aleksandr Ivanovich;77073136087;234GZВ02;white;SsangYong Rexton;Алматы;Econom
+Turdinov Badyr Minvarkozhayevich;77762144422;771ВКZ02;gray;Toyota Corolla;Алматы;Econom
+Meldekhan Darkhan Adilkhanuly;77085517689;994КZZ05;gray;Toyota Camry;Алматы;Econom
+Zhaksybayev Zhandos Maulenuly;77018389994;768WUZ05;gray;Daewoo Nexia;Алматы;Econom
+Iyenov Duman;77714056931;922ОВВ05;white;Mercedes-Benz E-klasse;Алматы;Econom
+Yuvashev Ramil Rashatovich;77089703878;896УRА02;gray;Volkswagen Touran;Алматы;Econom
+Agibayeva Dina Askarovna;77014329362;385FVВ02;black;Toyota RAV 4;Алматы;Econom
+Chernogal Roman Aleksandrovich;77775015444;939GIА02;black;Chevrolet Lacetti;Алматы;Econom
+Shimyrbayev Yerlan Nurlanuly;77076869090;260КLА13;white;LADA (ВАЗ) 2114;Алматы;Econom
+Rogozin Aleksandr Sergeyevich;77078153317;176МIА02;gray;Hyundai Accent;Алматы;Econom
+Kaipov Kazbek;77786648635;Н040КР154;white;Renault Logan;Алматы;Econom
+Peshev Dancho Krasimirov;77772535358;108GУВ02;gray;Daewoo Nexia;Алматы;Econom
+Myrzakhanov Duman Nurmukhanbetovich;77078212850;481УВ05;gray;Daewoo Nexia;Алматы;Econom
+Dadanov Murat Kamitbayevich;77717754968;737QRZ05;white;Renault Logan;Алматы;Econom
+Almasbekuly Saken;77025325878;903АLВ02;brown;Toyota Camry;Алматы;Econom
+Nurzhigit Kiyabekov;77023497949;124GFZ05;gray;Mercedes-Benz C-klasse;Алматы;Econom
+Otegenov Oman Abay Ully;77028116019;519АWZ08;green;Daewoo Matiz;Алматы;Econom
+Dairbekov Timur;77077182105;912RSА02;gray;Volkswagen Passat;Алматы;Econom
+Aliyev Timur Kichkinovich;77718578632;867АЕS01;gray;Toyota Gaia;Алматы;Econom
+Amrulla Islam Saydullauly;77086168028;499ВRZ02;black;LADA (ВАЗ) 2114;Алматы;Econom
+Aliyev Ruslan Arslanovich;77476624942;234ZТZ05;gray;Daewoo Nexia;Алматы;Econom
+Beksultanov Askar Talgatovich;77077878902;742GМZ05;white;Toyota Corolla;Алматы;Econom
+Aytlesov Bolat Nurdyllayevich;77085698649;806СWВ05;gray;Toyota Camry;Алматы;Econom
+Gulali-Ogly Anvar Pasha Servelovich;77754648999;633DУВ02;white;ЗАЗ Chance;Алматы;Econom
+Kaynazarov Nursultan Abdashimovich;77472555867;370ОQQ02;red;Hyundai Accent;Алматы;Econom
+Dzhalilov Ruslan Aydynovich;77027218998;823АUZ08;gray;Hyundai Accent;Алматы;Econom
+Tazhiyev Yerlan;77074012118;940VDZ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Ilimbek Zhasulan Biuzakuly;77473530477;715КОВ05;white;Daewoo Nexia;Алматы;Econom
+Kasymov Makhmutzhan Imindzhanovich;77016103390;387УFА02;black;Nissan Qashqai;Алматы;Econom
+Mamontov Aleksey Gennadyevich;77471747484;139VВА02;green;Mazda 3;Алматы;Econom
+Zakirov Rashitzhan;77477163663;973ВВZ02;gray;Toyota Ipsum;Алматы;Econom
+Mukhamediyarov Daniyar;77019537935;903VЕZ02;brown;LADA (ВАЗ) Granta;Алматы;Econom
+Bayramov Mubariz Amiraliogly;77072929297;494КQА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Kurenkeyev Yerik Sydykbekovich;77077056833;714GСZ05;green;Toyota Vista;Алматы;Econom
+Bykov Igor Visilyevich;77471667631;595ХSА02;light blue;Dodge Caliber;Алматы;Econom
+Suranchinov Bakhtiyar Maratovich;77070171885;599SLА02;gray;Nissan X-Trail;Алматы;Econom
+Shakhzadayev Dosmukhanbet Dosmuratovich;77004061980;278IМZ05;white;Daewoo Nexia;Алматы;Econom
+Orazgaliyev Madiyar Sovetbekuly;77479258736;245SВА02;black;Hyundai Sonata;Алматы;Econom
+Irisbekov Yermek Zhetpesbayevich;77083658339;084IУZ05;gray;Daewoo Nexia;Алматы;Econom
+Burkhanov Isatay Malikovich;77087401080;982ЕSВ02;white;Hyundai Accent;Алматы;Econom
+Kasymov Sultan Bekbosynovich;77072224144;715ВСВ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Bukenbayev Zhanibek Samigulliyevich;77089108486;720САВ05;white;Hyundai Accent;Алматы;Econom
+Orekhov Fedor Ivanovich;77074614073;751GRZ05;gray;Volkswagen Polo;Алматы;Econom
+Mutalov Ulugbek;77088650510;50М477JА;white;Daewoo Nexia;Алматы;Econom
+Smagulov Teymur;77002513611;738LIА02;black;Toyota Caldina;Алматы;Econom
+Sadirov Ravil Khamrazhanovich;77072986050;908QUZ05;white;Hyundai Accent;Алматы;Econom
+Daniyarov Rakhimzhan Ilyasovich;77782173935;922ЕUВ02;beige;LADA (ВАЗ) Vesta;Алматы;Econom
+Dzhiyenbayev Dauletyar;77074474198;504QLZ05;beige;Toyota Camry;Алматы;Econom
+Shafir Andrey Sergeyevich;77714444950;587ВJА02;white;Mitsubishi Galant;Алматы;Econom
+Abilbekov Yerbol Nurmukhayevich;77074942701;274МОА02;beige;Daewoo Nexia;Алматы;Econom
+Zhumatayev Almas Meyrkhanovich;77024678877;091УУА02;white;Nissan Terrano;Алматы;Econom
+Tokushev Yernur Yermekovich;77086629849;991QУZ05;white;Hyundai Accent;Алматы;Econom
+Kholikov Gulzhigit Sadyraliyevich;77006460737;01122АDК;blue;Honda Accord;Алматы;Econom
+Serikov Arman;77784410108;065НD02;white;Hyundai Accent;Алматы;Econom
+Rodionov Sergey Alekseyevich;77773803785;982ZLА02;gray;Hyundai Elantra;Алматы;Econom
+Muratbayev Talgat Syrmanovich;77477162953;072QОZ05;black;Toyota Camry;Алматы;Econom
+Shanlakbayev Zhandaulet Isenbekovich;77471590701;325АU02;white;Daewoo Nexia;Алматы;Econom
+Pak Yevgeniy Nikolayevich;77089130108;543QХZ05;gray;Daewoo Nexia;Алматы;Econom
+Mynbayev Rustam Ruslanuly;77073876062;820МIА02;white;Hyundai Elantra;Алматы;Econom
+Shaniyev Bolat Sadvokasovich;77074862768;592IIА02;gray;Daewoo Nexia;Алматы;Econom
+Zhumabayev Didar Maratovich;77772077973;299FNА02;white;LADA (ВАЗ) 2114;Алматы;Econom
+Sarsenbayev Sabyrzhan;77087159798;120ZVZ05;gray;Hyundai Elantra;Алматы;Econom
+Tikhonovetskiy Vladimir Anatolyevich;77476136363;699АСZ16;gray;Daewoo Nexia;Алматы;Econom
+Gorlenko Vladimir Nikolayevich;77087676733;651ВRВ;light blue;Hyundai Elantra;Алматы;Econom
+Zhunisbekov Dinmukhanbet Adilkasuly;77080613851;189АRZ13;white;Toyota Camry;Алматы;Econom
+Kaliyev Zhasulan;77074030211;347LGВ02;white;Toyota Yaris;Алматы;Econom
+Lakhayev Abduzoir Mamatkulovich;77763221493;895МОА12;white;LADA (ВАЗ) Priora;Алматы;Econom
+Batyrbek Dauren Orazgeldiuly;77073462374;927LIА02;blue;Nissan Maxima;Алматы;Econom
+Ataybekov Almat Bolatovich;77071780329;542ММА02;gray;Daewoo Nexia;Алматы;Econom
+Tsybulko Oleg Anatolyevich;77058780559;264GGА02;black;Chevrolet Aveo;Алматы;Econom
+Tokhtakhunov Tayr Marisovich;77052230668;388НСВ02;brown;Daewoo Nexia;Алматы;Econom
+Kaskeyev Zhanibek Zairbekovich;77078170801;394ТМА02;red;Volkswagen Polo;Алматы;Econom
+Studenkov Vyacheslav Borisovich;77071311969;186GUВ02;gray;Subaru Impreza;Алматы;Econom
+Yedenov Beks?ltan N?rlan?ly;77027767676;858LLА02;black;Hyundai Accent;Алматы;Econom
+Azizov Eldar Shaukatbekovich;77079038128;1298АХ;white;Honda Civic;Алматы;Econom
+Alauatdinov Yerkanat Userbayevich;77012856262;923IUZ05;green;Mercedes-Benz C-klasse;Алматы;Econom
+Kasymov Ismeil Mazhilis Ogly;77021400004;470ZZА02;gray;Renault Logan;Алматы;Econom
+Kaldarbekov Mukhtar Userbayovich;77788284882;246ZСА13;gray;Toyota Avensis;Алматы;Econom
+Kholzoda Alisheri;77470103220;F407305;gray;Toyota Corolla;Алматы;Econom
+Dikanbayev Shyngys Kasymkhanovich;77079920989;588SSА02;gray;Hyundai Getz;Алматы;Econom
+Tergeusov Irysbek Tursunovich;77778427037;489DА02;white;Renault Logan;Алматы;Econom
+Ketebayev Batyrbek Zhaksibekovich;77072299240;510VТА02;white;Nissan Terrano;Алматы;Econom
+Kumarbekov Nurtas Nurdauletovich;77082120248;166ММА05;blue;BMW 5er;Алматы;Econom
+Suyunbayev Bakyt Kulchebayevich;77026909052;437КМА05;white;Chevrolet Aveo;Алматы;Econom
+Zetkulov Zhanat Bakhytzhanovich;77770078131;375GОZ05;black;Toyota Corolla;Алматы;Econom
+Usenov Elmurat Usenovich;77071636637;733IQА02;red;Kia Soul;Алматы;Econom
+Kalymzhanov Kayyrbolat Sovetovich;77756017616;079IQА02;white;Renault Duster;Алматы;Econom
+Malygin Roman Konstantinovich;77016364445;367ТUА02;white;Hyundai Solaris;Алматы;Econom
+Mukhamediyev Aset Sauytzhanovich;77756431258;597ЕGА02;black;Lexus IS;Алматы;Econom
+Kabashov Zhanat Kasymbekovich;77024999928;829GОZ05;blue;Volkswagen Golf;Алматы;Econom
+Aldabergenov Ruslan Amanzholovich;77085200882;Х567УВ64;gray;Daewoo Nexia;Алматы;Econom
+Yuldashev Bakhtiyer Tozhidinovich;77085494964;F288502;green;Chevrolet Captiva;Алматы;Econom
+Temirbayev Azamat Zhomartovich;77072927478;081ZDА02;light blue;Hyundai Getz;Алматы;Econom
+Mombayev Abilkhayyr Abilkhasimovich;77023012051;649GАZ05;white;Toyota Camry;Алматы;Econom
+Amanbayev Aset Shayakhmetovich;77471987113;812JJА02;gray;Toyota Camry;Алматы;Econom
+Tumanov Sukhrobb Samadovich;77077756677;546СSВ02;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Kulzhan Kanat Bagdatuly;77474172878;А476DТР;white;Toyota Camry;Алматы;Econom
+Dzhamankeyev Takhir Aglyamovich;77471691537;А668RLN;black;Mercedes-Benz E-klasse;Алматы;Econom
+Toyshybay Rayymberdi Omaruly;77073001535;871АVZ08;black;Daewoo Nexia;Алматы;Econom
+Sarymsakov Zharas Saylaubekovich;77074555087;611ЕZВ02;green;Toyota Windom;Алматы;Econom
+Demura Andrey Valeryevich;77077444450;230УТА02;green;Nissan Sunny;Алматы;Econom
+Tursunbekov Nurgali Zhanatovich;77077696750;827GРZ05;white;Kia Rio;Алматы;Econom
+Chitilov Abdulkarim Makhmudovich;77014153284;595ХТА02;blue;Volkswagen Golf;Алматы;Econom
+Duysenbayev Aydyn Baysynbekovich;77474025975;924DSВ02;gray;Mazda Cronos;Алматы;Econom
+Aleksandrov Igor Yevgenyevich;77073371846;981FСА02;gray;Kia Rio;Алматы;Econom
+Pratsebuda Aleksandr Gennadyevich;77083312707;661КGА02;green;Volkswagen Sharan;Алматы;Econom
+Kosaly Bagdat Mukhtaruly;77058992929;374ХZА13;red;Mercedes-Benz E-klasse;Алматы;Econom
+Khamzinov Bauyrzhan Khabylkakovich;77478864853;467НFВ2;gray;Nissan Almera;Алматы;Econom
+Mukashev Bulat Serikovich;77074985524;688UUА05;gray;Renault Logan;Алматы;Econom
+Daurbayev Nurgali Dastanbayevich;77053990220;352UХА02;red;Nissan Maxima;Алматы;Econom
+Bekzhanov Murat Nurlykhanovich;77012488000;А685НХ;white;Daewoo Nexia;Алматы;Econom
+Baimbetov Shalkar Bauyrzhanovich;77778228888;695DS02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dautov Akimzhan Alimzhanovich;77075050849;923WUА02;green;Toyota Corolla Spacio;Алматы;Econom
+Bulegenov Kanat Rakhmetollayevich;77004302523;367QОZ05;blue;Toyota Prius;Алматы;Econom
+Nigmatov Malik Khismatovich;77775595949;950НОА02;gray;Toyota Corolla;Алматы;Econom
+Suleymanov Rashid Sadykovich;77770217999;822ВNZ02;blue;Toyota Scepter;Алматы;Econom
+Mysakhanov Zhenis Yerbosynovich;77478495984;568QWZ05;red;Nissan Primera;Алматы;Econom
+Imbetov Yerlan;77075558295;229СD02;gray;Volkswagen Polo;Алматы;Econom
+Akylbayev Yerden Kanatovich;77073270700;663LJА02;black;Daewoo Nexia;Алматы;Econom
+Malibekov Nurlan Koylybayevich;77478435693;041КQА02;gray;Daewoo Nexia;Алматы;Econom
+Kalykov Kanat Yerlikovich;77059001166;099URА02;gray;Hyundai Elantra;Алматы;Econom
+Askarov Bakdaulet;77476240039;673АQА02;blue;Nissan Maxima;Алматы;Econom
+Akhmetov Nurzhan Erikovich;77016209542;922DЕА02;white;Nissan Murano;Алматы;Econom
+Userbayev Abzal Zhanadilovich;77782932929;617ТWА13;beige;LADA (ВАЗ) Kalina;Алматы;Econom
+Yerbazarov Bakhytzhan;77070204756;028МNА02;black;Volkswagen Polo;Алматы;Econom
+Selivanov Maksim Sergeyevich;77771505001;858СRВ02;red;Mitsubishi Airtrek;Алматы;Econom
+Zhetpisov Marat;77072407778;862РСА02;brown;Hyundai Solaris;Алматы;Econom
+Baymukhambetov Dauren Iskavylovich;77014262270;162ВА02;white;SsangYong Kyron;Алматы;Econom
+Zhanpeisov Yerbolat Kenzhebekovich;77075586998;А478ZХО;yellow;Toyota Camry;Алматы;Econom
+Zhumagali Rishat;77759906060;353RVВ05;gray;Toyota Windom;Алматы;Econom
+Kondygazhiyev Rakhat Yertisovich;77078899667;741КZА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Tulepbergenov Yerlan Matkerimovich;77077271017;897АН02;yellow;Renault Logan;Алматы;Econom
+Tusupbekov Doszhan Valikhanovich;77473186027;256ВU02;white;Volkswagen Polo;Алматы;Econom
+Dalabayev Yskhan;77073989009;А565СRР;beige;Toyota Camry;Алматы;Econom
+Petrov Andrey Alekseyevich;77478088879;190ААZ15;white;LADA (ВАЗ) Granta;Алматы;Econom
+Naymanbayev Rinat Duzumbayevich;77477775964;057DТВ02;white;Mercedes-Benz E-klasse;Алматы;Econom
+Shamsutdinov Ruslan Abdrashitovich;77773513406;931DWВ02;gray;Peugeot 408;Алматы;Econom
+Polyakov Mikhail Petrovich;77470634653;869МУА04;brown;Mercedes-Benz C-klasse;Алматы;Econom
+Dosakov Kanat Nagashibayevich;77002608177;299ХМА02;black;Skoda Rapid;Алматы;Econom
+Abdulla Beksultan;77477000599;417НАВ02;beige;Land Rover Freelander;Алматы;Econom
+Kabdimalik Zhasulan;77076581603;803GВZ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Yusupov Akhmidzhan Makhmuduly;77016468888;281DКВ02;white;Renault Logan;Алматы;Econom
+Aslanov Sari Bigaliyevich;77472556550;607ОАА02;red;Audi A6;Алматы;Econom
+Aymanov Kaysar Kanatovich;77478443804;738ZUА05;white;Daewoo Gentra;Алматы;Econom
+Yegorov Aleksandr Sergeyevich;77478733207;718QРZ05;blue;Mercedes-Benz C-klasse;Алматы;Econom
+??ralbay Yerkіn;77778246139;654АWZ08;gray;Kia Rio;Алматы;Econom
+Kuttybayev Aydyn Yermekhanovich;77473018848;695КZ05;blue;Mitsubishi Chariot;Алматы;Econom
+Shershnev Ruslan Igoryevich;77087660696;804ЕWВ02;white;Volkswagen Polo;Алматы;Econom
+Makhanbetov Bakyt Shengelbayevich;77079715201;828DЕ02;white;Renault Logan;Алматы;Econom
+Kazkenov Arman Asanuly;77476091819;613НВВ02;blue;Toyota Corolla;Алматы;Econom
+Smirnov Dmitriy Aleksandrovich;77076830235;832ЕZВ13;gray;BMW X5;Алматы;Econom
+Kasymbekov Aslan Bolatoliyevich;77089033391;192УАZ01;red;Audi A6;Алматы;Econom
+Salamatov Yerbulat Maratovich;77071044304;489QАZ05;green;Honda CR-V;Алматы;Econom
+Romashev Yevgeniy Arkadyevich;77714890107;144FНВ02;gray;Nissan Primera;Алматы;Econom
+Sultankulov Chingiz Talgatovich;77782045955;251QАZ05;black;Toyota Corolla;Алматы;Econom
+Namazovi Azer;77085276810;С594202;white;Ravon Nexia R3;Алматы;Econom
+Bekbaulov Kadyrbay Kidirbayevich;77001141407;497НZА02;gray;Toyota Corolla;Алматы;Econom
+Valiyev Ruslan Askarovich;77753937997;842ВТ02;gray;Hyundai Avante;Алматы;Econom
+Niyazov Anuarbek Zinullauly;77079073787;681РDА02;beige;Renault Sandero;Алматы;Econom
+Mamanov Mukhit Tokhtarovich;77784859686;342GХВ02;beige;Daewoo Nexia;Алматы;Econom
+Yusupov Bakhtiyar Rakhmetzhanovich;77073352141;510WНА02;white;Nissan Altima;Алматы;Econom
+Beybit Oralbekov Muratovich;77774080008;829GКВ02;white;Toyota Camry;Алматы;Econom
+?mіrbay Abzal Arysbek?ly;77075284412;Х538VLN;black;Toyota Camry;Алматы;Econom
+Shustov Maksim Aleksandrovich;77473580405;644ВОZ02;gray;Daewoo Matiz;Алматы;Econom
+Kudaybergenov Nursultan Yerlikbekovich;77002006151;388АТZ13;white;Toyota Windom;Алматы;Econom
+Sharipov Urazali Abdimannabugli;77472046628;658GРZ05;white;Daewoo Nexia;Алматы;Econom
+Menilbekov Nurzhan Ukarovich;77083384783;837НQА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Suyekenov Aydos Zhanatovich;77017684472;963А;blue;Mitsubishi Space Star;Алматы;Econom
+Baymurat Saken Serіk?ly;77477888865;449DVВ02;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Salkinbayev Azamat;77023541289;617JIА02;red;Geely Emgrand EC7;Алматы;Econom
+Kadirbekov Zamir Serikovich;77753937733;763IFZ05;light blue;Subaru Impreza;Алматы;Econom
+Kim Vyacheslav Dmitriyevich;77054561880;929IJА02;gray;Hyundai Accent;Алматы;Econom
+Fadeyev Dmitriy Igoryevich;77754447667;635NDА05;gray;LADA (ВАЗ) Largus;Алматы;Econom
+Kalizhanov Nurzhan;77070177259;442АGА02;orange;Hyundai Solaris;Алматы;Econom
+Gusev Kirill Yakovlevich;77473902207;098ННВ02;red;Honda Civic;Алматы;Econom
+Musayev Renat Arupovich;77076002757;986ССВ02;green;Toyota Avensis;Алматы;Econom
+Syrov Arli Kharkeyevich;77773836983;515VАА02;white;Volkswagen Passat;Алматы;Econom
+Paltushev Rassulzhan Abdulkhatovich;77471231154;055DUВ02;gray;Kia Sportage;Алматы;Econom
+Garazhanov Dmitriy Vladimirovich;77074546439;А832МСN;green;Toyota Ipsum;Алматы;Econom
+Alozay Akhmad Zhamil;77479957955;F548302;white;Toyota Corolla;Алматы;Econom
+Manshen Nurbek Nusipbayuly;77085488084;133DМВ02;gray;Toyota Avensis;Алматы;Econom
+Abdilov Zhandos Yerik?ly;77477892414;575ЕВВ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Khomenko Konstantin Nikolayevich;77086265557;А799ЕNО;beige;Toyota Corolla;Алматы;Econom
+Shaburkhanov Dilshat Anvarovich;77085337592;081DFВ02;gray;Mitsubishi Galant;Алматы;Econom
+Pen Sergey Vladimirovich;77471377655;824JJА02;red;Nissan Teana;Алматы;Econom
+Yrysbay Ba?yt;77086827804;867ХАZ02;white;Daewoo Nexia;Алматы;Econom
+Sametov Azatzhan Sadykzhanovich;77470103562;428QQО02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Zhunisov Muratbek Begmanovich;77016857353;945НЕА02;gray;Toyota Camry;Алматы;Econom
+Orziyev Orifchon Mansurovich;77762125000;А587ОМN;beige;Toyota Camry;Алматы;Econom
+Kurban Kudrat Nasrakhunovich;77074025859;923АУВ05;green;Mitsubishi Space Wagon;Алматы;Econom
+Nuskabayev Arman Kudaybergenovich;77007213732;В227РХN;black;Audi 100;Алматы;Econom
+Abzhanov Yerlan Kosylganovich;77081982761;653АNВ02;gray;Toyota RAV 4;Алматы;Econom
+Agayev Aramis;77022859341;370ННА08;blue;Volkswagen Passat;Алматы;Econom
+Matishev Kubanychbek;77773446366;022ВН02;white;Kia Cerato;Алматы;Econom
+Mereke Zhandos Berekeuly;77714030343;998QJА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Borisenko Dmitriy Aleksandrovich;77765077787;027WАА02;yellow;Suzuki Liana;Алматы;Econom
+Turtayev Tanzharyk Satkynbayuly;77001573387;577LLА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Chupin Sergey Nikolayevich;77072181564;794АFА02;white;Daewoo Nexia;Алматы;Econom
+Bazarbayev Omar Ospanovich;77479491920;933АZВ05;gray;Mitsubishi Galant;Алматы;Econom
+Klipan Irina Viktorovna;77074770987;501DGА02;white;Subaru Impreza;Алматы;Econom
+Tokuyev Madiyar Sultanovich;77059906812;962VDZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Zhandauletov Nursultan Kenzhebekuly;77772535240;341АОZ01;white;JAC S3;Алматы;Econom
+Kabanov Aleksey;77088567034;908ККА02;gray;Subaru Forester;Алматы;Econom
+Sharimov Bauyrzhan Mirzabekovich;77778222626;328NСВ05;white;Toyota Corona;Алматы;Econom
+Kozhamkulov Yerik Shakerovich;77083930415;В239СLО;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Shadenov Khalmakhambet Musabekovich;77027432318;830УVА02;green;Toyota Ipsum;Алматы;Econom
+Yerikova Mira;77002380709;М931УА777;black;Hyundai Solaris;Алматы;Econom
+Mazatbekov Kuanysh Nurdauletovich;77025310042;270ВСZ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dautov Shukhrat;77473666823;736ЕZВ02;light blue;Toyota Corolla Spacio;Алматы;Econom
+Boranbayev Tilekbay Tayfunovich;77074799478;295КGА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dzhetpiisov Shakhmaral Skenderovich;77071312590;922NМА02;white;Daewoo Nexia;Алматы;Econom
+Akimkhan Serik;77018887493;934GDВ02;gray;Renault Sandero;Алматы;Econom
+Suleymenov Auez Bekmurzayevich;77075900025;867DВА13;white;Daewoo Nexia;Алматы;Econom
+Zhunilbekov Saken Bakbergenovich;77074018061;095NЕВ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Tleuov Serik Zhuasbekovich;77081066755;101VNА02;white;Mitsubishi RVR;Алматы;Econom
+Turanov Muslim Serikovich;77471536676;110ЕDА16;black;Volkswagen Touran;Алматы;Econom
+Akhmedov Marat Mukhamedugli;77072001662;330ZUZ05;gray;Daewoo Lacetti;Алматы;Econom
+Dautbayev Dulat Maratovich;77087716232;587IСZ05;blue;Subaru Impreza;Алматы;Econom
+Yernatuly Yeldar;77772453045;496ZТZ05;black;Volkswagen Golf;Алматы;Econom
+Markidonov Vladislav Vladimirovich;77072463886;143ЕНВ02;white;Toyota Mark II;Алматы;Econom
+Daukulov Sagynbek Kemelbekovich;77085924342;650QМZ05;black;BMW 5er;Алматы;Econom
+Isabayev Dmitriy;77074749905;610FRВ02;white;Kia Rio;Алматы;Econom
+Primbetov Yerzhan Serikovich;77017780343;565ХСА02;blue;Lexus GS;Алматы;Econom
+Oraz??l Nurzada Nurlan?yzy;77477925501;727АUВ02;light blue;Toyota Camry;Алматы;Econom
+Kulzhanov Kayrat Sarsenovich;77022964680;608РНА02;black;Toyota Corolla;Алматы;Econom
+Dzhamalov Takhir Parkhatovich;77024222298;672GХВ02;gray;Toyota Corolla;Алматы;Econom
+Guliyev Rafiz;77773521752;449КIА02;green;Toyota Carina;Алматы;Econom
+Karaulov Mirzakarim Zhumadilovich;77077552030;746QУZ05;black;Daewoo Gentra;Алматы;Econom
+Rakhymbay Aydos Imankaliuly;77475647449;871ZDА02;gray;Hyundai Getz;Алматы;Econom
+Rakhimbayev Yerlan Taykenovich;77017843444;612NIА02;gray;Hyundai Solaris;Алматы;Econom
+Asylbek Dias Zhanatuly;77477283295;148ЕIА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Seitov Daniyar Khuseynovich;77758945831;610СТВ02;white;Toyota Windom;Алматы;Econom
+Malyukov Maksim Aleksandrovich;77022377731;166GОZ05;black;Volkswagen Polo;Алматы;Econom
+Arystanov Zheksenbay Kyzykbayevich;77777399612;А870SУО;green;Toyota Camry;Алматы;Econom
+Khagay Dmitriy Vyacheslavovich;77479107287;150НК72;gray;Chevrolet Orlando;Алматы;Econom
+Tsoy Vyacheslav Yevgenyevich;77750390968;764МSА05;gray;Hyundai Avante;Алматы;Econom
+Savurov Rekhimzhan Ababakhriyevich;77013222853;356QRZ05;white;LADA (ВАЗ) 2114;Алматы;Econom
+Baygeldinov Ruslan Ruslanovich;77056502001;545РVА13;red;Nissan Qashqai;Алматы;Econom
+Tabyldiyev Sanzhar Nurlanovich;77776843365;701FJА02;red;Volkswagen Polo;Алматы;Econom
+Lyutov Aleksandr Anatolyevich;77013496806;А104АУР;gray;Toyota Camry;Алматы;Econom
+Mamytbekov Zhiger Zharasovich;77022136413;А190СRР;gray;Daewoo Nexia;Алматы;Econom
+Abdurakhmanov Akhmed Rakhmatullayevich;77081503227;310FWА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Berkimbayev Nurbolat Azamatovich;77070100529;347NАZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Bayshashov Rashid Sabyrzhanovich;77479959151;821МQА02;white;Audi A4;Алматы;Econom
+Mashkalov Marat Bauyrzhanovich;77075074396;406DКВ02;gray;Ravon R2;Алматы;Econom
+Ganibayev Nurlybek Nazarbekovich;77079923222;325GМZ05;white;Hyundai Elantra;Алматы;Econom
+Kireyev Rufat Rafikovich;77771755757;01КG031АВL;gray;Toyota Camry;Алматы;Econom
+Abduganiyev Kudratzhan Tursunzhanovich;77470713971;441WFА05;red;Mitsubishi Galant;Алматы;Econom
+Konratbay Madiyar Perdebekuly;77089090705;179АВА17;white;Volkswagen Passat;Алматы;Econom
+Savutov Tashpolat;77073691985;363ZСА02;gray;Hyundai Getz;Алматы;Econom
+Tleubayev Yerbol Zaynetdinovich;77478161242;530QRZ05;black;Toyota Camry;Алматы;Econom
+Kurvanzhanov Ramil;77478303477;747FЕВ02;gray;Audi 100;Алматы;Econom
+Sadykov Yergali Baratovich;77719935268;732МХА02;white;Kia Rio;Алматы;Econom
+Kashkymbay Abylay Amanbayily;77785750545;138ЕDА03;white;Toyota Carina Ed;Алматы;Econom
+Sarkozha Zhanarys Shyngysuly;77025148405;134ZНZ05;black;Daewoo Nexia;Алматы;Econom
+Serikbayev Abdykhamit Bagdanovich;77478568202;584GJА02;green;Toyota Corolla;Алматы;Econom
+Yskak Almas Zhumagaliyevich;77077688833;465GРZ05;black;LADA (ВАЗ) Kalina;Алматы;Econom
+Khudayberdiyev Azizzhan Maratovich;77077633337;236UЕZ05;violet;Mercedes-Benz E-klasse;Алматы;Econom
+Dzheksembayev Bulat Dosymovich;77017218808;Н436602;violet;Renault Samsung SM3;Алматы;Econom
+Sapar Bekzhan Bakhtiyaruly;77756130777;066АСZ12;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Nasenov Askar Ongarbayevich;77077701776;151GОZ05;gray;JAC S3;Алматы;Econom
+Nisanov Bakhytzhan Toksanbayevich;77089045338;268ЕКА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Yurchenko Yuriy Valeryevich;77000101001;А020RАР;black;Toyota RAV 4;Алматы;Econom
+Tazabekov Daniyar Serikovich;77470361519;А730ВВ0;white;Toyota Camry;Алматы;Econom
+Nurgaliyev Bolat Zhamantayevich;77077600544;604ВАВ02;white;Subaru Outback;Алматы;Econom
+Beysenkulov Birzhan Darkhanbekovich;77025615825;016DОВ02;white;Toyota Carina;Алматы;Econom
+Usmanov Takhir Adgamovich;77052419606;299VТА02;white;Renault Logan;Алматы;Econom
+Khalelov Kayrat;77029430720;482DZВ02;blue;Ravon R4;Алматы;Econom
+Ilyas Almas;77006766908;251LVА13;gray;Nissan Primera;Алматы;Econom
+Abdykadyrov Ba?ytzhan Izbasarovich;77772321875;А493ЕНР;gray;Toyota Corolla;Алматы;Econom
+Ozhiganov Vadim Anatolyevich;77765001966;А775ХРО;gray;Subaru Outback;Алматы;Econom
+Klyuyev Artur Vitalyevich;77475060045;352GLZ05;white;Toyota Windom;Алматы;Econom
+Ablakimov Almas Maratbekuly;77077300033;906DТА02;gray;Nissan Qashqai;Алматы;Econom
+Zhiyenkozhanova Aygul Makhmetova;77788326918;В870ТВМ;gray;Toyota Camry;Алматы;Econom
+Alekseyenko Aleksandr Vladimirovich;77071983558;867МGА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dzhafarov Elshan;77071857368;970РDА02;black;Daewoo Nexia;Алматы;Econom
+Leonov Stanislav Yevgeneyevich;77478030870;615GРВ02;red;Mazda 323;Алматы;Econom
+Gaziyev Rustam Rashidovich;77081600405;386FDВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Shiltenbayev Bakhadyr;77713372272;139IОZ13;white;Chevrolet Lacetti;Алматы;Econom
+Bulankin Yevgeniy Gennadyevich;77018023160;582ЕRА02;gray;Kia Cerato;Алматы;Econom
+Kobayev Dauren;77784857521;238ОUА05;gray;Nissan Tiida;Алматы;Econom
+Makhmutov Renat Maripovich;77477414784;497ВК02;white;SsangYong Kyron;Алматы;Econom
+Amirov Asyl Aneskhanovich;77072882848;991WDZ05;white;Peugeot 301;Алматы;Econom
+Yespanov Dauren Sarsenbayevich;77087545572;676UКZ05;gray;Lexus GS;Алматы;Econom
+Shalfeyev Denis Yevgenyevich;77773557737;А773DМN;black;Toyota Caldina;Алматы;Econom
+Yegeubayev Iskander Zufarovich;77078808807;А628СUО;green;Subaru Legacy;Алматы;Econom
+Zhadykov Sagyndyk;77788639471;609АJА02;red;Toyota Corolla;Алматы;Econom
+Tursymbayev Didar Askerbekuly;77055751818;544ЕLА08;white;Toyota Camry;Алматы;Econom
+Akangaliyev Merkhat Ruslanuly;77072386040;492УVА02;black;Toyota Camry;Алматы;Econom
+Mokhammad Nabi Akhmad Ilkham;77070174395;281IGА02;white;Nissan Primera;Алматы;Econom
+Yesembayeva Zarina Zhanatovna;77479833843;606ZВА02;black;Nissan Cefiro;Алматы;Econom
+Asgat Raykhan -;77051328341;567QUZ05;white;Kia Cerato;Алматы;Econom
+Ryskeldiyev Arman Aytbay?ly;77013448895;522СUВ02;gray;Ravon Gentra;Алматы;Econom
+Imanzhanov Kanat Kasymkhanovich;77007666840;532LSА02;gray;Toyota Corolla;Алматы;Econom
+Koshanov Seraly Dzhumanaliyevich;77085487410;293ХWА05;gray;Audi 80;Алматы;Econom
+Abakov Murat Khalitovich;77075855575;052КIА02;green;Nissan Primera;Алматы;Econom
+Fazilov Abaskhan Dautovich;77089895268;521НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Tal?at Temur;77478931241;659GКZ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Kapasov Timur Maratovich;77751504094;909НУВ05;black;Toyota Camry;Алматы;Econom
+Moldashova Zakira Nurlanovna;77476178332;ХО69РА96;beige;Daewoo Nexia;Алматы;Econom
+Tobylbayev Nurbolat Kalymovich;77078160529;963FFВ05;black;Volkswagen Vento;Алматы;Econom
+Taipov Rishat Tursunzhanovich;77072359888;КZ898VОА02;gray;Toyota Camry;Алматы;Econom
+Kebekpayev Yerbol Turuspekovich;77076406046;332DVА05;blue;Subaru Legacy;Алматы;Econom
+Kukimbekov Yerlik Igizbayevich;77023340287;614FКВ02;green;Toyota Caldina;Алматы;Econom
+Golovin Denis Sergeyevich;77075081118;251WNА02;blue;LADA (ВАЗ) Largus;Алматы;Econom
+Mayshybayev Yerkebulan Yermekuly;77002234547;148SТА02;blue;Toyota Avensis;Алматы;Econom
+Kuspayev Talgat Imangaliyevich;77476660480;813ВКZ02;gray;Chevrolet C/K;Алматы;Econom
+Ganibayev Anas Akhmetvaliyevich;77081060226;340WDА02;gray;Daewoo Nexia;Алматы;Econom
+Shishimarin Ivan Sergeyevich;77077431845;539GGА02;gray;Mazda 323;Алматы;Econom
+Isatayev Yerik Amankeldiyevich;77473663717;891АКZ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Ageyev Mikhail Sergeyevich;77078784345;603СВА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Bayuliyev Ruslan Vinsingireyevich;77755358420;540SНА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Ostrovskiy Anton Feliksovich;77051365807;296ЕХВ05;gray;Nissan Primera;Алматы;Econom
+Pak Igor Vladimirovich;77077596821;806РРА05;gray;LADA (ВАЗ) Largus;Алматы;Econom
+ZH?mageldі?ly Aybek;77752350780;778АНО13;red;Opel Vectra;Алматы;Econom
+Sarbasov Altynkhan Alipbayevich;77476029872;790МРА02;gray;Daewoo Nexia;Алматы;Econom
+Chingizkhan Shankar Kunduzoaich;77471594245;860GWВ02;gray;Daewoo Matiz;Алматы;Econom
+Anikiyenko Viktor;77772556658;021GJА02;green;BMW 3200;Алматы;Econom
+Rakhmanov Bolat;77757832249;822МLА02;white;Skoda Rapid;Алматы;Econom
+Bekmurzin Nurbek Ramazanovich;77475711976;102ВА02;white;SsangYong Kyron;Алматы;Econom
+Avgambayev Azamat Alibekovich;77475742393;394QGА02;black;LADA (ВАЗ) 2114;Алматы;Econom
+Akhmetova Indira Nurgaliyevna;77001981500;955DНВ02;gray;Toyota Camry;Алматы;Econom
+Nyusupov Ilyas Kayratovich;77478715868;554GVВ02;brown;Kia Sephia;Алматы;Econom
+Akymzhanov Yermek Ruslanovich;77055600099;818КNА02;white;Volkswagen Golf;Алматы;Econom
+Abilov Ruslan;77753289308;919ХЕА05;light blue;Toyota Picnic;Алматы;Econom
+Bekkoshkarov Rapilbek Parmeshovich;77014477788;915DА02;white;SsangYong Kyron;Алматы;Econom
+Kasymbekov Marat Mamyrbayevich;77007429483;289UVZ05;gray;Audi 100;Алматы;Econom
+Nurtayev Galynzhan Asilbekovich;77006780156;628КРА01;white;Kia Rio;Алматы;Econom
+Kegenbekov Yeldos Kadyrakhynovich;77019820606;044QОQ02;gray;Daewoo Nexia;Алматы;Econom
+Sartbayev Damir Nurdanovich;77058781878;А301DUР;white;ЗАЗ Chance;Алматы;Econom
+Baygereyev Aydar Shaydullayevich;77776884404;421ВFZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Mamedov Rustam Akbar Ogly;77010719716;827ЕIА02;black;Volkswagen Jetta;Алматы;Econom
+Dadayev Idris Kudusovich;77717522257;850FFВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Saprygin Roman Yevgenyevich;77471975306;087РТА;white;Toyota Yaris;Алматы;Econom
+Sayatov Yerbol Keulimzhayevich;77479583060;248ЕNА05;gray;Daewoo Nexia;Алматы;Econom
+Bapanov Rashid Muratovich;77750657070;480NLА08;white;Mercedes-Benz E-klasse;Алматы;Econom
+Altynbek Yelaman K?sh?ar?ly;77089219794;058АВZ13;beige;Nissan Altima;Алматы;Econom
+Sharipov Ravshan Saidovich;77479442107;379LJА02;gray;Daewoo Nexia;Алматы;Econom
+Karimov Alisher Mansurovich;77078179896;734СНВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Taranov Almaz Bagdatovich;77472141484;279QIА02;black;Toyota Camry;Алматы;Econom
+Yergarayev Abylaykhan Sakenovich;77074047124;531DFВ02;white;Mitsubishi Lancer;Алматы;Econom
+Mamedov Samir Kakhraman-Ugly;77754078654;270АGА02;black;Toyota Corolla;Алматы;Econom
+Makhatayev Nurlan Askerbekovich;77087214531;352НD02;blue;Kia Cerato;Алматы;Econom
+Gazizov Amankeldi;77086739033;516АGА02;red;Hyundai Accent;Алматы;Econom
+Khusanbayev Said Alimzhanovich;77056660094;078QКZ05;white;LADA (ВАЗ) 2111;Алматы;Econom
+Demichev Yevgeniy Vyacheslavovich;77076205425;043ВАВ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Zubanov Sayrap Nasipovich;77056455483;063ZУZ05;light blue;Toyota Carina;Алматы;Econom
+Dubovitskiy Yuriy Sergeyevich;77717541039;210FRА02;white;SsangYong Kyron;Алматы;Econom
+Satybaldiyev Talgat Toktasynovich;77072592783;296АUG02;gray;Mercedes-Benz E-klasse;Алматы;Econom
+Omarov Yermek Bakkozhayevich;77479193402;627QRZ05;green;Mazda 323;Алматы;Econom
+Arbudu Rinat Gubezovich;77472790790;509JJА02;black;Volkswagen Golf;Алматы;Econom
+Dzharbasov Madi Kozhakhanovich;77771641853;976QАZ05;green;Subaru Legacy;Алматы;Econom
+Tuzelbayev Darkhan Sagindykovich;77478053450;243АРВ02;white;LADA (ВАЗ) Kalina;Алматы;Econom
+Dzhunisov Ruslan;77089243234;531СZВ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Turebayev Khusain;77014104054;289NSА02;white;Chevrolet Cobalt;Алматы;Econom
+Togaybayev Beglan Bekmuratovich;77788478953;247WLZ05;green;Toyota Windom;Алматы;Econom
+Dosumov Rustam Altynkhanovich;77089892211;214ММА08;black;LADA (ВАЗ) Granta;Алматы;Econom
+Nugmanov Ulan Sherniyazovich;77088588058;318ЕУА02;black;Toyota Camry;Алматы;Econom
+Siprulayev Zulyar Zhalaldinovich;77006922466;673DUВ02;gray;Toyota Camry;Алматы;Econom
+Binazov Alisher;77078218834;399GNZ05;gray;Daewoo Nexia;Алматы;Econom
+Isbasov N?rbek Yertostik?ly;77085340145;366МRА02;white;Hyundai Accent;Алматы;Econom
+Kadyrbayev Baygazy;77478344291;509VХА05;red;Toyota Carina;Алматы;Econom
+Ilyanov Muslim Bogdanovich;77002602352;427GХВ02;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Seytmoldin Adil Nasiollayevich;77009933756;242NNА05;green;Toyota Ipsum;Алматы;Econom
+Tomilin Sergey;77775936560;А466ВLР;gray;Subaru Forester;Алматы;Econom
+Resh Artur Anatolyevich;77475326272;074КGА02;red;Chevrolet Cruze;Алматы;Econom
+Bozbayev Umirzak Zhuparbayevich;77771115177;095ZУА02;gray;Volvo S80;Алматы;Econom
+Kudaybergen Sayat D?ysen?ali?ly;77778411414;429QDZ05;black;LADA (ВАЗ) 2114;Алматы;Econom
+Maulenbayev Dulat Zhalgasuly;77072133388;08КG149АЕN;gray;Nissan Primera;Алматы;Econom
+Serikov Madiyar Ulanuly;77021664497;256NFА02;gray;Nissan Almera;Алматы;Econom
+Shekenov Nurlan Bakytkazyyevich;77759324470;168УNА02;white;Honda Civic;Алматы;Econom
+Vidman Maksim;77002578977;214АFZ08;blue;Volkswagen Golf;Алматы;Econom
+Zhurgen Galym Islamkhanuly;77071624645;601КОА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Vinogradov Vyacheslav Viktorovich;77086980701;173FRВ02;beige;Renault Sandero;Алматы;Econom
+Asanzhanov Ernis Dzhumanovich;77076262294;929КХZ05;light blue;Mazda Demio;Алматы;Econom
+Baubayev Rinat Kenesbekovich;77010722221;817РМА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Berkendiyev Serik;77719894599;345NСВ05;gray;Mitsubishi Galant;Алматы;Econom
+Mamedov Adil Alekseyevich;77766356777;521АGА02;white;BMW 5er;Алматы;Econom
+Kozhamberdiyev Bakhtiyar Suleymanovich;77782893623;146СR02;black;Renault Logan;Алматы;Econom
+Kaliyev Ramis Melisovich;77773380033;581УV02;brown;Renault Logan;Алматы;Econom
+Mustazhanov Daniyar Galeidinovich;77476929919;967УУА02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Bekkaliyev Azamat Yergaliyevich;77474648070;446DВА16;gray;Skoda Rapid;Алматы;Econom
+Adamov Dzhavanshir Anvarovich;77075322224;244МОВ05;beige;Daewoo Nexia;Алматы;Econom
+Valiyev Ramil Tokhtakhunuly;77026502779;052ZVZ05;white;Toyota Ipsum;Алматы;Econom
+Mikhaylov Grigoriy Grigoryevich;77076387242;874SСА02;yellow;Lifan Solano;Алматы;Econom
+Glukhov Aleksandr;77079909030;134МSА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Zhaksylykov Aliyar;77073103650;143JIА;white;LADA (ВАЗ) Granta;Алматы;Econom
+Altayev Kuanyshbek Abzalovich;77476272865;195SUА02;yellow;Hyundai Accent;Алматы;Econom
+Khayraldinov Sabit Kunanbayevich;77089604736;748DLВ02;gray;ЗАЗ Chance;Алматы;Econom
+Utegenov Asylan Nurlanzhanovich;77075289700;909GЕZ05;black;Kia Cerato;Алматы;Econom
+Yerzhanov Yerken Yerenshiyevich;77011253891;420ВLВ05;gray;Nissan Teana;Алматы;Econom
+Chernov Fedor Fedorovich;77470087138;762FQА02;white;Volkswagen Polo;Алматы;Econom
+Gasanov Anar;77089285676;499VRА02;red;Mazda Cronos;Алматы;Econom
+Moldakhmetov Medet Aytbayevich;77014602502;206QGА02;gray;Lexus ES;Алматы;Econom
+Baydullayev Kanat Berikuly;77009876084;662АS02;white;SsangYong Kyron;Алматы;Econom
+Abdi Shoken Osimkul;77078250260;259ВСВ02;gray;Mitsubishi Lancer;Алматы;Econom
+Zhoroyev Kuseyn Ibiraimkulovich;77757875320;875АСС04;red;Daewoo Matiz;Алматы;Econom
+Talasbayev Rustem Orazgaliyevich;77757159373;310УSА05;blue;Mitsubishi Lancer;Алматы;Econom
+Sidiropulo Nikolay Ilich;77477766630;031GТВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Moldaliyev Alimkhan Zhilkibayevich;77714688852;698АVZ13;white;Hyundai Sonata;Алматы;Econom
+Konopya Dulat Nabiyevich;77017990461;096АРВ02;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Khasiyev Aslan Abdirakhmanovich;77074877401;КZ472ZНА02;gray;Nissan Primera;Алматы;Econom
+Kabilov Anvar;77005006014;663УХА0;gray;Lexus GS;Алматы;Econom
+Kulganatov Oralbay Rysbayevich;77073076717;069ККZ05;white;Hyundai Accent;Алматы;Econom
+Kuvanyshbekov Bakhytzhan;77478235776;533IРZ05;beige;Toyota Camry;Алматы;Econom
+Repnikov Yuriy Ivanovich;77478359307;486DА02;white;Renault Logan;Алматы;Econom
+Turanov Valikhan Eraliyevich;77077351997;368АZZ13;gray;Mitsubishi Galant;Алматы;Econom
+Solovyev Dmitriy Aleksandrovich;77770282575;316АТ02;white;SsangYong Kyron;Алматы;Econom
+Kapar Zhaydar Kerimkhanuly;77752800948;913АRZ08;green;Mazda 323;Алматы;Econom
+Kozhanov Arman Zhusupbekovich;77078703329;747RМА;white;Lexus LX;Алматы;Econom
+Baubay Adilbek Abdigaliuly;77075774007;259ЕНВ02;black;Daewoo Matiz;Алматы;Econom
+Zhumayev Yerzhan Yerlanovich;77081715899;502WСА02;white;MG 350;Алматы;Econom
+Shetenov Mukhtar Utelgenovich;77015760096;574GХZ05;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Koskulakov Madikhan Ispandiyarovich;77012324888;787QRZ05;red;Toyota Camry;Алматы;Econom
+Rakhimov Dauren Sabyrovich;77072146476;550FЕА05;gray;Toyota Camry;Алматы;Econom
+Shaymardanov Adilbek Galymovich;77015388648;370СJА02;gray;Kia Rio;Алматы;Econom
+Khalitov Ravil Yunusovich;77471135112;329АSZ08;blue;Toyota Sprinter Carib;Алматы;Econom
+Alimkulov Kuat Arystanovich;77476533520;516ММВ05;white;Toyota Camry;Алматы;Econom
+Ishanaliyev Daurenbek Orynbasarovich;77477258471;196ZКZ05;white;Renault Logan;Алматы;Econom
+Zhansultanov Madiyar Oralovich;77472549527;270НЕ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Dadabayev Alisher Dilshatovich;77023912193;986GWZ05;green;Volkswagen Golf;Алматы;Econom
+Tayrabekov Kayrat Sabyrovich;77714410291;801GRZ05;black;Audi A4;Алматы;Econom
+Isayev Timur Sergeyevich;77011297779;262GJА02;red;Mitsubishi Galant;Алматы;Econom
+Simetov Glazhdin;77073303538;851UХА05;gray;Daewoo Gentra;Алматы;Econom
+Tildakhmetov Madiyar Zainullayevich;77071177050;093GСZ05;green;Toyota Camry;Алматы;Econom
+Ualiyev Khamit Bakhytovich;77002266808;У701УН178;white;Kia Rio;Алматы;Econom
+Alashbayev Asylkhan Amirkhanuly;77077477269;189ВSА17;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Baytoriyev Ruslan Ospanovich;77772260059;091WNZ05;blue;Hyundai Accent;Алматы;Econom
+Samizhan Abzal Zhangeldyuly;77072313122;993WСZ05;white;Hyundai Sonata;Алматы;Econom
+Omar Isa-Tolegen Meyrambekovich;77011622529;Х860ХУА;gray;Mitsubishi Galant;Алматы;Econom
+Mambetov Askar Oralbayevich;77086210106;786QУZ05;gray;Daewoo Gentra;Алматы;Econom
+Islamov Makhmut Mametovich;77777062720;856DХВ02;brown;Ravon R4;Алматы;Econom
+Omarov Adil Binaliyevich;77478802972;488QСZ05;gray;MINI Coupe;Алматы;Econom
+Yerpanayev Sansyzbay Tugelovich;77015889883;848АЕА02;white;Toyota Yaris;Алматы;Econom
+Kadyrbekov Bizhan Kadyrbekkuly;77762277766;423АVZ13;black;Daewoo Nexia;Алматы;Econom
+Amankulov Yermakhan Asanovich;77470555435;228ЕWВ02;white;Daewoo Nexia;Алматы;Econom
+Turysbekov Beimbet;77477675562;833VКА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Omarov Aydar Sattarovich;77072652657;835ЕСВ02;blue;Nissan Almera Tino;Алматы;Econom
+Taurbayev Rashid Burkhanovich;77473086688;585ЕIА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Alibekov Nurali;77789085553;207JGА02;blue;Toyota Camry;Алматы;Econom
+Ikhayev Timurkhan Arkhabekovich;77077259858;467DZВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Prokhorov Vitaliy Anatolyevich;77081000838;567ЕКВ02;white;Hyundai Sonata;Алматы;Econom
+Omarbayev Yermek Temirkhanovich;77071887023;136WRZ05;white;Toyota Camry;Алматы;Econom
+Alekseyev Aleksey Valeryevich;77759333481;981DR02;white;Renault Logan;Алматы;Econom
+Tkach Yevgeniy Borisovich;77077809849;898ВQА02;gray;Daewoo Nexia;Алматы;Econom
+Aylzhanov Aytu?an ?ayrat?ly;77474805744;422АLZ16;gray;Toyota Vista;Алматы;Econom
+Makin Alibek Nurlanuly;77003656700;171ХВА05;blue;Subaru Legacy;Алматы;Econom
+Yzgarbek Yermek Yesenbayuly;77471392029;963LJА02;white;Daewoo Nexia;Алматы;Econom
+Glintsov Andrey Sergeyevich;77083013181;А416D0Р;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Musakulov Serik Saldarbekovich;77054234343;396КQА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Alisherov Yernar Abdyldauly;77006507470;280IGА02;black;Daewoo Matiz;Алматы;Econom
+Shirinov Mavlyud Aliyevich;77784937448;032GСВ02;black;Mercedes-Benz E-klasse;Алматы;Econom
+Yelubayev Ulan Omirbekovich;77077512035;466НZА05;black;Mercedes-Benz E-klasse;Алматы;Econom
+Akhmetov Duman Zhumabekovich;77022608360;366LIА02;green;Toyota Camry;Алматы;Econom
+Pirnazarov Rustam Kurvankulovich;77072100095;418КРА02;gray;Chevrolet Aveo;Алматы;Econom
+Baymuratov Ablaykhan Aldabergenovich;77477361592;286IСZ05;red;Mitsubishi Lancer;Алматы;Econom
+Omarbekov Nursultan Seytovich;77026201113;828FQА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Saugabekov Tanat Zhaksylykovich;77078156308;425UZА05;gray;Toyota Picnic;Алматы;Econom
+Zulufov Ruslan Alimovich;77777318242;546GRВ;black;Toyota Camry;Алматы;Econom
+Ukenov Nurkanat Daniyarovich;77769933000;803МLВ05;brown;Skoda Octavia;Алматы;Econom
+Aldyyarov Alibi Shamilyevich;77072231979;565ОВА05;gray;Kia Rio;Алматы;Econom
+Namazbay Ayan Talgatuly;77478707717;546АGА02;gray;Daewoo Nexia;Алматы;Econom
+Nurpeisov Yerbol Amirgazhiyevich;77756948977;450RАZ05;red;Mazda 626;Алматы;Econom
+Tіleu?azin Talant Bolat?yzy?ly;77085089893;КZ011SРА02;white;Kia Rio;Алматы;Econom
+Bazarbekov Zhanat Tursynbayevich;77078341914;498DР02;white;Skoda Octavia;Алматы;Econom
+Akhmetzhanov Kuanysh Yesimbekuly;77052494900;982SRА02;blue;Nissan Almera;Алматы;Econom
+Kurman?ali Aydyn Kurman?ali?ly;77072122635;867WРZ05;gray;Toyota Ipsum;Алматы;Econom
+Mukashe Bolat;77014003954;066М0В05;gray;Mercedes-Benz 190 (W201);Алматы;Econom
+Kulenov Didar Yernarovich;77089279729;641IJА02;white;Daewoo Nexia;Алматы;Econom
+Zhantasov Maksat;77782105360;113GUВ02;gray;Toyota Corolla;Алматы;Econom
+Turarov Yeldos Battalgazyyevich;77004159629;139КНА05;gray;LADA (ВАЗ) Kalina;Алматы;Econom
+Adilbek Syrym Pazyluly;77754335577;901ЙВЯ05;white;Toyota Camry;Алматы;Econom
+Livinov Vladimir;77076369306;482GОВ02;beige;Hyundai Accent;Алматы;Econom
+Amirkulov Zhangeldy Kuralasovich;77077449444;F600802;white;LADA (ВАЗ) Granta;Алматы;Econom
+Sultanov Sakit;77077486707;164НVВ05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Kovalchuk Andrey Vladimirovich;77479229770;839NУА02;gray;Nissan Qashqai;Алматы;Econom
+Tyryshev Azamat Sergeyevich;77471641003;130IJА02;black;LADA (ВАЗ) 2115;Алматы;Econom
+Tulegenov Yergazy Kaldybayevich;77079294674;187УАZ05;gray;Mercedes-Benz S-klasse;Алматы;Econom
+Kim Pavel Vasilyevich;77770991888;373ЕЕВ02;white;Toyota Estima;Алматы;Econom
+Iskhakov Renat Makhametovich;77011003693;046GGА02;black;Hyundai Accent;Алматы;Econom
+Suleymenov Aydyn Uldakhanovich;77073133961;Х792МЕ178;white;Kia Rio;Алматы;Econom
+Musayev Yerlan Zheksembayevich;77472580906;574JGА02;white;Volkswagen Passat;Алматы;Econom
+Urakov Timur Sapargaliyevich;77009888814;373DWВ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Volynkin Vasiliy Yuryevich;77772235967;А137VZО;green;Toyota Highlander;Алматы;Econom
+Pereverzev Aleksandr Anatolyevich;77076806810;А079FSО;red;Toyota Carina E;Алматы;Econom
+Kenzhesh Daniyar ?abay?ly;77021286777;341NJА02;black;Toyota Camry;Алматы;Econom
+Nukhayev Yerkebulan Tolegenovich;77029578429;538DАZ02;gray;Nissan Primera;Алматы;Econom
+Shaydulin Vadim Sergeyevich;77016805242;195УDА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Tsybulya Vasili Viktorovich;77055352455;291ОUА05;black;LADA (ВАЗ) Granta;Алматы;Econom
+Mokhammad Zakhir Mokhammad Amin;77028279948;F606702;white;Daewoo Matiz;Алматы;Econom
+Aykhimbekov Yerlan Yeralykovich;77070440450;069ВLВ02;gray;Hyundai Sonata;Алматы;Econom
+T?r?ynbek Shalkar -;77026606089;973КWZ05;gray;Toyota Corolla;Алматы;Econom
+Abdikerimov Yerlan Gabitovich;77003300154;937АSZ08;red;Toyota Camry;Алматы;Econom
+Aldangarov Arnur Maratovich;77081440350;387КNА09;white;LADA (ВАЗ) Kalina;Алматы;Econom
+Rakhmetova Perizat Dzharkimbekovna;77759323230;634QАZ05;brown;LADA (ВАЗ) XRAY;Алматы;Econom
+Kemaruly Khusain;77072106755;788QIА02;gray;Toyota Avensis;Алматы;Econom
+Chernikov Oleg;77769800111;945АSА02;gray;Toyota Land Cruiser Prado;Алматы;Econom
+Isayev Talgat Asanbekovich;77714145697;772КGА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Madikhanov Nursanovich Kaysar;77076888194;163ЕQА02;white;Hyundai Accent;Алматы;Econom
+Zhalgasbayev Nurlan Zhusipbayevich;77757744555;795МIА02;gray;Hyundai Accent;Алматы;Econom
+Nurkhozhayev Samat Abdykaliyevich;77027850602;Н639LА02;white;Nissan Cefiro;Алматы;Econom
+Kerimtayev Kayrat Sarsembayevich;77027894252;991ZFА05;white;Volkswagen Polo;Алматы;Econom
+Turayev Batyrbek;77027857978;503МУА13;green;Mercedes-Benz E-klasse;Алматы;Econom
+Motkhalyk Kuanysh Nurboluly;77789557878;142NFА08;green;Nissan Maxima;Алматы;Econom
+Madiyev Bakhytzhan;77472579989;696INZ05;gray;Hyundai Solaris;Алматы;Econom
+Amanov Yermek Balgabekovich;77714452561;134СРА02КZ;green;Mazda 323;Алматы;Econom
+Kokenov Bedelkan Kokenuly;77017336975;В033УОN;blue;Toyota Camry;Алматы;Econom
+Isayev Kanat Nurtayuly;77075259970;208УАZ01;gray;Chevrolet Cruze;Алматы;Econom
+Dosimov Amantay Sultanovich;77074745531;817НРА05;gray;Chevrolet Spark;Алматы;Econom
+Imashev Mereke Kazbekuly;77789883953;774GZВ02;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Zhetenov Toktasyn Mombekovich;77474517947;572МЕВ05;gray;Toyota Camry;Алматы;Econom
+Boranbayev Olzhas Talgatovich;77027411139;134МGА02;white;Volkswagen Polo;Алматы;Econom
+Baynazarov Sapartay Abzalovich;77780046884;178УАZ02;white;Daewoo Nexia;Алматы;Econom
+Sarimbetov Abzal Tolegenovich;77779734040;301FАВ02;green;Hyundai Avante;Алматы;Econom
+Kasimov Shukhrat Asimovich;77052599612;А612WDО;white;Toyota Camry;Алматы;Econom
+Ruslan Rollan Rabik?ly;77754455599;В690VZN;gray;Toyota Camry;Алматы;Econom
+Shaltayev Timur Serikovich;77012122555;750ZКZ05;blue;Mercedes-Benz E-klasse;Алматы;Econom
+Kazen Seter;77771210349;469ККZ05;black;Toyota Camry;Алматы;Econom
+Akshabayev Arsen Aytelbayevich;77073660566;493АСВ05;red;Ford Focus;Алматы;Econom
+Kasymov Khalmurat Dilmuratovich;77085480038;284QIА02;black;Mitsubishi Lancer;Алматы;Econom
+Amankulov Ruslan Mukhtarbekovich;77002447238;280ЕУВ02;gray;ЗАЗ Chance;Алматы;Econom
+Dzhakybayev Yerzhan Yermekovich;77478342326;391QNZ05;gray;BMW 3200;Алматы;Econom
+Sarybayev Nurbek Yermekuly;77076986688;270QJА02;green;Toyota Camry;Алматы;Econom
+Abdymazhitov Sadyr Kadyrovich;77079669609;584VDZ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Kozhamkulov Ulys Berdibekovich;77075156677;737JGА02;gray;Nissan Cefiro;Алматы;Econom
+Yevseyev Vadim Aleksandrovich;77772630532;054ЕАВ05;gray;Mitsubishi L200;Алматы;Econom
+Zhansabayev Samat Sovetovich;77078211113;963САВ02;white;LADA (ВАЗ) 2114;Алматы;Econom
+Zolotykh Yaroslav Igorevich;77077065500;472СУР02;gray;Kia Sorento;Алматы;Econom
+Tnyshtikov Manarbek Kuanyshovich;77075550109;625ОFВ05;gray;Hyundai Elantra;Алматы;Econom
+Li Eduard;77055551588;430ВКВ02;gray;Ford Mondeo;Алматы;Econom
+Kadyrov Azizzhan Anvarovich;77087371886;566ОХА05;black;BMW 3er;Алматы;Econom
+Nauruzov Ravil Abdrakhimovich;77477715715;402FUВ02;white;Daewoo Nexia;Алматы;Econom
+Pykhtin Mikhail Anatolyevich;77055686565;А614ЕВР;blue;Nissan Almera;Алматы;Econom
+Gubaydolla Daniyar Ramazanuly;77784826373;078СJА02;red;Mitsubishi Galant;Алматы;Econom
+Barashev Yelnur Bauyrzhanuly;77473334793;938ООQ02;blue;LADA (ВАЗ) Priora;Алматы;Econom
+Vinogradov Yuriy Yuryevich;77004173501;175LКА08;red;Volkswagen Golf;Алматы;Econom
+Zheksenov Maksut Nurgaziyevich;77783800201;364РNА05;white;Daewoo Nexia;Алматы;Econom
+Sagindykov Timur Khaltayevich;77078485121;033МJА02;blue;Toyota Camry;Алматы;Econom
+Kulinchenko Maksim Aleksandrovich;77073755640;015QIА02;green;Hyundai Getz;Алматы;Econom
+Moldagozhayev Nariman;77072675444;438АSВ02;yellow;Lexus RX;Алматы;Econom
+Daurbayev Kuat Batikhanovich;77477696937;128LIА02;green;Toyota Corona EXiV;Алматы;Econom
+Danilenko Denis Vladimirovich;77081501385;487НКВ02;violet;Subaru Legacy;Алматы;Econom
+Dilmanov Marat Meyrambekovich;77477119539;739ХВZ11;black;Opel Vectra;Алматы;Econom
+Bakytzhan Didar;77474504349;966ЕУВ02;gray;Volkswagen Golf;Алматы;Econom
+Kuzenbayev Bolat Bakhtybayevich;77087457648;843ВSВ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Odinets Sergey Leonidovich;77772449052;А290WРО;green;Subaru Forester;Алматы;Econom
+Abiyev Talap Alikhanovich;77717811818;132WRА02;blue;Nissan Maxima;Алматы;Econom
+Sarymbetov Abylay Ibraimovich;77479952162;095АОZ13;gray;Ravon Nexia R3;Алматы;Econom
+Mityanova Tatyana Nikolayevna;77475879813;779АСВ02;gray;Toyota Yaris;Алматы;Econom
+Kadyrbayev Arystanbek Abzhapparovich;77477809820;512GКZ05;white;Toyota Camry;Алматы;Econom
+Baratov Abdunabi Abdurasulovich;77002025447;466КСZ05;gray;Hyundai Sonata;Алматы;Econom
+Kumarbekov Aydyn Mamyrbayevich;77052617592;460ССВ02;white;Chevrolet Cobalt;Алматы;Econom
+Oralkhan Ilyas Adilkhanuly;77000994050;497DАВ02;white;LADA (ВАЗ) 2114;Алматы;Econom
+Shapinov Zhan Serikovich;77056255736;712ЕТВ05;gray;Toyota Avensis;Алматы;Econom
+Zhakiyenov Azamat Ualkhanovich;77058280332;079JIА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Zordunov Rustam Akhmetovich;77472221715;983FUВ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Salikhov Magomed Khizbulayevich;77477817748;378МGА02;green;Mercedes-Benz E-klasse;Алматы;Econom
+Kozhatayev Kuanysh Kanatovich;77086545068;430DА02;gray;Opel Vectra;Алматы;Econom
+Nitsa Fedorovna Olga;77073352829;403УRА05;white;Kia Cerato;Алматы;Econom
+Malimanov Yekpin Sadvakasovich;77781074543;039ТОА09;white;Ravon Nexia R3;Алматы;Econom
+Yespenbetov Mukhit Nurdauletovich;77789504039;678QТZ05;brown;Nissan Juke;Алматы;Econom
+Muslimov Madi Nurlanovich;77075525355;548UNZ05;white;Nissan Bluebird;Алматы;Econom
+Turarov Aydos Battalgazyyevich;77471676804;375КSА05;gray;LADA (ВАЗ) Kalina;Алматы;Econom
+Namazov Aydar Nyshanovich;77076244567;924FХВ02;black;Volkswagen Polo;Алматы;Econom
+Kasymbayev Yedil Abilgazhyyevich;77770187938;А823НРN;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Svetlov Oleg Ivanovich;77087264501;859ЕGА02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Avpazuly Almatbek;77006060434;028GХZ05;white;Hyundai Accent;Алматы;Econom
+Mallakhanov Didar Alimkhanovich;77026582500;865DОВ02;beige;Daewoo Nexia;Алматы;Econom
+Kokkozov Yerbolat Sydykovich;77072185062;309ХNА05;gray;Daewoo Nexia;Алматы;Econom
+Tileuov Bakhytzhan Nurlanovich;77006414341;140АХZ13;gray;Daewoo Nexia;Алматы;Econom
+Chayrbayev Nurlan Nurzhauovich;77476018159;560ВRZ02;green;Toyota Picnic;Алматы;Econom
+Zasseyev Artem Sogratovich;77477923592;072ZРА05;black;Daihatsu YRV;Алматы;Econom
+Mindvali Madiyar;77076364843;093WSZ05;black;Toyota Yaris;Алматы;Econom
+Tsoy Vitaliy Ki-Cherovich;77017730028;181GJА02;white;Mercedes-Benz M-klasse;Алматы;Econom
+Myrzatayev Yerkin Yerlikovich;77017462381;379DJА02;green;Toyota Camry;Алматы;Econom
+Khabirov Fayruz Khablovich;77081268303;849DЕ02;white;Renault Logan;Алматы;Econom
+Daumbekov Yerbolat Turganovich;77478022989;581GРВ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Nurekenova Venera Rashatovna;77771150938;868UАZ05;white;Daewoo Nexia;Алматы;Econom
+Seytkaliyev Chokhan Sadybekovich;77772702830;562WSА02;white;Toyota Previa;Алматы;Econom
+Volkov Maksim;77774807354;260GZZ05;white;Daewoo Nexia;Алматы;Econom
+Rakhmetov Meyram Seytmagzamovich;77076587795;463FJА02;white;Volkswagen Polo;Алматы;Econom
+Shamshilov Aybek Aliyaruly;77014266894;112ВВА02;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Sembekov Marat Suylemenovich;77021506337;712IРZ05;green;Honda Orthia;Алматы;Econom
+Zhylkyshbayev Tlep Merekeyevich;77479523783;022DХА05;white;Daewoo Nexia;Алматы;Econom
+Korolev Aleksey Valeryevich;77072322305;706КLВ05;white;Volkswagen Golf;Алматы;Econom
+Yeleuov Alim Alibekovich;77003031963;798МZА05;white;LADA (ВАЗ) Priora;Алматы;Econom
+Makhanbekov Daulet Bekbosynovich;77013756161;199QМZ05;white;Daewoo Nexia;Алматы;Econom
+Batyrkhanov Nursultan Duysenbayevich;77005109192;088UZА13;black;Daewoo Nexia;Алматы;Econom
+Sarybayev Yernar Raykulovich;77789570640;516IDА02;red;Nissan Almera;Алматы;Econom
+Undirisbayev Almas Tanatar?ly;77077038062;710МАZ02;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Uralbayev Timur Kenesbayevich;77711093572;860ZRZ05;gray;Chevrolet Cruze;Алматы;Econom
+Sagyndyk Koblan Yerzhanuly;77026674242;401DJА02;black;Toyota Avensis;Алматы;Econom
+Shikhaliyev Rafik Salamovich;77022296666;049АWВ05;white;Mitsubishi Galant;Алматы;Econom
+Gabitov Vadim Valeryevich;77077031703;115ZТА02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Ilyushchenko Vladislav Yevgenyevich;77476103270;137МIА02;gray;Daewoo Nexia;Алматы;Econom
+Ruziyev Bolat Maksumovich;77477726146;282АОZ01;black;LADA (ВАЗ) Granta;Алматы;Econom
+Mustafayev Darkhan;77082067329;969IУZ05;beige;ЗАЗ Chance;Алматы;Econom
+Zaytsev Sergey Andreyevich;77082423342;207GUВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Aldabergen Nurkasym Myrzabayuly;77776010486;057АDZ17;white;Mitsubishi Lancer;Алматы;Econom
+Akhmollayev Ilmurat Tursunzhanovich;77076677818;614МРА02;black;Volkswagen Polo;Алматы;Econom
+Zhumbayeva Bolatbek Zhaksylykovich;77054947268;267ВАА04;gray;Mazda 626;Алматы;Econom
+Karimov Abdurashid Abdugapparovich;77474919921;764FQА02;blue;Renault Logan;Алматы;Econom
+Sokolenko Valeriy Dmitriyevich;77774897089;678ВIА02;red;Audi 100;Алматы;Econom
+Yevtushenko Anatoliy Vladimirovich;77058147216;569QОQ02;gray;Honda Civic;Алматы;Econom
+Nurlybayev Kuanysh Yergaliyevich;77001919454;916НQА02;blue;Toyota Corolla;Алматы;Econom
+Kedik Anton;77774132750;F615602;black;Subaru Impreza;Алматы;Econom
+Kyrgyzbek Abdikul;77000975737;131ЕUВ05;yellow;Toyota Camry;Алматы;Econom
+Sakhariyev Yerlan Muratkhanovich;77075110700;021МЕВ05;white;Hyundai Accent;Алматы;Econom
+Tlegenov Tanat Sabitovich;77075833656;051GОZ05;white;Toyota Yaris;Алматы;Econom
+Dautalov Zhumagazy;77073401173;437IХZ05;blue;Toyota Camry;Алматы;Econom
+Yusubov Anar Mamedovich;77007444537;450GХВ02;beige;Subaru Outback;Алматы;Econom
+Toleubekov Mukhit;77073488312;708UРА05;gray;Nissan Almera;Алматы;Econom
+Nurlan Zhandos Nurlanuly;77473195006;067DВА05;blue;Toyota Carina;Алматы;Econom
+Kosymov Batyrzhan;77760050490;138GNZ05;black;LADA (ВАЗ) Kalina;Алматы;Econom
+Aralbayev Yernar Serikovich;77059541506;551ВLА02;gray;Mazda 626;Алматы;Econom
+Taukenbayev Aset Nurgayypovich;77777025050;755ЕУВ05;gray;Toyota Camry;Алматы;Econom
+Nugumanov Adil Bolatovich;77087056151;851VЕZ02;red;Kia Cerato;Алматы;Econom
+Akhtamov Farkhad Israilovich;77767446770;131ZWА02;gray;Ford Focus;Алматы;Econom
+Sasykov Takhir Yeybaydulovich;77071907338;109ЕUВ02;white;Lifan X50;Алматы;Econom
+Shynykov Rauan Koyshybekovich;77752287213;339ZОА02;blue;Volkswagen Jetta;Алматы;Econom
+Ospanov Manat Salimovich;77713789949;495QОО02;gray;Nissan Almera;Алматы;Econom
+Makhmetov Daulet;77070225765;204КGА02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Koshtayev Zhumakhan Nurbolatovich;77021075602;292ААZ17;red;Daewoo Matiz;Алматы;Econom
+Abshayakov Zhanserik Bekmaratovich;77078596391;326МIА02;white;Renault Logan;Алматы;Econom
+Mamyrbayev Marat Saniyazovich;77770219994;482FNВ02;black;Daewoo Nexia;Алматы;Econom
+Kuratov Boris Anatolyevich;77475552904;828ВАВ02;white;SsangYong Kyron;Алматы;Econom
+Kashkinbayev Kaysar Yerkinbekovich;77470802910;014ВIА02;red;LADA (ВАЗ) 2114;Алматы;Econom
+Mamyrbayev Amangeldy Shakatovich;77078603665;339QУZ05;white;Toyota Camry;Алматы;Econom
+Zharyl?asyn Mergen;77472061998;198АSZ08;light blue;Mazda 626;Алматы;Econom
+Bostanzhiyev Dzhabrail Iskendirovich;77478920692;266VFZ02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Antayev Alibi Kayratovich;77054159521;Н787СТ72;green;Daewoo Nexia;Алматы;Econom
+Boranbayev Murat Dulatovich;77477292118;385КРА;gray;Volkswagen Golf;Алматы;Econom
+Kulbanbayev Marat;77077132123;228МТА05;black;Daewoo Nexia;Алматы;Econom
+Mukhametzhanov Talgat Serikkhanovich;77029618777;807ВWВ02;gray;Skoda Rapid;Алматы;Econom
+Bapsanov Meyrambek Akazanovich;77781456135;201АСZ16;gray;LADA (ВАЗ) 2114;Алматы;Econom
+Kasenov Rifat Nurgaliyevich;77473164253;054ОIА02;gray;Toyota Camry;Алматы;Econom
+Iskakov Bakytzhan Ryskulovich;77476588200;585НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Aminov Rustam Rafailyevich;77073388351;032GRВ02;white;Renault Megane;Алматы;Econom
+Aksenov Dmitriy Valentinovich;77714114488;656ВА02;white;SsangYong Kyron;Алматы;Econom
+Duysenbek Akzhol Orazgaliuly;77083795208;564ОDВ05;red;Toyota Carina;Алматы;Econom
+N?sіpov ?anat Bauyrzhan?ly;77078086745;318ХВZ02;black;LADA (ВАЗ) Granta;Алматы;Econom
+Sirazetdinov Izmir Radikovich;77022543606;А633WЕО;gray;Toyota Celica;Алматы;Econom
+Ivanov Timur Vladimirovich;77778163344;809LJА02;red;Audi A4;Алматы;Econom
+Bogatyrev Sergey Viktorovich;77078214683;066VNА02;black;Toyota Prius;Алматы;Econom
+Tokmurzayev Kenzhetay Kabdoldayevich;77055544575;875ВGА02;white;Lexus ES;Алматы;Econom
+Iskakov Abzal Koyanakovich;77478102010;756ОQQ02;gray;Daewoo Nexia;Алматы;Econom
+Chebotarev Dmitriy Anatolyevich;77052103451;971РУА02;gray;Chevrolet Niva;Алматы;Econom
+Iskrin Aleksandr Andreyevich;77079240073;533ОQО02;gray;Daewoo Nexia;Алматы;Econom
+Duysekeyev Yermek Maralovich;77783732999;233ААА10;white;LADA (ВАЗ) Granta;Алматы;Econom
+Davydenko Semen Nikolayevich;77017204490;322ЕRВ02;white;Mitsubishi Pajero;Алматы;Econom
+Selbayev Nurbol Kadirkhanovich;77479901635;753НLВ;red;Volkswagen Golf;Алматы;Econom
+Kikmbayev Dauren Usenovich;77089283462;082NСВ05;beige;Kia Optima;Алматы;Econom
+Afizulla?ly Abibulla;77071654565;394КМВ05;gray;Daewoo Nexia;Алматы;Econom
+Karatalov Toktasyn Kakanovich;77083795135;847QМZ05;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Tіldakhmetov Azamat Zaynolla?ly;77076145656;722LRА13;black;Audi 100;Алматы;Econom
+Zaynullin Diyar Maratovich;77474126086;334DDА02;gray;Hyundai Getz;Алматы;Econom
+Akhtayev Bakhtiyar;77784652023;564NАВ02;red;Daewoo Nexia;Алматы;Econom
+Plyusnin Maksim Vladimirovich;77474042660;А188РDО;beige;Lexus RX;Алматы;Econom
+Memeshev Asylbek Turganuly;77087187944;551FNВ02;gray;Kia Rio;Алматы;Econom
+Polinkevich Aleksandr Olegovich;77772245040;886ННВ02;gray;ЗАЗ Chance;Алматы;Econom
+Islamov Tairzhan Akhmetzhanovich;77478185007;606СLВ02;gray;Toyota Aristo;Алматы;Econom
+Ibrayev Arman;77077743704;629INZ05;gray;Audi A4;Алматы;Econom
+Musayev Sukhrat Sovutzhanovich;77088338187;205АRВ02;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Ayubekov Nursultan Yerzhanuly;77774050100;928QТZ05;white;LADA (ВАЗ) Kalina;Алматы;Econom
+Musa Fakhardin Nasibulayevich;77012775720;896КМZ05;green;Nissan Cefiro;Алматы;Econom
+Inamov Kakhirman Narimanovich;77024873370;738ZХZ05;black;Toyota Caldina;Алматы;Econom
+Lebedev Stanislav Vladimirovich;77078495230;959ВIА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Omarov Abay Amangeldyyevich;77073153934;725АGА01;gray;Hyundai Accent;Алматы;Econom
+Bekbayev Yerslan Nusipovich;77475628419;973ВIА02;white;Renault Logan;Алматы;Econom
+Aysarov Efrat;77087616243;266QDZ02;white;Hyundai Accent;Алматы;Econom
+Azykhanov Bekenay;77086098891;043FGА02;blue;Daewoo Nexia;Алматы;Econom
+Mulyukov Damir;77076787300;927МJА02;gray;Hyundai Sonata;Алматы;Econom
+Agadilov Askan;77076125762;950QТZ05;white;Toyota Camry;Алматы;Econom
+Myrzakhmetov Nurbol;77056675788;877КQА02;black;LADA (ВАЗ) Priora;Алматы;Econom
+Karamatov Almat Bekmuratovich;77073214751;628NРВ05;green;Toyota Cresta;Алматы;Econom
+Chumachenko Sergey Viktorovich;77789817727;122МVА01;white;Hyundai Accent;Алматы;Econom
+Seitov Azizzhan Kurvanzhanovich;77766050666;752GNВ02;white;Toyota Sprinter;Алматы;Econom
+Atmosferin Igor Igorevich;77057799992;514АNZ16;gray;Daewoo Matiz;Алматы;Econom
+Abdul Gavur Masud;77782749440;908АVZ08;white;Toyota Corolla;Алматы;Econom
+Okashev Dastan;77713721854;121СRА11;gray;Mitsubishi Outlander;Алматы;Econom
+Yuldashev Rustam Sydyk-Zhanovich;77051156653;898АRВ02;white;Hyundai Sonata;Алматы;Econom
+Zhurakhunuly Rozimakhamet;77009868535;598IDZ13;white;Daewoo Nexia;Алматы;Econom
+Zhalmagambetov Yerlan;77071640688;957UСА02;white;Daewoo Gentra;Алматы;Econom
+Arystan Askhat Turganbayuly;77075079069;859FНВ02;white;Hyundai Accent;Алматы;Econom
+Shkapov Vladimir Aleksandrovich;77076266322;249ВУВ02;black;Subaru Legacy;Алматы;Econom
+Abdybayev Yerlan Aytkanuly;77773000418;726WVА02;blue;Volkswagen Polo;Алматы;Econom
+Betsilayev Islam Khasalbekovich;77072140990;413GАВ02;gray;Mitsubishi Lancer;Алматы;Econom
+Ogiyenko Ruslan;77472999965;084КJА02;black;Hyundai Accent;Алматы;Econom
+Burtsev Ivan Gennadyevich;77778048434;585ККА02;gray;Mitsubishi Diamante;Алматы;Econom
+Janibekov Sultanbek;77472691463;359АЕВ02;black;Mercedes-Benz E-klasse;Алматы;Econom
+Zhumabekov Konstantin Bakhtiyarovich;77003999879;А805АSР;white;LADA (ВАЗ) Kalina;Алматы;Econom
+Tanakulov Akan Muvaryagovich;77021242435;258СD02;black;Volkswagen Polo;Алматы;Econom
+Mukushov Kumarbek Gusmanovich;77000070129;713НDА01;gray;BMW 5er;Алматы;Econom
+Taipov Kasymzhan Abdyvaliyevich;77073336141;819GКВ02;gray;Toyota Camry;Алматы;Econom
+Yusupov Talgat;77758664825;098FRВ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Abdullayev Aydos Dyusengaliyevich;77074549571;276UDА02;red;Mazda 626;Алматы;Econom
+Zhusipov Yersultan Bakhtiyarovich;77029910100;756СНВ02;white;Daewoo Nexia;Алматы;Econom
+Ismailov Dzhandos Asolbekovich;77786099910;781ООQ02;gray;Daewoo Nexia;Алматы;Econom
+Baymukhanbetov Dosym Meyramkhanovich;77758583688;732АFZ16;black;Toyota Carina;Алматы;Econom
+Zharilkanov Azamat Urazbekovich;77714136302;842СRА02;gray;Daewoo Nexia;Алматы;Econom
+Skripnikov Aleksandr Valeryevich;77083251485;795АNВ02;green;Toyota WiLL;Алматы;Econom
+Zhakyp Yerik Kalpasuly;77072121973;328ХАZ02;gray;Daewoo Nexia;Алматы;Econom
+Rgizbayev Medet Makhatovich;77071592923;494ВSВ02;blue;Mercedes-Benz W124;Алматы;Econom
+Zhunysbek Baktiyar Zharylkasynuly;77077157354;158НVА05;red;Mitsubishi Space Wagon;Алматы;Econom
+Dildabekov Baglan Daurenbekovich;77479124889;124WZА02;white;Hyundai Accent;Алматы;Econom
+Zhanayev Bolatbek Kalshabekovich;77014110669;578UЕА02;black;Volkswagen Polo;Алматы;Econom
+Akhtanov Damir Tursumbayevich;77472826882;522VНА02;light blue;Toyota Yaris;Алматы;Econom
+Mangulov Satybaldy Beysenbayevich;77055557324;115АWВ02;gray;Ford Focus;Алматы;Econom
+Kuralov Arman Dukenbayevich;77079900975;833DАВ05;brown;Mazda 626;Алматы;Econom
+Dolzhikov Vladislav Vladimirovich;77081003904;279ZРА02;white;Hyundai Accent;Алматы;Econom
+Skakov Dmitriy Pavlovich;77079111150;А036СТР;red;Mitsubishi Lancer;Алматы;Econom
+Speranskiy Boris Viktorovich;77765167345;293DМ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kulzhanov Rauan Begdildayevich;77472923171;307QGА02;white;Hyundai Accent;Алматы;Econom
+Medzhan Baurzhan Muratzhanuly;77079000341;493IRZ05;white;LADA (ВАЗ) Granta;Алматы;Econom
+Khramov Oleg Yuryevich;77713704342;730НWА14;black;Mercedes-Benz C-klasse;Алматы;Econom
+Kamalidenov Nurbolat Anesovich;77752027470;Х934ОТ64;gray;Hyundai Accent;Алматы;Econom
+Durmekbay Duman Yerzhanuly;77075288294;116DZВ02;gray;Daewoo Nexia;Алматы;Econom
+Ospanov Abay Uteuliyevich;77479777292;616КIА02;white;Skoda Rapid;Алматы;Econom
+Aliyev Takhir Alimzhanovich;77071957989;647QNZ05;white;Volkswagen Polo;Алматы;Econom
+Nurmukhametov Dauren Nurmukhametovich;77023223606;039МВА01;red;Mitsubishi Galant;Алматы;Econom
+Zhylkybayev Abdulkhamit Yelzhasovich;77471666708;326IJА02;red;Hyundai Accent;Алматы;Econom
+Satybaldiyev Serikuly Madyar;77475676287;091ХТА02;white;Nissan Almera;Алматы;Econom
+Zhumabekov Dastan Dauletovich;77474381055;727АЕZ05;gray;LADA (ВАЗ) Priora;Алматы;Econom
+Marasulov Maksat Baydybekovich;77077751405;294VRА02;gray;Mercedes-Benz W186;Алматы;Econom
+Pinchuk Grigoriy Nikolayevich;77089668551;609GНZ05;light blue;Hyundai Accent;Алматы;Econom
+Bolyskanov Turar Abzalovich;77087700148;043FLА05;blue;Daewoo Nexia;Алматы;Econom
+Moldakul Askar Arapbekuly;77077350078;246СD02;black;Volkswagen Polo;Алматы;Econom
+Abroriddin Abdumusayabzod;77029845444;F632402;black;Toyota Corolla;Алматы;Econom
+Akhynov Askhat Balgabayevich;77479792515;285НКВ02;gray;Nissan Cefiro;Алматы;Econom
+Adambek Aydyn Altynbekuly;77073032070;078НСВ02;gray;Mitsubishi Lancer;Алматы;Econom
+Aybasov Rinat Dzheksembayevich;77078231628;966FGА02;black;Toyota Camry;Алматы;Econom
+Pak Ruslan Tomasovich;77077755451;332КQА02;white;LADA (ВАЗ) Priora;Алматы;Econom
+Kadyrbayev Nurtas Mukhtarovich;77476797100;А491ZVО;gray;Toyota Camry;Алматы;Econom
+Zhangaziyev Serikkan Agadayevich;77080127740;078QВZ05;gray;Nissan Cefiro;Алматы;Econom
+Kamalov Nurali Mukhitdinovich;77004228603;341АЕВ08;gray;Nissan Maxima;Алматы;Econom
+Kosayev Dauren Satylganuly;77478768671;511УV02;white;Skoda Octavia;Алматы;Econom
+Akhmedov Balabek Zhalaliyevich;77075197019;Н508UZМ;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Bekturganova Botagoz Avazbekovna;77086885340;А517ВFР;gray;Daewoo Nexia;Алматы;Econom
+Abikeshov Ruslan Bekzatuly;77051444469;165DСВ02;white;Toyota Camry;Алматы;Econom
+Baratov Sanat;77473741083;135FLА02;gray;Daewoo Nexia;Алматы;Econom
+Rakhimov Zakir Azatovich;77073113175;570ТУА02;gray;Nissan Almera;Алматы;Econom
+Andashev Turatbek;77072040808;573АТ02;white;Daewoo Nexia;Алматы;Econom
+Yusupov Yelshan -;77479577773;844WRZ05;green;Toyota Caldina;Алматы;Econom
+Baimbetov Marat Yelyubayevich;77770100372;414ЕFВ02;white;Daewoo Nexia;Алматы;Econom
+Nurmaganbetov Zhumagali Utebayevich;77473041970;929SАА05;blue;Toyota Camry;Алматы;Econom
+Aytnazarov Shakhnazar Tilyapzhanovich;77071921992;113ВА02;white;SsangYong Kyron;Алматы;Econom
+Karasev Sergey Petrovich;77772261479;922ВОВ02;white;LADA (ВАЗ) Largus;Алматы;Econom
+Khusainov Shamil Zinatullayevich;77772580088;206ЕЕВ02;white;Ravon R4;Алматы;Econom
+Smailov Bekzat Smailovich;77779550108;519NDА02;blue;Volkswagen Golf;Алматы;Econom
+Duysenbekov Zhandos Boribekovich;77077771104;859НАZ05;black;LADA (ВАЗ) 2114;Алматы;Econom
+Sadygulov Askat Askarovich;77752767174;799GЕВ02;white;ЗАЗ Chance;Алматы;Econom
+Ibishev Murat Milyasovich;77071933547;F524402;white;LADA (ВАЗ) Granta;Алматы;Econom
+Zhunusov Talgat Nurbekovich;77770301807;417FZВ02;red;Volkswagen Polo;Алматы;Econom
+Zhamanbayeva Ayazhan Amantayevna;77474437030;764FQА02;blue;Renault Logan;Алматы;Econom
+Utarbayev Davronbek Maratovich;77473513114;673NZВ05;gray;Nissan Cefiro;Алматы;Econom
+Karimbayev Sadridin;77476793921;521NСВ05;black;LADA (ВАЗ) Granta;Алматы;Econom
+Kiselev Aleksey Alekseyevich;77017343660;412ЕАВ02;blue;Mitsubishi Carisma;Алматы;Econom
+Bekishev Adelkhan Shayarmetovich;77719043464;664АLА09;blue;LADA (ВАЗ) Granta;Алматы;Econom
+Kozhan Almat Amyrbekuly;77071751525;591QQО02;white;Audi 80;Алматы;Econom
+Valiyev Rusten Askarovich;77751004718;148ЕGА02;white;Hyundai Avante;Алматы;Econom
+Usenov Serik;77759516838;В546ZFN;red;Mitsubishi Galant;Алматы;Econom
+Gi Yuriy Vitalyevich;77771506328;101ВUА02;gray;Mitsubishi Lancer;Алматы;Econom
+Mamytbekov Nurzhan Baurzhanovich;77074112629;492САВ02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kim Viktor Gennadyevich;77076179195;691DS02;beige;Renault Logan;Алматы;Econom
+Toktagan Nurzhan Turarbekuly;77007647081;651АСZ11;green;Volkswagen Passat;Алматы;Econom
+Kurinko Sergey Vladimirovich;77003151251;764НЕВ02;gray;Volkswagen Polo;Алматы;Econom
+Aldabergenov Ramazan Kayratovich;77474802789;598НD02;white;LADA (ВАЗ) Granta;Алматы;Econom
+Kireyev Igor Viktorovich;77472977217;599VЕZ02;gray;LADA (ВАЗ) Granta;Алматы;Econom
+Isanov Yerzhan Bizhakiyevich;77015400094;487СZ02;white;Renault Logan;Алматы;Econom
+Serikbayeva Bakhyt Suleymenovna;77078167070;496ХКА02;blue;Honda CR-V;Алматы;Econom
+Taylakbayev Sabit Talgatovich;77083322336;163VМА02;brown;Ravon Nexia R3;Алматы;Econom
+Karauylov Kanat Ibinzhanovich;77772311879;522QUZ05;gray;Toyota Camry;Алматы;Econom
+Sidorchuk Ruslan Rakhimovich;77770237700;772СIА02;gray;MG 350;Караганда;Econom
+Gril Viktor Valterovich;77476168530;566UОА09;red;LADA (ВАЗ) Priora;Караганда;Econom
+Sinitsin Igor Yuryevich;77071627294;842ZDА02;white;Mercedes-Benz E-klasse;Караганда;Econom
+Odintsov Vladimir Nikolayevich;77775277228;576SУА09;white;Kia Rio;Караганда;Econom
+Zhakupov Zhasulan;77711024560;М390КНМ;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Yurchenko Sergey Sergeyevich;77057061003;391DIА02;white;LADA (ВАЗ) Kalina;Караганда;Econom
+Trubnikov Nikolayevich Aleksandr;77002553368;739SZА09;white;Skoda Octavia;Караганда;Econom
+Yerezhepov Yertay Asanuly;77473979868;975IВZ05;white;ЗАЗ Chance;Караганда;Econom
+Abdullayev Azat Aralbayevich;77719773453;923НQА02;white;LADA (ВАЗ) Granta;Караганда;Econom
+Lukashov Maksim Vladimirovich;77776111515;690DJА09;green;Hyundai Sonata;Караганда;Econom
+Seydikerimov Daulet Maksatuly;77026524000;203FWВ02;gray;Hyundai Accent;Караганда;Econom
+Mamazhanov Dastan Muratbekovich;77028749000;521FQА09;gray;LADA (ВАЗ) 2112;Караганда;Econom
+Kordas Aleksandr Anatolyevich;77001349470;М088НКN;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Komarov Roman Viktorovich;77472480248;294;yellow;Volkswagen Polo;Караганда;Econom
+Vilgauk Viktor Aleksandrovich;77082171607;189ВОА09;gray;Audi 100;Караганда;Econom
+Karipov Azamat Zhumazhanuly;77750277172;936VLА09;light blue;Nissan Almera;Караганда;Econom
+Niyazov Rustam Malikovich;77714912241;А092КОО;white;Ford Focus;Караганда;Econom
+Mamedyarov Nurlan Duysenovich;77470674048;397СНА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Krivtsov Oleg Sergeyevich;77074021225;128LVА09;gray;Audi A4;Караганда;Econom
+Turtbayev Farkhad Kambarovich;77071791988;093GNZ05;white;Toyota Corolla;Караганда;Econom
+Saltykov Igor Sergeyevich;77082663553;235АNА09;white;Kia Rio;Караганда;Econom
+Smorodin Dmitriy Vitalyevich;77786191757;204ТНА09;red;Volkswagen Passat;Караганда;Econom
+To?an Zhar?yn;77753599888;344UКА09;gray;LADA (ВАЗ) Granta;Караганда;Econom
+Sagandykov Aydar Olzhebayevich;77087104520;808SWА09;light blue;Toyota Highlander;Караганда;Econom
+Zaikin Nikolayevich Aleksandr;77072876542;М378NУМ;blue;Mitsubishi RVR;Караганда;Econom
+Zhumagulov Darkhan Rymbekovich;77710445541;304ТАZ09;green;Hyundai Accent;Караганда;Econom
+Kurbanov Vasiliy Aleksandrovich;77026147252;972ТСА09;white;Mazda Cronos;Караганда;Econom
+?adyr Asylzhan Aydar?ly;77772303114;461NМА09;blue;Honda CR-V;Караганда;Econom
+Kengirbayev Ruslan Serzhanovich;77786299996;7170ТА09;white;Mercedes-Benz Vito;Караганда;Econom
+Marat Yeldos Yermakanuly;77759803017;758ЕGА10;black;LADA (ВАЗ) 2114;Караганда;Econom
+Andreyev Dmitriy Vladislavovich;77084818937;В319КК174;gray;LADA (ВАЗ) 2112;Караганда;Econom
+Kozhakhmet Zhasulan Muratkhanuly;77015740982;732ТWА09;blue;Volkswagen Golf;Караганда;Econom
+Zkriyanov Nurbek Kydyrbekuly;77055777704;466FFА16;black;BMW 5er;Караганда;Econom
+Aubakirov Zhanat Zholamanovich;77479142123;552РWА09;black;Volkswagen Passat;Караганда;Econom
+A?ylbekov Manas Arap?ly;77010707997;082QGА02;green;Subaru Legacy;Караганда;Econom
+Kyzdarbekov Abay Umurzakovich;77003164414;285ТСА09;brown;Renault Sandero;Караганда;Econom
+Mashrapov Amir Nurlanovich;77025726637;443SSА09;black;Ravon R4;Караганда;Econom
+Sharipov Manat Kanatovich;77071132176;814АОZ05;gray;Hyundai Sonata;Караганда;Econom
+Tazhibayeva Aynur Akhmataliyevna;77474690785;D661С;gray;Toyota Vitz;Караганда;Econom
+Saken Farkhad;77754777725;334ЕQА09;blue;BMW 5er;Караганда;Econom
+Zhaksybayev Ayzharkyn Bakytzhanovich;77077606217;681FSА15;red;Volkswagen Vento;Караганда;Econom
+Starozhilov Oleg Rudolfovich;77011212621;844КVА09;gray;Chevrolet Orlando;Караганда;Econom
+Toletayev Baurzhan Rakhyshuly;77071776858;106ВАZ08;blue;Nissan Cefiro;Караганда;Econom
+Baytuganov Maziken Olzhatayevich;77711968284;С585КР102;light blue;LADA (ВАЗ) 2123;Караганда;Econom
+Mukatayev Dulat Saparovich;77083938521;596ВАZ09;red;Opel Astra;Караганда;Econom
+Sarsekeyev Zhandos Kasymtayevich;77786733634;591НUА09;gray;Hyundai Accent;Караганда;Econom
+Usenov Tagaybek Sanakbayevich Tagaibek Sanakbayevich;77785829766;М578ННN;black;Mercedes-Benz C-klasse;Караганда;Econom
+Stetsyuk Islam;77089695744;313SRА09;blue;Kia Cerato;Караганда;Econom
+Mezhakov Andrey Nikolayevich;77778937393;М306UСМ;gray;Mazda 626;Караганда;Econom
+Sharafislamova Liliya Abulkaramovna;77077887714;315ЕLА09;red;Kia Rio;Караганда;Econom
+Myrzabek Ali Orazbek?ly;77076359495;734FZВ02;black;Audi A6;Караганда;Econom
+Lichman Aleksandr Yevgenyevich;77476323614;519ОUА09;gray;Mitsubishi Galant;Караганда;Econom
+Yesirgepov Ayan Alimbayevich;77001589422;452DJА09;blue;Volkswagen Golf;Караганда;Econom
+Temirov Medet Zhaylaubekovich;77009178640;283ТАZ09;white;LADA (ВАЗ) Priora;Караганда;Econom
+Rechkin Vladimir Vyacheslavovich;77082366109;509SАZ09;gray;Mazda 626;Караганда;Econom
+Shamen Yernar Khasenuly;77769121290;606VВZ09;blue;Mercedes-Benz C-klasse;Караганда;Econom
+Rakhmanbergenov Aydyn Serikovich;77028788809;078АSА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Akhmetov Murat Zhandybayevich;77023704081;259НJА09;gray;Mazda 6;Караганда;Econom
+Syzdykov Zhanibek Zholdas;77072420450;Х716АN0;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Sinelnikov Igor Mikhaylovich;77052784376;528РАА09;brown;Mercedes-Benz C-klasse;Караганда;Econom
+Balkenov Yerlan;77003590803;М0340WМ;gray;Volkswagen Passat;Караганда;Econom
+Kasymov Aziz;77003046006;S0789АВ;gray;Toyota Mark II;Караганда;Econom
+Konovalov Andrey Andreyevich;77084910638;368РUА09;gray;Volkswagen Golf;Караганда;Econom
+Gordyushkin Aleksandr Veniaminovich;77788482913;782LОА09;violet;Volkswagen Golf;Караганда;Econom
+Petryakov Andrey Viktorovich;77024262543;705ОDА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Uspanov Zair Ustenovich;77072098182;073LGА02;white;Toyota Mark II;Караганда;Econom
+Pak Aleksandr Lukyanovich;77009728741;644VLА09;gray;Nissan Primera;Караганда;Econom
+Tuleubayev Altay Umerbayevich;77787888340;032СGА09;red;Volkswagen Vento;Караганда;Econom
+Kusainov Daniyar Ampiyevich;77003348689;214ВIА09;green;Skoda Fabia;Караганда;Econom
+Normanskikh Ruslan Samigullovich;77004112267;048VZА09;red;Volkswagen Polo;Караганда;Econom
+Oraltay S?l?m?t Samat?ly;77055945308;348НЕА14;red;Volkswagen Passat;Караганда;Econom
+Sadvakasov Yerzhan Tursynovich;77025079144;103ЕDА09;red;Volkswagen Vento;Караганда;Econom
+Azizkhodzhayev Timur Anvarovich;77014840230;964QМZ05;gray;Hyundai Accent;Караганда;Econom
+Kenzhegulov Arman Dautovich;77777231611;456КZА09;red;Renault Logan;Караганда;Econom
+Abitzhanov Yerbolsyn Baurzhanovich;77474563677;617ОQО02;brown;ЗАЗ Vida;Караганда;Econom
+Falileyev Nikolay Valeryevich;77052510532;898ОМА09;red;LADA (ВАЗ) 2110;Караганда;Econom
+Chichevatkin Ivan Viktorovich;77076094300;971ВJА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Smailov Zhanil Bakhtyzhanovich;77010000323;09АJА899;gray;Kia Sorento;Караганда;Econom
+Buryachenko Dmitriy Viktorovich;77001478267;617МDА09;green;Nissan Maxima;Караганда;Econom
+Korolev Aleksandr Vladimirovich;77786389199;271UМА09;blue;Opel Astra;Караганда;Econom
+Ibadeldinov Madi Mubyarakovich;77009198969;М237VОМ;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Tleuberdinov Eduardt Nabiyevich;77711925978;М024WАА09;blue;Volkswagen Golf;Караганда;Econom
+Galimov Radion Vyacheslavovich;77000937009;337UТА09;blue;Mercedes-Benz E-klasse;Караганда;Econom
+Tkachenko Aleksey Vitalyevich;77076375207;М245ЕWN;black;Nissan Primera;Караганда;Econom
+Valiakhmetov Ruslan Aleksandrovich;77015696222;423VВА09;gray;Audi 80;Караганда;Econom
+Arkenov Timur Kurdashevich;77772170003;685VNА09;red;LADA (ВАЗ) 21099;Караганда;Econom
+Ramkov Andrey Vadimovich;77071106803;710ТТА09;red;Mitsubishi Space Runner;Караганда;Econom
+Tagayev Ruslan Abatovich;77015740416;115NТА09;red;Mazda 626;Караганда;Econom
+Khalkov Aleksey Sergeyevich;77059797877;911ЕDА09;black;BMW 5er;Караганда;Econom
+Magziyev Yerkinbek Akanovich;77011750520;513FZА14;blue;Toyota Prius;Караганда;Econom
+Karamyrza Alibek Madiaruly;77058293912;475UUА09;black;Mitsubishi Space Star;Караганда;Econom
+Zhakhin Birzhan Aytzhanovich;77758194475;М649НВN;white;Opel Astra;Караганда;Econom
+Yakovlev Vladislav Viktorovich;77085508169;927VМА09;brown;Renault Sandero;Караганда;Econom
+Kovalev Vitaliy Vladimirovich;77751575786;264ТСА09;black;BMW 7er;Караганда;Econom
+Kalykov Zhenis Maratovich;77012845127;362UZА09;blue;Toyota RAV 4;Караганда;Econom
+Bulegenov Nurzhan Muratovich;77783825054;630VЕА09;black;Audi 80;Караганда;Econom
+Fribus Aleksey Viktorovich;77752476734;897VНА09;gray;Opel Astra;Караганда;Econom
+Urazbayev Yerik Umurzakovich;77774183255;783FNА09;blue;Subaru Legacy;Караганда;Econom
+Sitnikov Vitaliy Aleksandrovich;77088013013;329URА09;black;LADA (ВАЗ) 2115;Караганда;Econom
+Maratov Altynbek Nurlanovich;77073094560;160АSА09;blue;Volkswagen Passat;Караганда;Econom
+Zhunusov Kuanysh Nuridenovich;77015467973;913МRА09;red;Mitsubishi Carisma;Караганда;Econom
+Folenvayder Vyacheslav Aleksandrovich;77085175634;806FНА09;gray;Volkswagen Vento;Караганда;Econom
+Zelinskaya Mariya Sergazyyevna;77761476956;643МLА09;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Azamat Bayanov Sagintayevich;77014880048;372LАА09;blue;Toyota Aygo;Караганда;Econom
+Zavotpayev Izbasar Tursungaliyevich;77765681621;280DТА09;violet;Volkswagen Golf;Караганда;Econom
+Sakabayev Ilyas Omurbayevich;77088998130;892ТLА09;gray;Nissan Sunny;Караганда;Econom
+Minin Vladimir Nikolayevich;77472788938;821DЕ02;white;Renault Logan;Караганда;Econom
+Uteshev Arman Izbasarovich;77472342434;195ХАZ02;gray;Daewoo Gentra;Караганда;Econom
+Konyrov Zhanat Kabeshovich;77014922951;485ЕNА09;green;Mazda Millenia;Караганда;Econom
+Dzhumanov Askar Rakhmetollayevich;77013039605;397VКА09;black;LADA (ВАЗ) Granta;Караганда;Econom
+Polyakov Oleg Vladimirovich;77474263065;731ТVА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Ospanov Nursultan Tleshovich;77071010069;626FLА09;green;LADA (ВАЗ) Priora;Караганда;Econom
+Artemenko Denis Ivanovich;77009665039;282UМА09;red;BMW 3er;Караганда;Econom
+Yafyasov Nail Rakipovich;77017658594;М819ЕРN;black;Kia Carnival;Караганда;Econom
+Ibrayev Kayrzhan Aytmakovich;77016663188;572LNА09;black;Renault Logan;Караганда;Econom
+Tsoy Aleksandr Viktorovich;77474318562;295АНА09;white;Mercedes-Benz C-klasse;Караганда;Econom
+Gaysin Ruslan Khalimovich;77003863633;328LUА09;gray;LADA (ВАЗ) Priora;Караганда;Econom
+Kulzhanov Temirbulat Kazizuly;77087557793;158GВА09;white;Volkswagen Passat;Караганда;Econom
+Dzhakhangirov Sakhkhat Akhad;77770722162;287РUА09;white;Volkswagen Passat;Караганда;Econom
+Korzhov Aleksandr Vladimirovich;77475037706;796ООА09;green;Volkswagen Passat;Караганда;Econom
+Pak Igor Grigoryevich;77013161279;097ВQА09;gray;Toyota Cresta;Караганда;Econom
+Zakirov Rashid Ktanovich;77753399700;737VLА09;gray;Volkswagen Passat;Караганда;Econom
+Kuznetsov Aleksey Sergeyevich;77005551035;488КLА09;black;LADA (ВАЗ) Granta;Караганда;Econom
+Mironov Roman Valentinovich;77023682208;141GDА09;gray;LADA (ВАЗ) 2115;Караганда;Econom
+Sodikzhon Uulu Sardorbek;77765029240;М455УММ;green;Volkswagen Multivan;Караганда;Econom
+Nemirovskiy Dmitriy Viktorovich;77475016962;284ТАА09;green;Mercedes-Benz S-klasse;Караганда;Econom
+Yanulis Sergey Kazisovich;77056780075;819ЕТА09;beige;Nissan Almera;Караганда;Econom
+Kozyar Andrey Nikolayevich;77014744852;М681SFМ;blue;Audi 100;Караганда;Econom
+Kolesnikova Svetlana Nikolayevna;77052486052;543NВА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Gorelov Dmitriy Sergeyevich;77770560053;342ВIА09;white;Opel Vectra;Караганда;Econom
+Vafin Ilfat Rinatovich;77712633554;998ОRА09;white;Audi A6;Караганда;Econom
+Beysembayev Ospanovich Yerbol;77016266044;258UУА09;white;Hyundai Creta;Караганда;Econom
+Zholanov Rustem Zhanatovich;77019830200;170КIА02;white;Skoda Rapid;Караганда;Econom
+Ablayev Amantay Aliyevich;77075031333;185IUZ05;gray;Subaru Impreza;Караганда;Econom
+Aleynikov Sergey Mikhaylovich;77715289440;242SТА09;white;Volkswagen Passat;Караганда;Econom
+Smeyan Vitaliy Vladimirovich;77089599575;049НSА09;white;LADA (ВАЗ) Priora;Караганда;Econom
+Pugach Sergey Mikhaylovich;77085487033;М954НNN;green;Ford Maverick;Караганда;Econom
+Rapishev Abzal Kabykenovich;77017714249;595SТА09;blue;Mazda MPV;Караганда;Econom
+Kamyshnikov Maksim Sergeyevich;77786284945;В050РА174;gray;LADA (ВАЗ) 2114;Караганда;Econom
+Izbastenov Arman Miramovich;77056345070;525VJА09;beige;LADA (ВАЗ) 2114;Караганда;Econom
+Yanchuk Andrey Yuryevich;77757824734;553АQА09;blue;BMW 5er;Караганда;Econom
+Shin Sergey Maksimovich;77471508246;226SЕА09;gray;Volkswagen Passat;Караганда;Econom
+Mashrapov Gennadyevich Yerlan;77084903507;408НЕА09;blue;Renault Sandero;Караганда;Econom
+Qarayev Tehran Ali;77776115240;К775ХР174;red;LADA (ВАЗ) 2115;Караганда;Econom
+Negrey Denis Sergeyevich;77072525265;558UОА09;white;Audi A4;Караганда;Econom
+Zhivtsov Aleksandr Dmitriyevich;77002222166;751VНZ09;black;Chevrolet Cruze;Караганда;Econom
+Luka Denis Vladimirovich;77016522591;432SZА09;gray;LADA (ВАЗ) 2112;Караганда;Econom
+Abdukarimov Otabek Aybekzhanovich;77075101518;D3764С;brown;Audi 100;Караганда;Econom
+Trebukhin Dmitriy Yuryevich;77053992107;М525НРМ;gray;Volkswagen Passat;Караганда;Econom
+Kaukenov Nurlan Kayratovich;77784447957;053АСZ09;green;Mazda 626;Караганда;Econom
+Abe Antsevich Nikolay;77788485282;172NFА09;blue;Volkswagen Golf;Караганда;Econom
+Marmentyev Aleksandr Fedorovich;77009178780;603АТА09;gray;Volkswagen Passat;Караганда;Econom
+Kucherenko Vladimir Yuryevich;77073443016;Н518ЕО154;gray;LADA (ВАЗ) 2115;Караганда;Econom
+Kuprashevich Dmitriy Vladimirovich;77473559226;0741ВЕ31;brown;Hyundai Solaris;Караганда;Econom
+Suindikov Ruslan Askarovich;77052281009;852ВJА09;red;Opel Astra;Караганда;Econom
+Galov Sergey Anatolyevich;77012588834;М923УНМ;blue;Volkswagen Passat;Караганда;Econom
+Murzayev Vladimir Borisovich;77005661697;А490ТО77;black;Hyundai H-1;Караганда;Econom
+Galimzyanov Ruslan Telmanovich;77027061410;724DQА09;black;SsangYong Korando;Караганда;Econom
+Kuntsevich Viktor Nikolayevich;77015112876;Т895РР150;gray;Nissan Almera Classic;Караганда;Econom
+Bazylov Tasbolat Kuanyshevich;77056272379;838АТА09;brown;Mitsubishi Galant;Караганда;Econom
+Tapayev Asylkhanovich Bakitkhan;77009182144;103LСА09;white;Toyota Corolla;Караганда;Econom
+Nurtazin Nurlan Bakytovich;77009639011;890ОНА09;black;JAC S3;Караганда;Econom
+Zhumashev Abdigali Batyrbekovich;77089051974;071SУА09;gray;Ravon Nexia R3;Караганда;Econom
+Karibayev Aysultan Yersinuly;77750620101;062NWА09;gray;Geely Emgrand X7;Караганда;Econom
+Uakasov Marat Noyabryatovich;77024795194;166ММА09;red;Volkswagen Passat;Караганда;Econom
+Borovik Aleksandr Nikolayevich;77782813801;211GАА09;white;Changan Eado;Караганда;Econom
+Nurpeysov Kuanovich Aliaskar;77015808737;173ТСА09;gray;BMW 5er;Караганда;Econom
+Orynbasarov Ruslan Myrzabayevich;77780008207;917SЕА01;gray;Hyundai Elantra;Караганда;Econom
+Yesebayev Adilzhan Orakovich;77080649006;361VJА09;red;BMW 5er;Караганда;Econom
+Bakirov Dosan Kuralovich;77755532333;220DЕА09;white;Volkswagen Polo;Караганда;Econom
+Aubakirov Ayat Amantayevich;77789667744;963МАZ08;gray;LADA (ВАЗ) Priora;Караганда;Econom
+Umbetov Oleg Viktorovich;77004511058;207АDZ09;blue;Hyundai Creta;Караганда;Econom
+Fedorov Vasiliy Alekseyevich;77785472820;243LUА09;red;Volkswagen Passat;Караганда;Econom
+Shurukhaylov Aleksandr Sergeyevich;77003553146;184АQА09;blue;Volkswagen Passat;Караганда;Econom
+Dautkazin Madiyar Dautkazyuly;77785826778;633РZА09;blue;Renault Logan;Караганда;Econom
+Alimzhanov Adilzhan Kayratuly;77083516050;320МСА;red;Volkswagen Vento;Караганда;Econom
+Omirzak Dauren Dauiruly;77024169490;193UЕА09;gray;LADA (ВАЗ) 2115;Караганда;Econom
+Atygayev Temirzhan Yeldosovich;77025438895;060FМА09;gray;Hyundai Elantra;Караганда;Econom
+Ten Andrey Andreyevich;77021231240;738ЕМА08;red;Volkswagen Passat;Караганда;Econom
+?onarbay Ar?yn ?ayrat?ly;77027901034;636ВVА09;red;Mercedes-Benz E-klasse;Караганда;Econom
+Shevchuk Yevgeniy Aleksandrovich;77773547531;934КZА09;gray;LADA (ВАЗ) 2114;Караганда;Econom
+Koylybayev Aslan Yergaliyevich;77019087999;272DGА;gray;LADA (ВАЗ) Priora;Караганда;Econom
+Asylbayev Dzhanbolat Baltashevich;77085484827;578VGZ09;white;Nissan Qashqai;Караганда;Econom
+Asauov Timur Nurlanovich;77778909698;048КZА09;red;BMW 3er;Караганда;Econom
+Kuzin Yegor Timurovich;77089598180;235VNА09;white;Volkswagen Passat;Караганда;Econom
+Abdrashev Zhandos Kasymzhanovich;77757411444;981FFА09;gray;Geely Emgrand X7;Караганда;Econom
+Kuanyshbayev Adilzhan Bolatovich;77013240233;459FРА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Tazhibayev Gafurzhan Khazhibayevich;77003815525;706ККА09;black;Ford Focus;Караганда;Econom
+Orynbayev Bekzat Yegintayevich;77024457037;883ЕSА09;black;Mercedes-Benz 190 (W201);Караганда;Econom
+Kabdulla Akhmad;77011219289;206UАА09;blue;Audi A6;Караганда;Econom
+Zhanatbekova Shynar Bekbolatovna;77002897622;М948КZN;green;Mercedes-Benz C-klasse;Караганда;Econom
+Otroshko Aleksandr Sergeyevich;77083565042;329ТНА09;black;Mercedes-Benz E-klasse;Караганда;Econom
+Ko Vitaliy Ilich;77085546355;401ВIА09;light blue;Mercedes-Benz C-klasse;Караганда;Econom
+Shlakov Oleg Sergeyevich;77015126006;568SСА09;gray;Renault Duster;Караганда;Econom
+Abishev Gubaydolla;77051133015;615USА09;blue;Volkswagen Golf;Караганда;Econom
+Omarov Marat Turmukhambetov;77000818168;281VLА09;white;Mercedes-Benz E-klasse;Караганда;Econom
+Serdyllayev Nurbol Omaruly;77002842869;702ХРА02;green;Mercedes-Benz C-klasse;Караганда;Econom
+Abramov Sergey Yevgenyevich;77003645545;647РНА09;white;Volkswagen Passat;Караганда;Econom
+Zhiyenbayev Darkhan Saulekhanovich;77083556202;045FGА09;blue;Mercedes-Benz E-klasse;Караганда;Econom
+Nurkeyev Tlektes Aliaskarovich;77059721052;281ТАА09;black;LADA (ВАЗ) Priora;Караганда;Econom
+Altabayev Vitaliy Vladimirovich;77001415110;938UТА09;gray;LADA (ВАЗ) 2114;Караганда;Econom
+Khamitov Askhat Iskakovich;77024121010;905SZА09;gray;Kia Rio;Караганда;Econom
+Alzhanov Zhasulan Kaliyevich;77000212526;748ВLА09;green;Mitsubishi Space Gear;Караганда;Econom
+Altfreyter Olegovich Denis;77750093551;616КРА09;blue;Volkswagen Jetta;Караганда;Econom
+Kudaymberlin Mynzhasarovich Yesengali;77775256122;981ВЕА09;white;Nissan Qashqai;Караганда;Econom
+Tsoy Yeduard Viktorovich;77017287720;243МVА09;black;Audi 100;Караганда;Econom
+Rabotyagov Vasiliy Vladimirovich;77472471052;954GСА09;white;BMW 5er;Караганда;Econom
+Valeyev Damir Maratovich;77475454254;Н744397;white;Mercedes-Benz C-klasse;Караганда;Econom
+Zakharov Sergey Yuryevich;77003723955;778ВАZ09;gray;LADA (ВАЗ) Granta;Караганда;Econom
+Knekht Vladimir Viktorovich;77009696402;314FJА09;white;Daewoo Matiz;Караганда;Econom
+Mandiyev Yerlan Orazkhanovich;77005595918;229UСА09;white;Nissan Sunny;Караганда;Econom
+Ivchenko Yuriy Vyacheslavovich;77003227794;209DGА09;gray;LADA (ВАЗ) Granta;Караганда;Econom
+Ulmesekov Ruslan Kharkeshovich;77055433773;545ВQА09;gray;Hyundai Accent;Караганда;Econom
+Mukatayev Dulat Saparovich;77751563385;596ВАZ09;red;Opel Astra;Караганда;Econom
+Boychuk Aleksey Sergeyevich;77026636343;М661ОРМ;red;Volkswagen Passat;Караганда;Econom
+Samat D?uren Khasen?ly;77768606680;645ЕWА07;white;Hyundai Elantra;Караганда;Econom
+Gostev Yevgeniy Konstantinovich;77712871707;241SNА09;gray;LADA (ВАЗ) 2115;Караганда;Econom
+Yakshuk Leonidovich Aleskandr;77015264232;697VNА09;gray;Volkswagen Polo;Караганда;Econom
+Amanbekov Vladislav Kairovich;77782080583;580ЕQА09;black;BMW 5er;Караганда;Econom
+Kashitsyn Aleksey Dmitriyevich;77005752075;М234АОN;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Aman Aydyn Gildyuly;77078012340;550SWА096;black;Honda Accord;Караганда;Econom
+Felk Igor Vladimirovich;77759511243;М625LМN;white;Renault Clio;Караганда;Econom
+Ivannikov Vladimir Alekseyevich;77086745391;568ТКА09;white;Renault Logan;Караганда;Econom
+Zhumagulov Rustem;77072065151;711СGА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Kusembayev Sabyrzhan Kadenovich;77023713121;451VZА09;gray;BMW 5er;Караганда;Econom
+Baygazinov Yerdos Rakhmetollayevich;77014439902;442ULА09;white;Mitsubishi Lancer;Караганда;Econom
+Omarov Rustem Ziyadayevich;77772295990;М510FNN;red;Mercedes-Benz E-klasse;Караганда;Econom
+Bayzhumanov Vitaliy Umralayevich;77013600476;934UNА09;blue;Nissan Quest;Караганда;Econom
+Kazhken Alisher Daurenuly;77779490109;046МСZ08;white;LADA (ВАЗ) Granta;Караганда;Econom
+Vasilyev Aleksandr Nikolayevich;77004708386;М148УТМ;green;Mazda 6;Караганда;Econom
+Smirnov Maksim Vladimirovich;77789265924;238СIА09;yellow;Toyota Camry;Караганда;Econom
+Bayzhanov Kuat Tursynovich;77776791689;728VАZ09;gray;Kia Rio;Караганда;Econom
+Nefedov Pavel Anatolyevich;77775277240;827РВА09;red;LADA (ВАЗ) 2110;Караганда;Econom
+Ayvazyan Araik;77005999639;676FQА09;white;LADA (ВАЗ) Priora;Караганда;Econom
+Usatov Vyacheslav Valeriyevich;77004187338;951КНА09;white;Renault Logan;Караганда;Econom
+Akhmerov Rafael Gabdullovich;77081434337;652WАА09;white;LADA (ВАЗ) 2114;Караганда;Econom
+Yugay Yuriy Sergeyevich;77770101611;253КХА10;blue;Hyundai Solaris;Караганда;Econom
+Sergaliyev Almaz Talgatovich;77085176564;870КRG09;black;Nissan Sunny;Караганда;Econom
+Agabayev Tolegen Lesbayevich;77083955862;870VIZ09;blue;Chevrolet Cruze;Караганда;Econom
+Kashuba Konstantin Olegovich;77022161642;485SZА09;light blue;BMW 3er;Караганда;Econom
+Sadykov Medet Kusmanuly;77014058117;М344АМN;gray;Audi 80;Караганда;Econom
+Shtenko Viktoriya Eduardovna;77011913152;958RСА09;black;Hyundai Accent;Караганда;Econom
+Gepting Viktor Nikolayevich;77086559679;537VУА09;gray;Volkswagen Vento;Караганда;Econom
+Azhmukhametov Sergey Albertovich;77755874651;398LТА09;blue;Peugeot 307;Караганда;Econom
+Bynyayev Valeriy Vladimirovich;77003325338;М915NWМ;blue;Volkswagen Passat;Караганда;Econom
+Kraynov Kirill Vasilyevich;77009623801;785ULА09;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Maltsev Aleksandr Ivanovich;77053175567;735NFА09;gray;Renault 21;Караганда;Econom
+Tselakov Ivan Nikolayevich;77476507119;488NNА09;green;Toyota Avalon;Караганда;Econom
+Starikov Roman Nikolayevich;77750617444;770ТУА09;yellow;Nissan Maxima;Караганда;Econom
+Manuylo Denis Dmitriyevich;77078664686;346НJА09;green;BMW 3er;Караганда;Econom
+Penev Ivan Fedorovich;77771363749;905UUА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Pershin Yevgeniy Nikolayevich;77778931555;537DJА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Lyulkin Anton Gennadyevich;77055875111;419VУА09;gray;LADA (ВАЗ) Granta;Караганда;Econom
+Pylayev Vasiliy Aleksandrovich;77004577151;564ОDА09;white;Volkswagen Passat;Караганда;Econom
+Almukhametov Vitaliy Vilgelmovich;77079265112;484VFА09;black;Audi 80;Караганда;Econom
+Kurunov Pavel Mikhaylovich;77765600015;F324709;black;Mercedes-Benz E-klasse;Караганда;Econom
+Burakov Valeriy Igorevich;77017052813;480SZА09;black;Volkswagen Golf;Караганда;Econom
+Sabirov Azamat Abdukamalovich;77081095127;NVА62109;red;Audi 80;Караганда;Econom
+Yafyasov Rafail Ibragimovich;77472168807;Х824КН96;gray;Hyundai Solaris;Караганда;Econom
+Amzesh Aydyn;77007767793;572СQА09;black;Audi 80;Караганда;Econom
+Nurmagambetov Askhat Taurbayevich;77001420001;766РЕА09;gray;Mitsubishi Galant;Караганда;Econom
+Arstanov Sultan Zakanbeko Oly;77477038060;248URА09;gray;Volkswagen Bora;Караганда;Econom
+Zavotpayev Abay Izbasarovich;77770737704;М107FТN;white;LADA (ВАЗ) Priora;Караганда;Econom
+Nusupov Nural Dalabayevich;77787100805;070NКА09;black;LADA (ВАЗ) Granta;Караганда;Econom
+Rakhimzhanov Zhalgas Ardakovich;77024436803;529SSА09;red;Opel Astra;Караганда;Econom
+Kustov Nikolay Nikolayevich;77056294180;609VСZ09;green;Audi 100;Караганда;Econom
+Myrzagereyev Talgat Konratbayevich;77025905204;993UUА09;white;Renault Logan;Караганда;Econom
+Tazhibayev Ryzykbay Aytmagambetovich;77052880877;399РUА09;blue;Opel Astra;Караганда;Econom
+Ospanov Yerkenovich Kanat;77002393857;М715ВSN;red;Audi 80;Караганда;Econom
+Barulin Maksim Anatolyevich;77053025544;Н804740;brown;Skoda Fabia;Караганда;Econom
+Nabiyev Aybek Muratovich;77476236889;719АСА09;white;LADA (ВАЗ) Priora;Караганда;Econom
+Upabekov Serikpay Muksunovich;77472561889;782АJА09;red;Audi 80;Караганда;Econom
+Rakhmetzhan Ulan Yerboluly;77022758699;551РUА09;white;LADA (ВАЗ) 2114;Караганда;Econom
+Akhmetov Temirlan Nurlanbekovich;77083668223;704ОМА09;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Kim Konstantinovich Andrey;77017346513;259LLА09;beige;Hyundai Elantra;Караганда;Econom
+Aubakirov Baglan Maralovich;77011370023;531VСА09;gray;BMW 5er;Караганда;Econom
+Ablaisov Omirzak Ravan-?ly;77015342021;372СGА09;beige;Nissan Almera;Караганда;Econom
+Selyanov Anatoliy Yevgenyevich;77083573054;582РЕА09;red;Mazda Cronos;Караганда;Econom
+Aktayev Nurzhan Bayanovich;77776724482;253NХА09;white;Skoda Rapid;Караганда;Econom
+Batyashov Leonid Nikolayevich;77086689501;297СIА09;green;Mitsubishi Pajero;Караганда;Econom
+Zhanamkulov Amangeldy Shynybekovich;77013144582;570UVА09;green;Volkswagen Jetta;Караганда;Econom
+Zhakish Abay Sayatuly;77476068160;933VМА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+?ayrberlin D?ulet Zhanbolat?ly;77053003313;661СQА09;red;Mercedes-Benz E-klasse;Караганда;Econom
+Dikanov Ilya Yuryevich;77756644433;М272LЕN;gray;SsangYong Actyon Sports;Караганда;Econom
+Utepbergenov Yerbol Sandibayevich;77003580714;910UDА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Bondarenko Vitaliy Nikolayevich;77013186307;692GВА09;red;Volkswagen Golf;Караганда;Econom
+Omarov Ardan Zhanbyrbayevich;77750266126;499МDZ01;black;Kia Sorento;Караганда;Econom
+Nysanbayev Yerbolat Aytuganovich;77078261581;379DQА09;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Volodin Sergey Nikolayevich;77019824218;399GВА09;white;Mazda MPV;Караганда;Econom
+Fedotov Yevgeniy Mikhaylovich;77009747347;472КVА09;gray;Volkswagen Golf Plus;Караганда;Econom
+Boshayev Aslan Nurmanovich;77710060126;У790ТА;blue;LADA (ВАЗ) 2109;Караганда;Econom
+Kalmykov Andrey Sergeyevich;77474739167;147ТСА09;blue;Mercedes-Benz E-klasse;Караганда;Econom
+Tasymov Arstan Zhilkubayevich;77017338614;668SХА09;gray;Kia Rio;Караганда;Econom
+Mustafin Askhat Amantayevich;77086180820;098VWА09;gray;Audi 80;Караганда;Econom
+Kramer Aleksandr Teodorovich;77017407481;319LVА09;black;Volkswagen Golf;Караганда;Econom
+Ivanov Vladimrovich Denis;77003122195;037UСА09;red;Volkswagen Golf;Караганда;Econom
+Nesterov Yuriy Alekseyevich;77774877940;201НЕА09;red;Volkswagen Passat;Караганда;Econom
+Te Vladimir Valeryevich;77011918104;589ОNА09;black;Volkswagen Polo;Караганда;Econom
+Puchkov Oleg Aleksandrovich;77003165287;958АWА09;blue;Mercedes-Benz E-klasse;Караганда;Econom
+Mukhametzhanov Sandybek Kalimoldanovich;77025897128;М052ВVN;black;Mercedes-Benz E-klasse;Караганда;Econom
+Bekov Mukhtar Tusipovich;77789483013;763VУА09;beige;LADA (ВАЗ) Largus;Караганда;Econom
+Chuyko Viktor;77753865777;М624ТDМ;gray;Volkswagen Passat;Караганда;Econom
+Rekhlov Denis Anatolyevich;77765165393;497МУА09;brown;LADA (ВАЗ) Priora;Караганда;Econom
+Khasenova Rada Yerbolovna;77053030778;КGВН0859;light blue;Honda Fit;Караганда;Econom
+Toyshubekov Azamat Sovetovich;77475515513;682UUА09;blue;Volkswagen Passat;Караганда;Econom
+Manambekov Talgat Ibragimovich;77089595903;697КFА09;white;Kia Rio;Караганда;Econom
+Ruf Irina Yuryevna;77059785608;223КАZ09;gray;Toyota Camry;Караганда;Econom
+Shevtsova Raisa Umerbekovna;77015570805;М477АОN;red;Volkswagen Golf;Караганда;Econom
+Lazarchenko Dmitriy Vyacheslavovich;77052125021;434СVА09;white;Skoda Octavia;Караганда;Econom
+Kenzhebayev Talgat Yerkebekovich;77713518537;356СGА09;blue;Toyota Carina;Караганда;Econom
+Zhumadilov Rustem Yerkegaliyevich;77000270584;408DLА09;white;BMW 3er;Караганда;Econom
+Zakharov Gennadii Nikolayevich;77714086076;М573UРМ;gray;Audi A6;Караганда;Econom
+Alimkhanov Yusup Ilyasovich;77778906185;816КRG09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Ongarbayev Kayrat;77001124454;250VSА09;gray;Daewoo Lanos;Караганда;Econom
+Vorozheykin Aleksandr Viktorovich;77013756050;М895FОN;blue;Volkswagen Passat;Караганда;Econom
+Gayd Dmitriy Valeryevich;77472475800;629VSА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+?on?arbayev Zharas ?ayyrgeldі?ly;77079969594;214GАА09;gray;Opel Omega;Караганда;Econom
+Kochenov Aleksandr Viktorovich;77027510220;154СQА09;white;LADA (ВАЗ) Priora;Караганда;Econom
+Zhumabayev Bauyrzhan Maralbekovich;77014300022;229VSА09;white;Hyundai Avante;Караганда;Econom
+Goltsman Denis Olegovich;77479199098;011СIА09;gray;Mitsubishi Galant;Караганда;Econom
+Grigoryev Nikolay Nikolayevich;77012409212;382DJА09;red;Audi 90;Караганда;Econom
+Roganov Sergey Valeryevich;77051348006;809НОА09;black;Renault Duster;Караганда;Econom
+Galiyev Ayan Shakarimovich;77751711251;619ТZА09;green;Mazda 626;Караганда;Econom
+Karchin Dmitriy Valentinovich;77078555761;589VНА09;violet;Audi 80;Караганда;Econom
+Bazhibayev Talgat Yeginbayevich;77058273838;М016НZN;black;LADA (ВАЗ) Kalina;Караганда;Econom
+Brezhnev Yuriy Viktorovich;77084933113;614ТМА09;violet;Toyota Ipsum;Караганда;Econom
+Mukyshev Azat Bolatovich;77072243691;340ОSА09;black;Audi A4;Караганда;Econom
+Aldabergenov Kanat Kidirbayevich;77015161379;232VIА09;black;LADA (ВАЗ) Priora;Караганда;Econom
+Tashkenbayev Zhangeldi Amangeldiyevich;77089554193;428FХА09;white;Kia Rio;Караганда;Econom
+Ospanov Bolat Kapyshevich;77017511343;733ОUА09;black;Mercedes-Benz A-klasse;Караганда;Econom
+Kazyuta Sergey Nikolayevich;77089112681;М064FLN;light blue;Daewoo Nexia;Караганда;Econom
+Ospanov Yerlan Yerkynovich;77785486333;307ВIА09;red;Audi 100;Караганда;Econom
+Niyezmakhmadzoda Davron;77712395308;С361СХ174;gray;Hyundai Accent;Караганда;Econom
+Tagayev Nurgali Umirbayevich;77004954432;441SRА09;black;Nissan Qashqai;Караганда;Econom
+Chernov Aleksandr Aleksandrovich;77472024787;672МWА09;white;LADA (ВАЗ) Priora;Караганда;Econom
+Seleznev Dmitriy Olegovich;77078570585;667URА;white;Volkswagen Passat;Караганда;Econom
+Novikov Sergey Vladimirovich;77009172935;М285NSМ;gray;Audi A4;Караганда;Econom
+Tolepbergenov Askhat Tolepbergenovich;77083322331;862ОНА09;gray;Opel Astra;Караганда;Econom
+Karmenbayev Kayyrbek Muratovich;77051037879;815ОХА09;gray;Mitsubishi Outlander;Караганда;Econom
+Pleshkov Aleksandr Nikolayevich;77023055988;476UВА09;green;Volkswagen Passat;Караганда;Econom
+Oshkov Nikolay Andreyevich;77779101666;904КНА09;gray;Hyundai Accent;Караганда;Econom
+Durmagambetov Marat Akhmedovich;77759258343;М132LЕN;blue;Ford Focus;Караганда;Econom
+Sabikenov Daryn Bayrzhanovich;77755465357;878UZА09;blue;BMW 5er;Караганда;Econom
+Kazhanbayev Temirkhan Tuleukulovich;77003915453;М384VVМ;black;Volkswagen Passat;Караганда;Econom
+Bayshagirov Baurzhan Khayrullovich;77017485130;983ВVА09;gray;Nissan Juke;Караганда;Econom
+Turganbetov Bakhy Zhasiuzakovich;77085530386;461VDА09;gray;Daewoo Gentra;Караганда;Econom
+Zhiyenkulov Bauyrzhan Kudaybergenovich;77012938595;174САZ09;blue;Mazda 6;Караганда;Econom
+Baratov Kanatbek Baratuly;77476375901;502МХА05;white;Mitsubishi Outlander;Караганда;Econom
+Bayer Vladimirovich Aleksey;77001353636;155VWА09;red;Nissan Primera;Караганда;Econom
+Sadchenko Olesya Anatolyevna;77772692819;431НJА09;gray;Renault Sandero;Караганда;Econom
+Kuturman Aleksandr Mikhaylovich;77003643412;М177WРМ;gray;Volkswagen Passat;Караганда;Econom
+Chashchin Andrey Nikolayevich;77774166347;201UFА09;green;Volkswagen Golf;Караганда;Econom
+Dalibekov Rustam Kanatovich;77026985656;246NWА09;white;Hyundai Accent;Караганда;Econom
+Saytarly Sergey Mikhaylovich;77024285939;F010409;white;Renault Logan;Караганда;Econom
+Omirbekov Zhandos Adilbekovich;77081689868;068ЕQА09;white;Mazda 626;Караганда;Econom
+Mynbayev Zhanibek;77759356631;401GАА09;black;Audi A4;Караганда;Econom
+Mynzhanov Dastan Kayrbekovich;77765013249;524LНА09;white;Volkswagen Polo;Караганда;Econom
+Zagarinskiy Konstantin Vyacheslavovich;77088288313;618ТVА09;gray;LADA (ВАЗ) Priora;Караганда;Econom
+Ormanov Anuar Rashidovich;77770505766;М260DFN;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Gatsenbiller Sergey Aleksandrovich;77077359359;F279109;green;Mercedes-Benz C-klasse;Караганда;Econom
+Gorbunov Andrey Anatolyevich;77073460145;189VJА09;yellow;LADA (ВАЗ) 21099;Караганда;Econom
+Naumov Yevgeniy Aleksandrovich;77026840383;365ЕLА09;blue;Volkswagen Passat;Караганда;Econom
+Begaydarov Alibek;77754506722;964VFZ09;light blue;Volkswagen Passat;Караганда;Econom
+Kusainov Zhanat Kamatovich;77773743581;214СОА09;white;Nissan Qashqai;Караганда;Econom
+Starchak Ilya Valeryevich;77024226230;255МЕА09;violet;Hyundai Solaris;Караганда;Econom
+Kulkeyev Vladimir Seitovich;77024999998;М227ЕМN;black;Hyundai Sonata;Караганда;Econom
+Bloshchenko Dmitrii Nikolayevich;77072510192;670GАА09;gray;Skoda Yeti;Караганда;Econom
+Feldman Anastasiya Sergeyevna;77089106813;876ЕJА09;gray;Hyundai Getz;Караганда;Econom
+Appasov Serzhan Serikovich;77082369220;М342УZМ;gray;Mitsubishi Outlander;Караганда;Econom
+Shestakov Dmitriy Aleksandrovich;77003190488;М397FРN;gray;Audi A4;Караганда;Econom
+Kim Nikolay Olegovich;77076767627;775АЕZ09;black;LADA (ВАЗ) Kalina;Караганда;Econom
+Khilimonchik Vladimir Lyudvigovich;77002015002;290ЕIА09;orange;Hyundai Accent;Караганда;Econom
+Lazarets Vladimir Ilich;77014114190;362ВSА09;blue;Mercedes-Benz E-klasse;Караганда;Econom
+Sukhorukov Danil Olegovich;77789903916;565НZА09;black;LADA (ВАЗ) Granta;Караганда;Econom
+Nurmukhanov Rashid Nasibollayevich;77013905042;990LМА09;gray;Toyota Avalon;Караганда;Econom
+Abeuov Rustam Raimbekovich;77003294776;098LZА09;black;Chevrolet Aveo;Караганда;Econom
+Poletayev Viktor Alekseyevich;77017424565;КZМ630ЕNN;red;Toyota Carina;Караганда;Econom
+Asharin Oleg Nikolayevich;77014300200;0116СА102;light blue;Daewoo Nexia;Караганда;Econom
+Aygistov Mikhail Glebovich;77071244210;803МРА09;black;SsangYong Rexton;Караганда;Econom
+Khotin Aleksandr Aleksandrovich;77003788367;770АSА09;gray;Hyundai Getz;Караганда;Econom
+Dasayev Rafail Fyaritovich;77014136059;611АGА09;green;Honda Odyssey;Караганда;Econom
+Kernebayeva Malika Kairdinova;77754540754;М342УММ;black;Volkswagen Golf;Караганда;Econom
+Yakovenko Kirill Olegovich;77759089343;760КRG09;black;LADA (ВАЗ) 2114;Караганда;Econom
+Kusainov Dzhanbolat Bulatovich;77072525365;Р656УНМ;violet;Volkswagen Passat;Караганда;Econom
+Trynov Pavel Georgiyevich;77771088889;997VМА09;white;Volkswagen Golf;Караганда;Econom
+Batayev Konstantin Aripovich;77077510763;786МТА09;yellow;Volkswagen Polo;Караганда;Econom
+Kim Pavel Yuryevich;77003069950;235NВА09;green;Opel Vectra;Караганда;Econom
+Turebekov Timur Damirovich;77005455847;656VIА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Kulzhambekov Dauren Tauyekeluly;77056338931;243FZА09;white;LADA (ВАЗ) 2114;Караганда;Econom
+Sukurlukov Didar Kenzhebekovich;77474369214;062МUА09;black;Mazda CX-7;Караганда;Econom
+Yusupov Rustam Ruslanovich;77757508473;302SRА09;black;Mercedes-Benz E-klasse;Караганда;Econom
+Bebeshko Vladimir Aleksandrovich;77770501608;М211LСN;white;LADA (ВАЗ) Granta;Караганда;Econom
+Khasenov Yerkinbay Nabiyevich;77012616746;909LСА09;black;Mercedes-Benz C-klasse;Караганда;Econom
+Feshchenko Tatyana Vladimirovna;77001737697;958ОАА09;yellow;Volkswagen Bora;Караганда;Econom
+Ivanovskiy Aleksandr Leonidovich;77471741235;М110РВМ;white;Mitsubishi Space Runner;Караганда;Econom
+Romanenko Pavel Anatolyevich;77765630909;563DWА09;gray;Skoda Rapid;Караганда;Econom
+Kairbayev Daulet Rakhimovich;77027767767;765DQА09;gray;LADA (ВАЗ) Priora;Караганда;Econom
+Sutemgenov Zhanat Baktybayevich;77754751007;386ВGА09;black;Toyota Windom;Караганда;Econom
+Lobanov Aleksandr Yevgenyevich;77016525351;627ОZА09;blue;Volkswagen Caravelle;Караганда;Econom
+Baybakushev Serik Tleubayevich;77778913591;672СQА09;light blue;Toyota Camry;Караганда;Econom
+Malyuchenko Konstantin Aleksandrovich;77015239157;705LFА09;gray;LADA (ВАЗ) Granta;Караганда;Econom
+Tyl Konstantin Yuryevich;77079003839;933FWА09;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Aydarkhanov Marat Zhartayevich;77757815501;061DВZ09;white;Nissan X-Trail;Караганда;Econom
+Yurevich Yaroslav Yuryevich;77756790303;Т219ВА116;red;LADA (ВАЗ) 2114;Караганда;Econom
+Kondratyev Aleksandr Fedorovich;77474933638;М795NSМ;white;Mazda Millenia;Караганда;Econom
+Gusev Aleksandr Ivanovich;77753082343;039VRА09;brown;LADA (ВАЗ) Granta;Караганда;Econom
+Kuseynov Maksubek Skakbekovich;77023651366;424VJZ09;black;Mercedes-Benz E-klasse;Караганда;Econom
+Maksutov Olzhas Maksutovich;77479557038;390ОХА09;yellow;Audi A4;Караганда;Econom
+Atagulov Gani Muratuly;77719043444;М594VКМ;black;LADA (ВАЗ) 2110;Караганда;Econom
+Smirnov Dmitriy Aleksandrovich;77073074911;448ТКА09;gray;Volkswagen Vento;Караганда;Econom
+Vergun Aleksandr Alekseyevich;77006363360;551ЕJА09;gray;Volkswagen Passat;Караганда;Econom
+Tleuberdinov Mirat Zhenisbekovich;77012993213;645DGА09;gray;Mitsubishi Outlander;Караганда;Econom
+Desyatnikov Ivan Nikolayevich;77003163836;424UОА09;gray;Mitsubishi Sigma;Караганда;Econom
+Bartko Dmitriy Andreyevich;77055899217;524ВХА09;blue;BMW 7er;Караганда;Econom
+Bondarenko Sergey Pavlovich;77478288951;М326КТN;white;ГАЗ 3110 «Волга»;Караганда;Econom
+Bakenov Aytuar Bolatovich;77755573786;735WАА09;blue;Volkswagen Golf;Караганда;Econom
+Vorobyeva Aleksandra Sergeyevna;77762224947;822UUА09;white;LADA (ВАЗ) 2114;Караганда;Econom
+Antonov Dmitriy;77017596259;722ЕНА09;gray;Volkswagen Golf;Караганда;Econom
+Dolgikh Maksim Ramilyevich;77088995902;382МLА09;yellow;Volkswagen Polo;Караганда;Econom
+Bespalov Aleksandr Vladimirovich;77003141427;М036ZWМ;blue;Toyota Gaia;Караганда;Econom
+Zhashkeyev Abylay Meyrmanovich;77021299016;175VОА09;gray;Mercedes-Benz C-klasse;Караганда;Econom
+Beysembay?ly Sherkhan;77085545553;330FАА09;gray;Mitsubishi Galant;Караганда;Econom
+Kurmanov Salamat;77011849678;686VУА09;brown;LADA (ВАЗ) 2106;Караганда;Econom
+Koyshybayev Ali Nurymovich;77475618382;558FНА09;beige;Nissan Almera;Караганда;Econom
+Abishev Kaiyrbek Balykovich;77020578313;М728АОN;white;Toyota Carina;Караганда;Econom
+Osipov Andrey Anatolyevich;77713692491;М244ККN;black;Audi 80;Караганда;Econom
+Baytasov Adil Cerikovich;77011234403;604UUА09;gray;Audi A4;Караганда;Econom
+Kuznetsov Aleksandr Alekseyevich;77765988558;М839FVN;beige;Nissan Note;Караганда;Econom
+Kulmagambetov Aydar Maratovich;77479191691;138АQА09;white;Volkswagen Polo;Караганда;Econom
+Abildin Almat Toktamysovich;77755367807;238NZА09;white;Lexus RX;Караганда;Econom
+Karchin Sergey Valentinovich;77073203561;058FWА09;red;Volkswagen Polo;Караганда;Econom
+Bagramov Yermek Sharapovich;77001230440;536ТDА09;white;LADA (ВАЗ) Granta;Караганда;Econom
+Revyagin Nikolay Aleksandrovich;77022882448;122ТZА09;blue;Volkswagen Passat;Караганда;Econom
+Zhakenov Oraz Toktarovich;77021763248;664ВJА09;red;Audi 100;Караганда;Econom
+Yelemesov Askar Sattarovich;77081436900;179UТА09;black;Opel Vectra;Караганда;Econom
+Kozhabayev Talysbayevich Maulet;77023829288;271NZА09;white;Toyota Camry;Караганда;Econom
+Muravyev Dmitriy Viktorovich;77013498715;М434ZВМ;violet;Mercedes-Benz E-klasse;Караганда;Econom
+Iskakova Aygul Rakhmetullovna;77017305219;979РНА09;black;LADA (ВАЗ) Granta;Караганда;Econom
+Nurkasheva Zhazira Beybitovna;77770744488;438ТNА09;gray;Mercedes-Benz E-klasse;Караганда;Econom
+Spanova Lyazat Shingyskhanova;77017887805;М825WUМ;black;Mitsubishi Lancer;Караганда;Econom
+Seyfullin Nurlan Muratovich;77012211567;437МNА09;black;Geely GC6;Караганда;Econom
+Baizbayev Bagdat Besinbekovich;77086926130;М605ХDМ;gray;Audi A6;Караганда;Econom
+Yershov Denis Mikhaylovich;77003072050;358СРА09;blue;Audi A4;Караганда;Econom
+Yakovlev Oleg Aleksandrovich;77474169590;732NКА09;gray;Audi A4;Караганда;Econom
+Kopytsyak Kirill Vitalyevich;77074605014;063ВQА09;blue;Mercedes-Benz C-klasse;Караганда;Econom
+Sevalnev Dmitriy Aleksandrovich;77716178156;М014КUN;green;BMW 5er;Караганда;Econom
+Bekker Mikhail Aleksandrovich;77009178020;663FАА09;gray;Chevrolet Niva;Караганда;Econom
+Nuralin Alibek Kazbekovich;77712677023;050RМЕ02;black;Toyota Camry;Караганда;Econom
+Makhayev Zhanbyrbay Amangeldiyevich;77710069595;668LZА09;blue;Renault Logan;Караганда;Econom
+Berezin Anatoliy Anatolyevich;77074986185;057ННА14;red;Mitsubishi Galant;Караганда;Econom
+Kenzhebayev Medet Zhanatovich;77752020163;139SЕА;gray;Toyota Camry;Караганда;Econom
+Abishev Serik Zholamanovich;77001331729;862КZА09;gray;Volkswagen Passat;Караганда;Econom
+Goncharov Andrey Nikolayevich;77003070379;512АТА09;gray;Toyota RAV 4;Караганда;Econom
+Batykov Bogen Asautayevich;77778910141;208DGА09;white;ГАЗ 3110 «Волга»;Караганда;Econom
+Urbanik Aleksandr Vladimirovich;77012929876;590NОА09;gray;Toyota Camry;Караганда;Econom
+Korostil Semen Gennadyevich;77773219784;М580SFМ;green;Volkswagen Jetta;Караганда;Econom
+Gorol Oleg Vladimirovich;77019137575;802VSА09;gray;Volkswagen Golf;Караганда;Econom
+Tomanov Medet Kayrzhanovich;77710444245;065ЕGА9;black;Volkswagen Passat;Караганда;Econom
+Ibragimov Sherzadkhan Azatkhanovich;77077678878;136МАZ17;gray;Volkswagen Passat;Караганда;Econom
+Makarov Anatoliy Aleksandrovich;77755529777;239VСА09;white;Mercedes-Benz E-klasse;Караганда;Econom
+Abdrakhmanov Kemel Abdrakhmanovich;77005752095;072РDА09;gray;Toyota Avensis;Караганда;Econom
+Myrzabayev Aset Almasovich;77073051774;633VDА09;green;Mitsubishi Montero Sport;Караганда;Econom
+Komshabayev Ruslan Aleksandrovich;77765038483;226VУА09;green;LADA (ВАЗ) 2110;Караганда;Econom
+Syadro Petr Ivanovich;77771368495;750VJА09;white;Volkswagen Vento;Караганда;Econom
+Aytbekov Baurzhan Kenesovich;77072490451;185DЕА09;gray;Volkswagen Bora;Караганда;Econom
+Asarov Akmal Asqr O'G'Li;998998280068;01L068WА;белый;Daewoo Nexia;Ташкент;Econom
+Salamullaev Sadulla;998974242910;01С461СВ;белый;Daewoo Matiz;Ташкент;Econom
+Shodiev Toshboir;998977101790;01Т853АВ;серый;Chevrolet Spark;Ташкент;Econom
+Исроилов Аваз Нигмфтиллаевич;998909027959;01D129ЕВ;серый;Daewoo Matiz;Ташкент;Econom
+Самандаров Алишер Ботыр Угли;998909319666;01С986FВ;белый;Chevrolet Spark;Ташкент;Econom
+Кадыров Даврон;998974434828;01О998МА;белый;Chevrolet Spark;Ташкент;Econom
+Burxan-Xodjayev Sobirxon;998990050199;01G188ZА;белый;Ravon Nexia R3;Ташкент;Econom
+Batirov Sarvar 0945;998935373728;10J850МА;белый;Chevrolet Cobalt;Ташкент;Econom
+Садыков Мурод Талипжанович;998933968983;01610ЕFА;белый;Chevrolet Cobalt;Ташкент;Econom
+Kuzubaev Khusan Batirovich;998993045818;01432JFА;белый;Daewoo Nexia;Ташкент;Econom
+Назаров Камолиддин Джумадуллаевич;998909525595;01Q128ЕВ;белый;Ravon Nexia R3;Ташкент;Econom
+Валеев Радик Фанурович;998974704055;01Н058ХА;белый;Daewoo Nexia;Ташкент;Econom
+Baltabaev Aktambek 1711;998998431023;01М180КА;белый;Daewoo Matiz;Ташкент;Econom
+Hushbakov Ilyosjon Abdurazzoq Ogli;998909404177;01Х217ВВ;белый;Daewoo Matiz;Ташкент;Econom
+Pivkin Georgiy;998946076250;01А337АВ;белый;Daewoo Matiz;Ташкент;Econom
+Shaakbarov Shokhrukh Shukhratovich;998909006342;01Р458ЕВ;белый;Chevrolet Spark;Ташкент;Econom
+Юлдашев Афзалхон Мансурханович;998990005595;10927QВА;белый;Ravon Nexia R3;Ташкент;Econom
+Пулатов Гиёсиддин Захриддинович;998903511565;01Q234ВВ;чёрный;Chevrolet Lacetti;Ташкент;Econom
+Alimov Baxrom;998998186696;01F204LА;серый;LADA (ВАЗ) Kalina;Ташкент;Econom
+Mirzamutov Mirabzal Xxx;998993098019;01R432ВВ;белый;Daewoo Matiz;Ташкент;Econom
+Рахмонов Шахобоз Умирзокович;998909413723;10N459DА;серый;Daewoo Matiz;Ташкент;Econom
+Arslanov Abdumajid Abdumalikovich 10215;998999020925;01D398ХА;белый;Daewoo Matiz;Ташкент;Econom
+Пайгамов Шохрухжон;998974200226;01Х299VА;белый;Daewoo Nexia;Ташкент;Econom
+Алмардонов Шавкат Алмардон;998909630215;70В029ОА;белый;Ravon Nexia R3;Ташкент;Econom
+Зияходжаев Улугбек Юсуфович;998946043300;01D097VА;белый;Chevrolet Spark;Ташкент;Econom
+Mukhamedov Davron;998977090849;01Р852QА;синий;Chevrolet Spark;Ташкент;Econom
+Shadmanov Zakir;998935661354;01Р352RА;бежевый;Daewoo Matiz;Ташкент;Econom
+Гадаев Бахтиёр Косимович;998909224487;01458GЕА;синий;Daewoo Nexia;Ташкент;Econom
+Кахрамонов Ифтихор Собиржон Угли;998909129993;01К525ТА;серый;Chevrolet Cobalt;Ташкент;Econom
+Aronov Aleksandr;998998690113;01М588LА;красный;Daewoo Matiz;Ташкент;Econom
+Yerzin Roald;998909492279;01С240DА;серый;LADA (ВАЗ) Kalina;Ташкент;Econom
+Камалов Нодир Нуритдинович;998971313336;01В765УА;белый;Daewoo Nexia;Ташкент;Econom
+Xakimov Abror 2159;998903286719;01F779ВВ;белый;Chevrolet Spark;Ташкент;Econom
+Kharbiyanov Ramil;998903254067;01161ТТG;белый;Chevrolet Lacetti;Ташкент;Econom
+Nabiyev Abdulloh;998977077668;01Т476РА;белый;Chevrolet Spark;Ташкент;Econom
+Azizov Bahtiyor;998903450012;01L401UА;белый;Daewoo Matiz;Ташкент;Econom
+Malikov Sherzad 4236;998944026400;10К538QА;белый;Ravon Gentra;Ташкент;Econom
+Абдуллаев Сайфулла Эхайруллаевич;998935986575;10W776МА;белый;Ravon Nexia R3;Ташкент;Econom
+Abduraxmanov Xasan;998977482255;01J693VА;белый;Chevrolet Spark;Ташкент;Econom
+Tuychiyev Baxrom;998998835417;01186ХFА;белый;Ravon Nexia R3;Ташкент;Econom
+Sidikov Bekjan Ulugbekovich;998998371170;10F889МА;чёрный;Chevrolet Lacetti;Ташкент;Econom
+Yakubbaev Shawkat;998946074094;01340ТТG;бежевый;Daewoo Matiz;Ташкент;Econom
+Маджитов Санжарбек Абдурашитович;998990082833;60М490NА;белый;Chevrolet Cobalt;Ташкент;Econom
+Muhammedjonov Khidoyat Ma'Ruf O'G'Li 02443;998946222225;01Q174АВ;белый;Daewoo Matiz;Ташкент;Econom
+Пятков Роман Николаевич10070;998977780328;01J367ТА;зелёный;Chevrolet Spark;Ташкент;Econom
+Негматулин Дамир;998909129131;01Р783UА;серый;Daewoo Nexia;Ташкент;Econom
+Hankeldiev Rahmonjon Neymadjonovich;998935657382;01А690WА;белый;Daewoo Matiz;Ташкент;Econom
+Ubaydullaev Azimjon Ubaydullayevich;998946939767;01Т621ВВ;белый;Daewoo Nexia;Ташкент;Econom
+Журабоев Абдулло;998974210806;01N532АВ;белый;Daewoo Matiz;Ташкент;Econom
+Tashmatov Hamidullo Habibulla Ogli;998934296964;60Е636МА;белый;Chevrolet Spark;Ташкент;Econom
+Дадабоев Исломбек Нигматович;998935685552;01N287ЕВ;серый;Chevrolet Spark;Ташкент;Econom
+Сидиков Рустам Ровшанович;998974703103;01К749DА;чёрный;Daewoo Matiz;Ташкент;Econom
+Madaminov Iqboljon;998909894446;01К860SА;синий;Chevrolet Spark;Ташкент;Econom
+Berdikulov Ergash Djurabayevich;998901880711;01Q271SА;белый;Chevrolet Spark;Ташкент;Econom
+Nurmuxamedov Shavkat Taxirovich;998909338357;01V955СВ;серый;Chevrolet Cobalt;Ташкент;Econom
+Alimov Baxodir;998946979899;01N939DВ;чёрный;Chevrolet Spark;Ташкент;Econom
+Нуралиев Анвар Абсаматович;998946525580;01G593QА;серый;Daewoo Matiz;Ташкент;Econom
+Khodjayev Khamidilla;998990020289;01К145ЕВ;серый;Ravon Nexia R3;Ташкент;Econom
+Shakhidoyatov Murodjon;998909058549;01Х684ТА;чёрный;Daewoo Nexia;Ташкент;Econom
+Ташматов Шухрат;998997925336;01М289VА;бежевый;Daewoo Matiz;Ташкент;Econom
+Abbosov Dilshod;998977031414;01R616МА;чёрный;Chevrolet Lacetti;Ташкент;Econom
+Xasanov Saidkosim Saidkarimovich;998911900204;01Z541АВ;белый;Daewoo Matiz;Ташкент;Econom
+Хакназаров Икром Рузиевич;998909200065;01G831UА;бежевый;Daewoo Matiz;Ташкент;Econom
+Rakhmatov Lazizbek;998998428506;01М864GА;белый;Daewoo Nexia;Ташкент;Econom
+Tursunboyev Marufjon To'Lqin O'Gli;998977816265;10N749КА;серый;Daewoo Nexia;Ташкент;Econom
+Абдумовланов Рустам;998994823831;10К323RА;белый;Chevrolet Spark;Ташкент;Econom
+Olimov Dilmurod;998977399020;01В456УА;белый;Chevrolet Spark;Ташкент;Econom
+Мардонов Жонибек Давронович;998935617044;30В323РА;серый;Ravon Nexia R3;Ташкент;Econom
+Шержанов Ахметжон;998903273070;01К764JА;белый;Daewoo Matiz;Ташкент;Econom
+Хамдамов Зухриддин;998972809229;80G432NА;серый;Ravon Nexia R3;Ташкент;Econom
+Abduqodirov Nuriddin Abdumomin O'Gli;998909603019;01R242QА;коричневый;Chevrolet Spark;Ташкент;Econom
+Saidov Nurmuxammad Xikmat O`G`Li 02765;998977412111;01Н696УА;белый;Chevrolet Spark;Ташкент;Econom
+Usarov Muhammatjon;998952020002;01F552ZА;белый;Ravon Nexia R3;Ташкент;Econom
+Kasimov Utkir;998917796868;10U630QА;чёрный;Daewoo Nexia;Ташкент;Econom
+Гусейнов Вагиф;998909015130;01F574АВ;белый;Daewoo Matiz;Ташкент;Econom
+R'Oziyev Omon Qo'Chqor O'Gli10190;998935041333;10G604RА;белый;Daewoo Matiz;Ташкент;Econom
+Тошев Жавлонбек;998974490250;01О250ВВ;белый;Ravon Nexia R3;Ташкент;Econom
+G'Aniev Al Khorun;998977548252;01S577АВ;белый;Ravon Nexia R3;Ташкент;Econom
+Bekmurodov Sardor;998909583700;01А329FВ;белый;Ravon Nexia R3;Ташкент;Econom
+Saidov Shuhrat;998946869995;01U983DВ;белый;Daewoo Nexia;Ташкент;Econom
+Sakhiboev Tugil Keldiyarovich;998935287988;01N585ТА;белый;Chevrolet Cobalt;Ташкент;Econom
+Nuraliyev Lochinbek Abdusalomovich;998905504931;01У372DВ;серый;Ravon Nexia R3;Ташкент;Econom
+Xikmatov Rustamjon;998998378619;01683ТТG;бежевый;Chevrolet Cobalt;Ташкент;Econom
+Кобилов Тухтасин;998956040000;01С887КА;белый;Chevrolet Lacetti;Ташкент;Econom
+Xalmatov Otabek Shanigmat O'G'Li;998946696979;01О583SА;белый;Chevrolet Cobalt;Ташкент;Econom
+Бобоев Фарзод;998901107793;10Р417QА;белый;Daewoo Matiz;Ташкент;Econom
+Musayev Doniyor Utkurovich;998909590054;01S075КА;бежевый;Daewoo Nexia;Ташкент;Econom
+Эшмуродов Уктам;998998461100;01В292ЕВ;белый;Ravon Nexia R3;Ташкент;Econom
+Исаков Шохрух Хамиджонович;998903926280;01164ХFА;белый;Ravon Nexia R3;Ташкент;Econom
+Вахобов Туймурод Яхёвич;998977301406;01О927СВ;голубой;Chevrolet Spark;Ташкент;Econom
+Хикматов Жавохир;998903243131;01Q208АВ;серый;Daewoo Matiz;Ташкент;Econom
+Яманкулов Исматулла Якшибоевич;998903155443;01Q635ОА;фиолетовый;Daewoo Nexia;Ташкент;Econom
+Kodirov Fakhriddin Zayniddinovich;998977462523;01М547АВ;голубой;Daewoo Nexia;Ташкент;Econom
+Джабаров Рустам;998946422545;01782ТТG;бежевый;Daewoo Nexia;Ташкент;Econom
