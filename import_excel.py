@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 import os
 import sys
-# тест: проверяю git
+
 # Путь к базе данных (рядом со скриптом)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_PATH = os.path.join(BASE_DIR, "workers.db")
